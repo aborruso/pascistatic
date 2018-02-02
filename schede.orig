@@ -1,0 +1,1154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it" dir="ltr">
+
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>PALERMOSCIENZA</title>
+
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="palermo, scienza, didattica, didattica informale, exhibit, mostre, laboratori, strumenti scientifici antichi, macchine matematiche, scuola, fisica, chimica, biologia, scienze della terra, matematica" />
+<style type="text/css">@import url(sites/all/modules/tagadelic/tagadelic.css);</style>
+        <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ctools/css/ctools.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/fivestar/css/fivestar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/lightbox2/css/lightbox.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/mollom/mollom.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/oembed/oembed.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/tagadelic/tagadelic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/forum/forum.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/misc/farbtastic/farbtastic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/calendar/calendar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/panels/css/panels.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/layout.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/graphics.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/typography.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/links.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/giordani/giordani.css?i" />
+
+        <!--[if IE 6]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie6.css" />
+      <![endif]-->
+
+        <!--[if IE 7]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie7.css" />
+      <![endif]-->
+
+
+        <script type="text/javascript" src="/misc/jquery.js?i"></script>
+<script type="text/javascript" src="/misc/drupal.js?i"></script>
+<script type="text/javascript" src="//var/nadir/drupal/palermoscienza/languages/it_790dce158f5eb1dfc93047e4aacef555.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/equalheights/jquery.equalheights.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/fivestar/js/fivestar.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/auto_image_handling.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/mollom/mollom.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views/js/base.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views/js/ajax_view.js?i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "fivestar": { "titleUser": "Il tuo voto: ", "titleAverage": "Media: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Il tuo voto è stato salvato.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": "0", "file_path": "/(\\w\\w/)system/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 1, "force_show_nav": 0, "show_caption": true, "loop_items": 1, "node_link_text": "", "node_link_target": 0, "image_count": "Immagine !current di !total", "video_count": "Video !current of !total", "page_count": "Pagina !current di !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "preview", "image_node_sizes": "(\\.thumbnail)", "trigger_lightbox_classes": "img.flickr-photo-img,img.flickr-photoset-img", "trigger_lightbox_group_classes": "img.thumbnail, img.image-thumbnail", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 }, "views": { "ajax_path": "/views/ajax", "ajaxViews": [ { "view_name": "schede", "view_display_id": "page_1", "view_args": "", "view_path": "schede", "view_base_path": "schede", "view_dom_id": 1, "pager_element": 0 } ] } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){$('.eqheight').equalHeights().css('overflow', 'visible');});
+//--><!]]>
+</script>
+    </head>
+
+
+    <body>
+
+        <div id="utilities">
+            <form action="/schede"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Cerca nel sito: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Inserisci i termini da cercare." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Cerca"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-44ff4e9c9c360600e306841be7da7294" value="form-44ff4e9c9c360600e306841be7da7294"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+
+                            <div id="plinks">
+                <ul class="links primary-links"><li class="menu-285 first"><a href="/" title="Benvenuti">Home</a></li>
+<li class="menu-2067"><a href="/associazione-palermoscienza" title="Associazione PALERMOSCIENZA">L&#039;associazione</a></li>
+<li class="menu-6708"><a href="/esperienza-insegna-story" title="">Esperienza inSegna</a></li>
+<li class="menu-415"><a href="/news" title="">News</a></li>
+<li class="menu-329"><a href="/contact" title="Contattaci">Contattaci</a></li>
+<li class="menu-1191"><a href="http://newsletter.palermoscienza.it/lists/?p=subscribe&amp;id=3" title="La Newsletter di PALERMOSCIENZA">Newsletter</a></li>
+<li class="menu-337"><a href="/link" title="Link">Link</a></li>
+<li class="menu-6671 last"><a href="/social" title="">Social</a></li>
+</ul>
+                </div>                    </div>
+
+
+        <div id="page">
+
+            <div id="header">
+                
+                
+                <div id="casa_cn">
+                    <div id="casa">
+                        <a href="/">
+                            <span id="logo">
+                            </span>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+
+            
+
+
+
+            <div class="wrapper"><!--wrapper:defines whole content margins-->
+
+                <!-- left -->
+                                <div class="lsidebar">
+
+
+                        
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2017</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="expanded first last"><a href="/esperienza-insegna-2017" title="">Esperienza inSegna 2017</a><ul class="menu"><li class="leaf first"><a href="/esperienza-insegna-2017/dove" title="">Dove</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/informazioni" title="">Informazioni</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/quando" title="">Quando</a></li>
+<li class="leaf last"><a href="/esperienza-insegna-2017/calendario" title="">Calendario</a></li>
+</ul></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2016</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2016" title="">Esperienza inSegna 2016</a></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2015</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2015" title="">Esperienza inSegna 2015</a></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 07-08</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first"><a href="/attivit%C3%A0-svolte" title="Attività">Attività svolte</a></li>
+<li class="leaf last active-trail"><a href="/schede" title="" class="active">Schede didattiche</a></li>
+</ul></div>
+</div>
+ <div class="loginblock">
+    <h2 class="login">Login utente</h2><!--block title-->
+   <div class="blockcontent"><form action="/schede?destination=schede"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Nome utente: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Accedi"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="/user/password" title="Richiedi una nuova password per e-mail.">Richiedi una nuova password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-c20b2c09d1dea43800162445297802e1" value="form-c20b2c09d1dea43800162445297802e1"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+                </div><!-- end left -->
+                    
+
+
+                <div id="primary" class="long">
+                     <div class="singlepage">
+                         <div class="path"><p><span>You are here</span></p></div>
+                    
+                    
+                                        <div class="drdot">
+                        <hr />
+                    </div>
+
+
+<div class="view view-schede view-id-schede view-display-id-page_1 view-dom-id-1">
+        <div class="view-header">
+      <a href="/category/disciplina/astronomia" class="tagadelic level1" rel="tag">Astronomia</a> 
+<a href="/category/disciplina/biologia" class="tagadelic level3" rel="tag">Biologia</a> 
+<a href="/category/tag/calore" class="tagadelic level2" rel="tag">calore</a> 
+<a href="/category/disciplina/chimica" class="tagadelic level5" rel="tag">Chimica</a> 
+<a href="/category/tag/colore" class="tagadelic level3" rel="tag">colore</a> 
+<a href="/category/tag/elettricit%C3%A0" class="tagadelic level1" rel="tag">elettricità</a> 
+<a href="/category/disciplina/fisica/elettromagnetismo" class="tagadelic level3" rel="tag">Elettromagnetismo</a> 
+<a href="/category/disciplina/fisica" class="tagadelic level6" rel="tag">Fisica</a> 
+<a href="/category/disciplina/indefinito" class="tagadelic level4" rel="tag">Indefinito</a> 
+<a href="/category/tag/leggere-lambiente" class="tagadelic level4" rel="tag">leggere l&#039;ambiente</a> 
+<a href="/category/tag/luce" class="tagadelic level3" rel="tag">luce</a> 
+<a href="/category/tag/magnetismo" class="tagadelic level1" rel="tag">magnetismo</a> 
+<a href="/category/disciplina/matematica" class="tagadelic level4" rel="tag">Matematica</a> 
+<a href="/category/disciplina/fisica/meccanica" class="tagadelic level3" rel="tag">Meccanica</a> 
+<a href="/category/tag/onde" class="tagadelic level2" rel="tag">onde</a> 
+<a href="/category/tag/oscillazioni" class="tagadelic level2" rel="tag">oscillazioni</a> 
+<a href="/category/tag/risonanza" class="tagadelic level1" rel="tag">risonanza</a> 
+<a href="/category/tag/rotolamento" class="tagadelic level1" rel="tag">rotolamento</a> 
+<a href="/category/tag/suono" class="tagadelic level1" rel="tag">suono</a> 
+<a href="/category/tag/temperatura" class="tagadelic level2" rel="tag">temperatura</a> 
+<a href="/category/tag/terra" class="tagadelic level4" rel="tag">terra</a> 
+<a href="/category/tag/universo" class="tagadelic level4" rel="tag">universo</a> 
+<a href="/category/tag/visione" class="tagadelic level3" rel="tag">visione</a> 
+<p></p>    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+      <h3>Disciplina: <a href="/category/disciplina/fisica">Fisica</a></h3>
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/lo-stregatto">Lo stregatto</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/lupin-e-la-gabbia-di-faraday">Lupin e la gabbia di Faraday</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-giro-della-morte">Il giro della morte</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/chi-arriva-prima">Chi arriva prima?</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/dinamo-gravitazionale">Dinamo gravitazionale</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/sistemi-non-inerziali-dimagrire-in%E2%80%A6discesa">Sistemi non inerziali: dimagrire in…discesa</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/stetoscopio-sonante-cucchiaio">Stetoscopio sonante a cucchiaio</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/galleggiamento-di-liquidi-liquidi">Galleggiamento di liquidi in liquidi</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/lo-spettroscopio">Lo Spettroscopio</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-10 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/le-foto-capovolte">Le foto capovolte</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/equilibrio-su-un-piano-inclinato">Equilibrio su un piano inclinato</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-12 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/le-ombre-colorate">Le ombre colorate</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/doppio-cono-e-cilindro-salita">Doppio cono e cilindro in salita</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-14 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/barchette-e-onde-tra-due-liquidi">Barchette e onde tra due liquidi</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-15 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/diavolino-di-cartesio">Diavolino di Cartesio</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-16 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/i-pendoli-di-newton">I pendoli di Newton</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-17 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/spettroscopio">Spettroscopio</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-18 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-torcia-elettromagnetica">La torcia elettromagnetica</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-19 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/barchette-e-onde-tra-due-liquidi-0">Barchette e onde tra due liquidi</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-20 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/dilatazione-termica-cubica-piroscopio-ad-anello-di-gravesande">Dilatazione termica cubica. Piroscopio ad anello di Gravesande</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-21 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/vento-acqua-e-sole%E2%80%A6%E2%80%A6l%E2%80%99energia-che-non-si-esaurisce">Vento, acqua e sole……l’energia che non si esaurisce</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-22 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/propagazione-del-suono-nel-vuoto">Propagazione del suono nel vuoto</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-23 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/risonatori-ad-aste">Risonatori ad aste</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-24 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/giroscopio">Giroscopio</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-25 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/le-palline-rotanti">Le palline rotanti</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-26 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/una-fontana-eccezionale">Una fontana eccezionale</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-27 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/uovo-vapore">Uovo a vapore</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-28 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-macchina-di-erone">La macchina di Erone</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-29 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/paracadute-invisibile">Paracadute invisibile</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-30 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/riflessioni-multiple">Riflessioni multiple</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-31 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-principio-di-archimede">Il Principio di Archimede</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-32 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/molla-che-scende-le-scale">Molla che scende le scale</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-33 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/mr-smile">Mr. Smile</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-34 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-prosciugamento-di-un-lago">Il prosciugamento di un lago</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-35 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-disco-di-newton">Il disco di Newton</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-36 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/colore-e-calore">Colore e calore</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-37 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/sistemi-inerziali-sistemi-di-puntamento">Sistemi inerziali: sistemi di puntamento</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-38 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/disegno-e-coloro-con-l%E2%80%99acqua">Disegno e coloro con l’acqua</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-39 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/uovo-che-galleggia">Uovo che galleggia</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-40 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/motore-luce">Motore a luce</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-41 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/scalda-e-fredda">Scalda e fredda</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-42 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/osservatore-rotante">Osservatore rotante</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-43 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/comincia-da-sopra-come-fa-reggersi-questa-catasta">Comincia da sopra. Come fa a reggersi questa catasta?</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-44 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/equilibrio-di-corpi-appoggiati">Equilibrio di corpi appoggiati</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-45 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-sommergibile-di-nemo">Il sommergibile di Nemo</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-46 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/moto-perpetuo">Moto perpetuo...?</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-47 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/orologio-frutta">Orologio a frutta</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-48 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/camera-di-ames">Camera di Ames</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-49 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/l%E2%80%99elettroforo-di-volta">L’elettroforo di Volta</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-50 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-vulcano-sottomarino-empedocle">Il Vulcano Sottomarino Empedocle</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-51 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-pagliaccio-sulle-parallele">Il pagliaccio sulle parallele</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-52 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-crepavesciche">Il crepavesciche</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-53 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/sfera-di-plasma">Sfera di plasma</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-54 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/un-termometro-un-po%E2%80%99-speciale">Un termometro un po’ speciale</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-55 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/anelli-risonanti-0">Anelli risonanti</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-56 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/pila-mano">Pila a mano</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-57 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-palloncino-rizza-capelli">Il palloncino rizza capelli</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-58 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/pendoli-gemelli">Pendoli gemelli</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-59 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-trottola-ubriaca">La trottola ubriaca</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-60 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-chiave-di-volta">La chiave di volta</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-61 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/dal-mulino-ad-acqua-alla-centrale-idroelettrica-la-turbina">Dal mulino ad acqua alla centrale idroelettrica: la turbina</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-62 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/spazi-infiniti">Spazi infiniti</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-63 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/che-forza">Che forza!</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-64 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/come-trovare-il-baricentro">Come trovare il baricentro</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-65 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/banco-di-melloni">Banco di Melloni</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-66 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/l%E2%80%99elettroscopio-foglie-alluminio">L’elettroscopio a foglie alluminio</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-67 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/l%E2%80%99-ascensore-idraulico">L’ ascensore idraulico</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-68 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/anelli-risonanti">Anelli risonanti</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-69 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/io-e-tu">Io e tu</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-70 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/prisma-di-newton">Prisma di Newton</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-71 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-flauto-di-pan">Il flauto di Pan</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-72 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/galleggiamento-di-solidi-liquidi">Galleggiamento di solidi in liquidi</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-73 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-chiodo-che-diventa-una-elettrocalamita">Il chiodo che diventa una elettrocalamita</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-74 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-pendolo-caotico">Il pendolo caotico</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-75 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-colore-delle-bolle-di-sapone">Il colore delle bolle di sapone</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-76 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-trottola-capricciosa">La trottola capricciosa</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-77 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/ebollizione">Ebollizione</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-78 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/lo-specchio-antigravit%C3%A0">Lo Specchio Antigravità</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-79 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-sommergibile-ad-aria">Il sommergibile ad aria</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-80 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/qual-%C3%A8-pi%C3%B9-viscoso-prova-anche-tu">Qual è più viscoso? Prova anche tu</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-81 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/pallina-danzante">Pallina danzante</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-82 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/elevatore-vento">Elevatore a vento</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-83 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-caleidoscopio">Il caleidoscopio</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-84 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-pendolo-semplice">Il pendolo semplice</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-85 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-fontana-sottovetro">La fontana sottovetro</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-86 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/energia-societ%C3%A0-e-sviluppo-dal-medioevo-all%E2%80%99-%E2%80%9Cenergia-pulita%E2%80%9D">Energia, società e sviluppo: dal Medioevo all’ “energia pulita”</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-87 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/verifica-della-presenza-della-pressione-atmosferica">Verifica della presenza della pressione atmosferica</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-88 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/arco-matite">Arco a matite</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-89 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/velocit%C3%A0-tangenziale-e-velocit%C3%A0-angolare">Velocità tangenziale e velocità angolare</a></span>
+  </div>
+</li>
+      </ul>
+</div><div class="item-list">
+      <h3>Disciplina: <a href="/category/disciplina/chimica">Chimica</a></h3>
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-distillazione">La distillazione</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/i-coloranti">I coloranti</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/liquido-non-newtoniano">Liquido non newtoniano</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/vulcano">Vulcano</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/gel-dei-puffi">Gel dei puffi</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/i-colori-del-mondo-con-gli-indicatori">I colori del mondo con gli indicatori</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/bachelite">Bachelite</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/polare-o-non-polare-questo-%C3%A8-il-problema">Polare o non polare, questo è il problema</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/reazione-oscillante">Reazione oscillante</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-10 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/fontana-colorata">Fontana colorata</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-gioco-dei-4-bicchieri">Il gioco dei 4 bicchieri</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-12 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-cromatografia%E2%80%A6-mamma-mia-che-fantasia">La cromatografia… mamma mia che fantasia!</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/strega-comanda-colore">Strega comanda colore</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-14 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/oro-che-scompare">Oro che scompare</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-15 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/estrazione-con-solventi">Estrazione con solventi</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-16 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/si-scioglie-non-si-scioglie">Si scioglie, non si scioglie</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-17 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/vernice-gialla">Vernice gialla</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-18 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/l%E2%80%99aspirina">L’aspirina</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-19 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/i-polimeri">I polimeri</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-20 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/cloruri-nelle-acque">Cloruri nelle acque</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-21 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/distillazione-del-petrolio-guerra-e-inquinamento">Distillazione del petrolio = guerra e inquinamento</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-22 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/riconoscimento-dell%E2%80%99amido-con-reattivo-di-lugol">Riconoscimento dell’amido con reattivo di Lugol</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-23 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-filtrazione">La filtrazione</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-24 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/riconoscimento-degli-zuccheri-riducenti">Riconoscimento degli zuccheri riducenti</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-25 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/purificazione-di-una-sostanza-mezzo-della-cristallizzazione">Purificazione di una sostanza per mezzo della cristallizzazione</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-26 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/distillazione">Distillazione</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-27 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-vitamina-c-fra-storia-chimica-e-salute">La vitamina C fra storia, chimica e salute</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-28 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-danza-delle-palline">La danza delle palline</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-29 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/sangue-scenico">Sangue scenico</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-30 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/pioggia-d%E2%80%99oro">Pioggia d’oro</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-31 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/inchiostro-simpatico">Inchiostro simpatico</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-32 views-row-even views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-centrifugazione">La centrifugazione</a></span>
+  </div>
+</li>
+      </ul>
+</div><div class="item-list">
+      <h3>Disciplina: <a href="/category/disciplina/biologia">Biologia</a></h3>
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-dna-della-frutta">Il dna della frutta</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/determinazione-di-macromolecole-biologiche">Determinazione di macromolecole biologiche</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/le-basi-genetiche-della-selezione-naturale-e-della-biodiversit%C3%A0">Le basi genetiche della selezione naturale e della biodiversità</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/dna-game">DNA game</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/drosophila-melanogaster">Drosophila melanogaster</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/costruzione-di-una-membrana-biologica-membrane-game">Costruzione di una membrana biologica. Membrane game</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/i-funghi-che-mistero">I funghi, che mistero!</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-8 views-row-even views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/modelli-di-membrana-plasmatica-e-processo-osmotico">Modelli di membrana plasmatica e processo osmotico</a></span>
+  </div>
+</li>
+      </ul>
+</div><div class="item-list">
+      <h3>Disciplina: <a href="/category/disciplina/indefinito">Indefinito</a></h3>
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-traiettoria-diurna-del-sole">La traiettoria diurna del sole</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/l-alternarsi-del-d%C3%AC-e-della-notte">L&#039; alternarsi del dì e della notte</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/meridiano-locale-e-punti-cardinali">Meridiano locale e punti cardinali</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/altezza-del-sole-lo-gnomone-di-carta-0">Altezza del sole. Lo gnomone di carta</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/macchina-traccia-cicloide">Macchina traccia Cicloide</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/altezza-del-sole-lo-gnomone-di-carta">Altezza del sole. Lo gnomone di carta</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-collasso-di-una-lattina">Il collasso di una lattina</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-cicloide-e-la-caduta-dei-gravi">La cicloide e la caduta dei gravi</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/l-altezza-del-sole-e-gnomone-di-carta">L&#039; altezza del sole e gnomone di carta</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-10 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/mezzogiorno-locale">Mezzogiorno locale</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/tutti-gi%C3%B9-terra-aria-terra-0">Tutti giù per terra aria in terra</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-12 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-doppia-proiezione-centrale-e-le-trasformazioni-omologiche-nel-piano">La doppia proiezione centrale e le trasformazioni omologiche nel piano</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/le-stagioni">Le stagioni</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-14 views-row-even views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/doppio-cono">Doppio cono</a></span>
+  </div>
+</li>
+      </ul>
+</div><div class="item-list">
+      <h3>Disciplina: <a href="/category/disciplina/fisica/meccanica">Meccanica</a></h3>
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/gara-di-discesa">Gara di discesa</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/ruota-di-bicicletta-e-momento-angolare">Ruota di bicicletta e momento angolare</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-suono-del-moto">Il suono del moto</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/un-rocchetto-autoavvolgente">Un rocchetto auto-avvolgente</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-gara-discesa">La gara in discesa</a></span>
+  </div>
+</li>
+      </ul>
+</div><div class="item-list">
+      <h3>Disciplina: <a href="/category/disciplina/fisica/elettromagnetismo">Elettromagnetismo</a></h3>
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-forza-su-due-conduttori-paralleli">La forza su due conduttori paralleli</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-disco-di-arago">Il disco di Arago</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-macchina-di-wimshurst-0">La macchina di Wimshurst</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-paracadute-magnetico">Il paracadute magnetico</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-conducibilit%C3%A0-elettrica">La conducibilità elettrica</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/spira-e-magnete">Spira e magnete</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/esperimento-di-oersted">Esperimento di Oersted</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-batteria-mano">La batteria a mano</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-9 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/sistema-di-carrucole-con-vincolo-al-centro-dellasta">Sistema di carrucole con vincolo al centro dell&#039;asta</a></span>
+  </div>
+</li>
+      </ul>
+</div><div class="item-list">
+      <h3>Disciplina: <a href="/category/disciplina/matematica">Matematica</a></h3>
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/ellissografo-di-leonardo">Ellissografo di Leonardo</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/generazione-di-quartiche-lemniscata-di-bernoulli-sistema-articolato">Generazione di quartiche: lemniscata di Bernoulli (sistema articolato)</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/generazione-di-quartiche-lemniscata-di-bernoulli">Generazione di quartiche. Lemniscata di Bernoulli</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/conicografi-filo-teso-iperbole">Conicografi a filo a teso: iperbole</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/propriet%C3%A0-ottiche-della-parabola-%E2%80%93-specchi-parabolici">Proprietà ottiche della parabola – specchi parabolici</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/conicografi-filo-teso-parabola">Conicografi a filo a teso: parabola</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/inversore-di-peaucellier">Inversore di Peaucellier</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/la-macchina-di-wimshurst">La macchina di Wimshurst</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/cifratori-automatici">Cifratori automatici</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-10 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/i-numeri-dei-sumeri">I numeri dei Sumeri</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-11 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/terne-pitagoriche">Terne pitagoriche</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-12 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/biellismo-del-delauney">Biellismo del Delauney</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-13 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/biellismo-simmetrie-assiali-ortogonali">Biellismo per simmetrie assiali ortogonali</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-14 views-row-even views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/ellissografo-di-proclo">Ellissografo di Proclo</a></span>
+  </div>
+</li>
+      </ul>
+</div><div class="item-list">
+      <h3>Disciplina: <a href="/category/disciplina/astronomia">Astronomia</a></h3>
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/schede/il-cielo-una-stanza">Il cielo in una stanza</a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>                 </div>
+            </div>
+
+
+
+            <!-- right -->
+                
+
+
+            <div class="clear"></div>
+
+        </div>
+
+        </div>
+        <!-- Close Page -->
+
+        <div id="footer">
+        
+
+   <p><a href="//www.iubenda.com/privacy-policy/808816" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a></p>
+<script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>        </div>
+<script src="http://cdn.wibiya.com/Toolbars/dir_1133/Toolbar_1133932/Loader_1133932.js" type="text/javascript"></script><noscript><a href="http://www.wibiya.com/">Web Toolbar by Wibiya</a></noscript><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-90058-23"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+    </body>
+</html>

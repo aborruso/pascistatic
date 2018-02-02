@@ -1,0 +1,607 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it" dir="ltr">
+
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>News | PALERMOSCIENZA</title>
+
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ctools/css/ctools.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/fivestar/css/fivestar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/lightbox2/css/lightbox.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/mollom/mollom.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/oembed/oembed.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/tagadelic/tagadelic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/forum/forum.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/misc/farbtastic/farbtastic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/calendar/calendar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/panels/css/panels.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/layout.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/graphics.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/typography.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/links.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/giordani/giordani.css?i" />
+
+        <!--[if IE 6]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie6.css" />
+      <![endif]-->
+
+        <!--[if IE 7]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie7.css" />
+      <![endif]-->
+
+
+        <script type="text/javascript" src="/misc/jquery.js?i"></script>
+<script type="text/javascript" src="/misc/drupal.js?i"></script>
+<script type="text/javascript" src="//var/nadir/drupal/palermoscienza/languages/it_790dce158f5eb1dfc93047e4aacef555.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/equalheights/jquery.equalheights.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/fivestar/js/fivestar.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/auto_image_handling.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/mollom/mollom.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?i"></script>
+<script type="text/javascript" src="/misc/tableheader.js?i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "fivestar": { "titleUser": "Il tuo voto: ", "titleAverage": "Media: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Il tuo voto è stato salvato.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": "0", "file_path": "/(\\w\\w/)system/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 1, "force_show_nav": 0, "show_caption": true, "loop_items": 1, "node_link_text": "", "node_link_target": 0, "image_count": "Immagine !current di !total", "video_count": "Video !current of !total", "page_count": "Pagina !current di !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "preview", "image_node_sizes": "(\\.thumbnail)", "trigger_lightbox_classes": "img.flickr-photo-img,img.flickr-photoset-img", "trigger_lightbox_group_classes": "img.thumbnail, img.image-thumbnail", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){$('.eqheight').equalHeights().css('overflow', 'visible');});
+//--><!]]>
+</script>
+    </head>
+
+
+    <body>
+
+        <div id="utilities">
+            <form action="/news/palermoscienza-esperienza-insegna-2012/palermoscienza-esperienza-insegna-2012/informazioni-e-prenotazioni?page=14"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Cerca nel sito: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Inserisci i termini da cercare." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Cerca"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-1db95140435d0b31cba978c2a4cce10e" value="form-1db95140435d0b31cba978c2a4cce10e"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+
+                            <div id="plinks">
+                <ul class="links primary-links"><li class="menu-285 first"><a href="/" title="Benvenuti">Home</a></li>
+<li class="menu-2067"><a href="/associazione-palermoscienza" title="Associazione PALERMOSCIENZA">L&#039;associazione</a></li>
+<li class="menu-6708"><a href="/esperienza-insegna-story" title="">Esperienza inSegna</a></li>
+<li class="menu-415 active-trail"><a href="/news" title="">News</a></li>
+<li class="menu-329"><a href="/contact" title="Contattaci">Contattaci</a></li>
+<li class="menu-1191"><a href="http://newsletter.palermoscienza.it/lists/?p=subscribe&amp;id=3" title="La Newsletter di PALERMOSCIENZA">Newsletter</a></li>
+<li class="menu-337"><a href="/link" title="Link">Link</a></li>
+<li class="menu-6671 last"><a href="/social" title="">Social</a></li>
+</ul>
+                </div>                    </div>
+
+
+        <div id="page">
+
+            <div id="header">
+                
+                
+                <div id="casa_cn">
+                    <div id="casa">
+                        <a href="/">
+                            <span id="logo">
+                            </span>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+
+            
+
+
+
+            <div class="wrapper"><!--wrapper:defines whole content margins-->
+
+                <!-- left -->
+                                <div class="lsidebar">
+
+
+                        
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2017</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="expanded first last"><a href="/esperienza-insegna-2017" title="">Esperienza inSegna 2017</a><ul class="menu"><li class="leaf first"><a href="/esperienza-insegna-2017/dove" title="">Dove</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/informazioni" title="">Informazioni</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/quando" title="">Quando</a></li>
+<li class="leaf last"><a href="/esperienza-insegna-2017/calendario" title="">Calendario</a></li>
+</ul></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2016</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2016" title="">Esperienza inSegna 2016</a></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2015</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2015" title="">Esperienza inSegna 2015</a></li>
+</ul></div>
+</div>
+ <div class="loginblock">
+    <h2 class="login">Login utente</h2><!--block title-->
+   <div class="blockcontent"><form action="/news/palermoscienza-esperienza-insegna-2012/palermoscienza-esperienza-insegna-2012/informazioni-e-prenotazioni?destination=news%2Fpalermoscienza-esperienza-insegna-2012%2Fpalermoscienza-esperienza-insegna-2012%2Finformazioni-e-prenotazioni%3Fpage%3D14"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Nome utente: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Accedi"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="/user/password" title="Richiedi una nuova password per e-mail.">Richiedi una nuova password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-a150bdcb243e3849078f57447dafdd9d" value="form-a150bdcb243e3849078f57447dafdd9d"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+                </div><!-- end left -->
+                    
+
+
+                <div id="primary" class="long">
+                     <div class="singlepage">
+                         <div class="path"><p><span>You are here</span>News</p></div>
+                    
+                    <h1>News</h1>
+                                        <div class="drdot">
+                        <hr />
+                    </div>
+
+
+<div class="view view-ps-news view-id-ps_news view-display-id-page_1 view-dom-id-1">
+        <div class="view-header">
+      <p>Le ultime notizie di PalermoScienza</p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/esperienza-insegna-pillole-24-2-2011">esperienza inSegna in pillole - 24-2-2011</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">25 febbraio 2011</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>E scusate il ritardo :)</p>
+<p>&nbsp;</p>
+<div align="center">
+<object id="vp10GvDB" width="540" height="300" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="movie" value="http://static.animoto.com/swf/w.swf?w=swf/vp1&e=1298640979&f=0GvDBYTE1qa9xo11eY2tWg&d=279&m=a&r=360p&start_res=360p&i=m&options="></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed id="vp10GvDB" src="http://static.animoto.com/swf/w.swf?w=swf/vp1&e=1298640979&f=0GvDBYTE1qa9xo11eY2tWg&d=279&m=a&r=360p&start_res=360p&i=m&options=" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="540" height="300"></embed></object></div>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_79 first"><a href="/category/keywords/2011" rel="tag" title="">2011</a></li>
+<li class="taxonomy_term_60"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+<li class="taxonomy_term_67 last"><a href="/category/keywords/pillole" rel="tag" title="">pillole</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/esperienza-insegna-pillole-23-2-2011">esperienza inSegna in pillole - 23-2-2011</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">24 febbraio 2011</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<div align="center">
+<object id="vp1NapAz" width="540" height="300" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="movie" value="http://static.animoto.com/swf/w.swf?w=swf/vp1&e=1298499329&f=NapAzwAvvhK0TbtSE1YBug&d=279&m=a&r=360p&start_res=360p&i=m&options="></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed id="vp1NapAz" src="http://static.animoto.com/swf/w.swf?w=swf/vp1&e=1298499329&f=NapAzwAvvhK0TbtSE1YBug&d=279&m=a&r=360p&start_res=360p&i=m&options=" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="540" height="300"></embed></object></div>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_79 first"><a href="/category/keywords/2011" rel="tag" title="">2011</a></li>
+<li class="taxonomy_term_60"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+<li class="taxonomy_term_58 last"><a href="/category/keywords/video" rel="tag" title="">video</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/esperienza-insegna-pillole-22-2-2011">esperienza inSegna in pillole - 22-2-2011</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">23 febbraio 2011</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>A domani ...</p>
+<div align="center">
+<object id="vp1W3QMm" width="540" height="300" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="movie" value="http://static.animoto.com/swf/w.swf?w=swf/vp1&e=1298415543&f=W3QMmD0GVTXQQxOxm0sS3Q&d=0&m=a&r=360p&start_res=360p&i=m&options="></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed id="vp1W3QMm" src="http://static.animoto.com/swf/w.swf?w=swf/vp1&e=1298415543&f=W3QMmD0GVTXQQxOxm0sS3Q&d=0&m=a&r=360p&start_res=360p&i=m&options=" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="540" height="300"></embed></object></div>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_79 first"><a href="/category/keywords/2011" rel="tag" title="">2011</a></li>
+<li class="taxonomy_term_60"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+<li class="taxonomy_term_58 last"><a href="/category/keywords/video" rel="tag" title="">video</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/esperianza-insegna-citt%C3%A0">esperienza inSegna in città</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">22 febbraio 2011</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>Quest&#39;anno <strong>PALERMOSCIENZA esperienza inSegna</strong> vivrà anche aldifuori del polididattico di Viale delle Scienze, e la potrete seguire in altri luoghi della città. Qui sotto <a href="http://www.palermoscienza.it/system/files/esperienza_insegna_in_citta_2011.pdf">calendario e programma</a> di <strong>PALERMOSCIENZA esperienza inSegna in città</strong>.</p>
+<p>Vi aspettiamo!</p>
+<div align="center">
+<object data="http://d1.scribdassets.com/ScribdViewer.swf" height="400" id="doc_70492" name="doc_70492" style="outline:none;" type="application/x-shockwave-flash" width="700"><param name="quality" value="high" /> <param name="movie" value="http://d1.scribdassets.com/ScribdViewer.swf" /> <param name="wmode" value="opaque" /> <param name="bgcolor" value="#ffffff" /> <param name="allowScriptAccess" value="always" /> <param name="FlashVars" value="document_id=49339534&amp;access_key=key-169nogszksjjotw9dmt8&amp;page=1&amp;viewMode=list" /> <embed allowscriptaccess="always" bgcolor="#ffffff" height="400" id="doc_70492" name="doc_70492" quality="high" src="http://d1.scribdassets.com/ScribdViewer.swf" style="outline:none;" type="application/x-shockwave-flash" width="700" wmode="opaque"></embed> </object></div>
+<table id="attachments" class="sticky-enabled">
+ <thead><tr><th>Allegato</th><th>Dimensione</th> </tr></thead>
+<tbody>
+ <tr class="odd"><td><a href="http://www.palermoscienza.it/system/files/esperienza_insegna_in_citta_2011.pdf">esperienza_insegna_in_citta_2011.pdf</a></td><td>1.53 MB</td> </tr>
+</tbody>
+</table>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_79 first"><a href="/category/keywords/2011" rel="tag" title="">2011</a></li>
+<li class="taxonomy_term_83"><a href="/category/keywords/citt%C3%A0" rel="tag" title="">città</a></li>
+<li class="taxonomy_term_60"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+<li class="taxonomy_term_61 last"><a href="/category/keywords/palermo" rel="tag" title="">palermo</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/pubblicate-le-schede-informative-di-semplicemente-nano">Pubblicate le schede informative di &quot;Semplicemente NANO&quot;</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">21 febbraio 2011</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>Abbiamo pubblicato le schede informative di &quot;<a href="http://www.palermoscienza.it/palermoscienza-esperienza-insegna-2011/exhibit/semplicemente-nano"><strong>Semplicemente NANO</strong></a>&quot;.&nbsp;</p>
+<p style="text-align: center; "><a href="http://www.palermoscienza.it/palermoscienza-esperienza-insegna-2011/exhibit/semplicemente-nano"><img alt="" src="/system/files/nano.png" style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; width: 642px; height: 908px; " /></a></p>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_79 first"><a href="/category/keywords/2011" rel="tag" title="">2011</a></li>
+<li class="taxonomy_term_60"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+<li class="taxonomy_term_82 last"><a href="/category/keywords/exhibit" rel="tag" title="">exhibit</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/esperienza-insegna-pillole-21-2-2011">esperienza inSegna in pillole - 21-2-2011</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">21 febbraio 2011</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>Con un pensiero speciale ai nostri <strong>esperti</strong>.</p>
+<div align="center">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" height="300" id="vp1krWEy" width="540"><param name="movie" value="http://static.animoto.com/swf/w.swf?w=swf/vp1&amp;e=1298321092&amp;f=krWEy7KPCLqzUQerN2SBvg&amp;d=0&amp;m=a&amp;r=360p&amp;start_res=360p&amp;i=m&amp;options=" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed allowfullscreen="true" allowscriptaccess="always" height="300" id="vp1krWEy" src="http://static.animoto.com/swf/w.swf?w=swf/vp1&amp;e=1298321092&amp;f=krWEy7KPCLqzUQerN2SBvg&amp;d=0&amp;m=a&amp;r=360p&amp;start_res=360p&amp;i=m&amp;options=" type="application/x-shockwave-flash" width="540"></embed></object></div>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_79 first"><a href="/category/keywords/2011" rel="tag" title="">2011</a></li>
+<li class="taxonomy_term_60"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+<li class="taxonomy_term_67"><a href="/category/keywords/pillole" rel="tag" title="">pillole</a></li>
+<li class="taxonomy_term_58 last"><a href="/category/keywords/video" rel="tag" title="">video</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/esperienza-insegna-pillole-20-2-20">esperienza inSegna in pillole - 20-2-2011</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">20 febbraio 2011</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>Eccoci alla seconda pillola, ricca di <strong>magia </strong>;-)</p>
+<div align="center">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" height="300" id="vp1RN1fy" width="540"><param name="movie" value="http://static.animoto.com/swf/w.swf?w=swf/vp1&amp;e=1298240610&amp;f=RN1fypfr0eq1ei6NseyGAA&amp;d=0&amp;m=a&amp;r=360p&amp;start_res=360p&amp;i=m&amp;options=" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed allowfullscreen="true" allowscriptaccess="always" height="300" id="vp1RN1fy" src="http://static.animoto.com/swf/w.swf?w=swf/vp1&amp;e=1298240610&amp;f=RN1fypfr0eq1ei6NseyGAA&amp;d=0&amp;m=a&amp;r=360p&amp;start_res=360p&amp;i=m&amp;options=" type="application/x-shockwave-flash" width="540"></embed></object></div>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_79 first"><a href="/category/keywords/2011" rel="tag" title="">2011</a></li>
+<li class="taxonomy_term_60"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+<li class="taxonomy_term_67"><a href="/category/keywords/pillole" rel="tag" title="">pillole</a></li>
+<li class="taxonomy_term_58 last"><a href="/category/keywords/video" rel="tag" title="">video</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/esperienza-insegna-pillole">esperienza inSegna 2011 in pillole</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">20 febbraio 2011</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>Anche quest&#39;anno vi proporremo delle pillole <strong>video</strong>, per ripercorrere velocemente le giornate di&nbsp;<strong>esperienza inSegna</strong>: per chi le ha vissute e per chi non è potuto stare con noi. Qui sotto la prima pillola :)</p>
+<p>&nbsp;</p>
+<div align="center">
+<object id="vp1fDr4j" width="540" height="300" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="movie" value="http://static.animoto.com/swf/w.swf?w=swf/vp1&e=1298240551&f=fDr4j8p9HBu62u0peTWhQg&d=0&m=a&r=360p&start_res=360p&i=m&options="></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed id="vp1fDr4j" src="http://static.animoto.com/swf/w.swf?w=swf/vp1&e=1298240551&f=fDr4j8p9HBu62u0peTWhQg&d=0&m=a&r=360p&start_res=360p&i=m&options=" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="540" height="300"></embed></object></div>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_79 first"><a href="/category/keywords/2011" rel="tag" title="">2011</a></li>
+<li class="taxonomy_term_60"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+<li class="taxonomy_term_58 last"><a href="/category/keywords/video" rel="tag" title="">video</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/il-conservatorio-di-musica-%E2%80%9Cvincenzo-bellini%E2%80%9D-questanno-%C3%A8-con-noi">Il Conservatorio di Musica “Vincenzo Bellini” quest&#039;anno è con noi</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">13 febbraio 2011</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p><span lang="it-IT">Quest&rsquo;anno il <a href="http://www.conservatoriobellini.it/"><strong>Conservatorio di Musica &ldquo;Vincenzo Bellini&rdquo; </strong></a></span><span lang="it-IT"><a href="http://www.conservatoriobellini.it/"><strong>AFAM</strong></a> (Alta Formazione Artistica e Musicale) di <strong>Palermo </strong>parteciperà alla manifestazione </span><span lang="it-IT"><i><b>Esperienza inSegna</b></i></span><span lang="it-IT">. </span></p>
+<p><span lang="it-IT">E&#39; una delle novità di quest&#39;anno. Cliccate <a href="/palermoscienza-esperienza-insegna-2011/espositori/conservatorio-di-musica-“vincenzo-bellini”"><strong>qui</strong></a>, per saperne di più.</span></p>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_79 first"><a href="/category/keywords/2011" rel="tag" title="">2011</a></li>
+<li class="taxonomy_term_81"><a href="/category/keywords/conservatorio" rel="tag" title="">conservatorio</a></li>
+<li class="taxonomy_term_60"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+<li class="taxonomy_term_61 last"><a href="/category/keywords/palermo" rel="tag" title="">palermo</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/africa-360%C2%B0">Africa a 360°</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">11 febbraio 2011</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>Tra le ultime attività dell&rsquo;Associazione PALERMOSCIENZA vi è la progettazione di un laboratorio interdisciplinare che, partendo dall&rsquo;analisi di una determinata realtà, svincola il processo cognitivo dalle classiche modalità di apprendimento scolastico.</p>
+<p>Il laboratorio <strong><em>Africa: terra, vita, cielo, ...</em></strong>nasce infatti con l&rsquo;intento di avvicinare giovani alunni alla (ri)scoperta del continente africano e delle sue caratteristiche, rielaborate attraverso gli strumenti universali delle discipline scientifiche (astronomia, matematica, geometria, fisica, chimica, geologia e biologia).</p>
+<p>Per saperne di più fai click <a href="/africa-360°"><strong>qui</strong></a>.</p>
+<p style="text-align: center;"><a href="/africa-360°" title="DSCN4743 by palermoscienza, on Flickr"><img alt="DSCN4743" height="375" src="http://farm5.static.flickr.com/4077/5434013273_509dc83acd.jpg" width="500" /></a></p>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_79 first"><a href="/category/keywords/2011" rel="tag" title="">2011</a></li>
+<li class="taxonomy_term_80"><a href="/category/keywords/africa" rel="tag" title="">Africa</a></li>
+<li class="taxonomy_term_60 last"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-first first"><a href="/news/palermoscienza-esperienza-insegna-2012/palermoscienza-esperienza-insegna-2012/informazioni-e-prenotazioni" title="Vai alla prima pagina" class="active">« primo</a></li>
+<li class="pager-previous"><a href="/news/palermoscienza-esperienza-insegna-2012/palermoscienza-esperienza-insegna-2012/informazioni-e-prenotazioni?page=13" title="Vai alla pagina precedente" class="active">‹ precedente</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/palermoscienza-esperienza-insegna-2012/informazioni-e-prenotazioni?page=10" title="Vai alla pagina 11" class="active">11</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/palermoscienza-esperienza-insegna-2012/informazioni-e-prenotazioni?page=11" title="Vai alla pagina 12" class="active">12</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/palermoscienza-esperienza-insegna-2012/informazioni-e-prenotazioni?page=12" title="Vai alla pagina 13" class="active">13</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/palermoscienza-esperienza-insegna-2012/informazioni-e-prenotazioni?page=13" title="Vai alla pagina 14" class="active">14</a></li>
+<li class="pager-current">15</li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/palermoscienza-esperienza-insegna-2012/informazioni-e-prenotazioni?page=15" title="Vai alla pagina 16" class="active">16</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/palermoscienza-esperienza-insegna-2012/informazioni-e-prenotazioni?page=16" title="Vai alla pagina 17" class="active">17</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/palermoscienza-esperienza-insegna-2012/informazioni-e-prenotazioni?page=17" title="Vai alla pagina 18" class="active">18</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/palermoscienza-esperienza-insegna-2012/informazioni-e-prenotazioni?page=18" title="Vai alla pagina 19" class="active">19</a></li>
+<li class="pager-next"><a href="/news/palermoscienza-esperienza-insegna-2012/palermoscienza-esperienza-insegna-2012/informazioni-e-prenotazioni?page=15" title="Vai alla pagina successiva" class="active">successiva ›</a></li>
+<li class="pager-last last"><a href="/news/palermoscienza-esperienza-insegna-2012/palermoscienza-esperienza-insegna-2012/informazioni-e-prenotazioni?page=18" title="Vai all&#039;ultima pagina" class="active">ultima »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>                 </div>
+            </div>
+
+
+
+            <!-- right -->
+                
+
+
+            <div class="clear"></div>
+
+        </div>
+
+        </div>
+        <!-- Close Page -->
+
+        <div id="footer">
+        
+
+   <p><a href="//www.iubenda.com/privacy-policy/808816" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a></p>
+<script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>        </div>
+<script src="http://cdn.wibiya.com/Toolbars/dir_1133/Toolbar_1133932/Loader_1133932.js" type="text/javascript"></script><noscript><a href="http://www.wibiya.com/">Web Toolbar by Wibiya</a></noscript><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-90058-23"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+    </body>
+</html>

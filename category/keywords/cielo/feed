@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.palermoscienza.it"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>PALERMOSCIENZA - cielo</title>
+ <link>http://www.palermoscienza.it/taxonomy/term/63/0</link>
+ <description></description>
+ <language>it</language>
+<item>
+ <title>Dalla Terra al Cielo</title>
+ <link>http://www.palermoscienza.it/news/dalla-terra-al-cielo</link>
+ <description>&lt;p&gt;Il &lt;strong&gt;Dipartimento di Matematica ed Informatica&lt;/strong&gt;, il &lt;strong&gt;Dipartimento  di Scienze Botaniche&lt;/strong&gt; e l&#039;&lt;strong&gt;Associazione Onlus Natura  Botanica&lt;/strong&gt; dell&#039;Orto Botanico in occasione di PALERMOSCIENZA  organizzano: Sabato 20 Febbraio a partire dalle 17:00 l&#039;evento &amp;quot;&lt;strong&gt;Dalla  Terra al Cielo&lt;/strong&gt;&amp;quot;. Una serata pubblica, di visita guidata serale  dell&#039;Orto Botanico ed Osservazione del Cielo presso l&#039;Osservatorio  Astronomico &amp;quot;Corradino Mineo&amp;quot;del Dipartimento di Matematica ed  Informatica.&lt;/p&gt;
+&lt;p&gt;Per prenotazioni, contattare 091-6238241.&lt;br /&gt;
+Il sito dell&#039;Osservatorio Astronomico: &lt;a target=&quot;_blank&quot; href=&quot;http://math.unipa.it/osservatorio/index.html&quot;&gt;http://math.unipa.it/osservatorio/index.html&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://www.palermoscienza.it/news/dalla-terra-al-cielo#comments</comments>
+ <category domain="http://www.palermoscienza.it/category/keywords/cielo">cielo</category>
+ <category domain="http://www.palermoscienza.it/category/keywords/orto-botanico">orto botanico</category>
+ <category domain="http://www.palermoscienza.it/category/keywords/osservazione">osservazione</category>
+ <pubDate>Thu, 11 Feb 2010 22:08:45 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">355 at http://www.palermoscienza.it</guid>
+</item>
+</channel>
+</rss>

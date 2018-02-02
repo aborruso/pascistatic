@@ -1,0 +1,659 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it" dir="ltr">
+
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>News | PALERMOSCIENZA</title>
+
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ctools/css/ctools.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/fivestar/css/fivestar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/lightbox2/css/lightbox.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/mollom/mollom.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/oembed/oembed.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/tagadelic/tagadelic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/forum/forum.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/misc/farbtastic/farbtastic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/calendar/calendar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/panels/css/panels.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/layout.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/graphics.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/typography.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/links.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/giordani/giordani.css?i" />
+
+        <!--[if IE 6]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie6.css" />
+      <![endif]-->
+
+        <!--[if IE 7]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie7.css" />
+      <![endif]-->
+
+
+        <script type="text/javascript" src="/misc/jquery.js?i"></script>
+<script type="text/javascript" src="/misc/drupal.js?i"></script>
+<script type="text/javascript" src="//var/nadir/drupal/palermoscienza/languages/it_790dce158f5eb1dfc93047e4aacef555.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/equalheights/jquery.equalheights.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/fivestar/js/fivestar.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/auto_image_handling.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/mollom/mollom.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "fivestar": { "titleUser": "Il tuo voto: ", "titleAverage": "Media: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Il tuo voto è stato salvato.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": "0", "file_path": "/(\\w\\w/)system/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 1, "force_show_nav": 0, "show_caption": true, "loop_items": 1, "node_link_text": "", "node_link_target": 0, "image_count": "Immagine !current di !total", "video_count": "Video !current of !total", "page_count": "Pagina !current di !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "preview", "image_node_sizes": "(\\.thumbnail)", "trigger_lightbox_classes": "img.flickr-photo-img,img.flickr-photoset-img", "trigger_lightbox_group_classes": "img.thumbnail, img.image-thumbnail", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){$('.eqheight').equalHeights().css('overflow', 'visible');});
+//--><!]]>
+</script>
+    </head>
+
+
+    <body>
+
+        <div id="utilities">
+            <form action="/news/palermoscienza-esperienza-insegna-2012/spettacoli/cervello-matematico-%E2%80%93-cervello-musicale?page=2"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Cerca nel sito: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Inserisci i termini da cercare." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Cerca"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-68b0eb649ed04d3402ac3406f76b170c" value="form-68b0eb649ed04d3402ac3406f76b170c"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+
+                            <div id="plinks">
+                <ul class="links primary-links"><li class="menu-285 first"><a href="/" title="Benvenuti">Home</a></li>
+<li class="menu-2067"><a href="/associazione-palermoscienza" title="Associazione PALERMOSCIENZA">L&#039;associazione</a></li>
+<li class="menu-6708"><a href="/esperienza-insegna-story" title="">Esperienza inSegna</a></li>
+<li class="menu-415 active-trail"><a href="/news" title="">News</a></li>
+<li class="menu-329"><a href="/contact" title="Contattaci">Contattaci</a></li>
+<li class="menu-1191"><a href="http://newsletter.palermoscienza.it/lists/?p=subscribe&amp;id=3" title="La Newsletter di PALERMOSCIENZA">Newsletter</a></li>
+<li class="menu-337"><a href="/link" title="Link">Link</a></li>
+<li class="menu-6671 last"><a href="/social" title="">Social</a></li>
+</ul>
+                </div>                    </div>
+
+
+        <div id="page">
+
+            <div id="header">
+                
+                
+                <div id="casa_cn">
+                    <div id="casa">
+                        <a href="/">
+                            <span id="logo">
+                            </span>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+
+            
+
+
+
+            <div class="wrapper"><!--wrapper:defines whole content margins-->
+
+                <!-- left -->
+                                <div class="lsidebar">
+
+
+                        
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2017</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="expanded first last"><a href="/esperienza-insegna-2017" title="">Esperienza inSegna 2017</a><ul class="menu"><li class="leaf first"><a href="/esperienza-insegna-2017/dove" title="">Dove</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/informazioni" title="">Informazioni</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/quando" title="">Quando</a></li>
+<li class="leaf last"><a href="/esperienza-insegna-2017/calendario" title="">Calendario</a></li>
+</ul></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2016</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2016" title="">Esperienza inSegna 2016</a></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2015</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2015" title="">Esperienza inSegna 2015</a></li>
+</ul></div>
+</div>
+ <div class="loginblock">
+    <h2 class="login">Login utente</h2><!--block title-->
+   <div class="blockcontent"><form action="/news/palermoscienza-esperienza-insegna-2012/spettacoli/cervello-matematico-%E2%80%93-cervello-musicale?destination=news%2Fpalermoscienza-esperienza-insegna-2012%2Fspettacoli%2Fcervello-matematico-%E2%80%93-cervello-musicale%3Fpage%3D2"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Nome utente: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Accedi"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="/user/password" title="Richiedi una nuova password per e-mail.">Richiedi una nuova password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-1207348c54aed062e0ed830efc0c2afa" value="form-1207348c54aed062e0ed830efc0c2afa"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+                </div><!-- end left -->
+                    
+
+
+                <div id="primary" class="long">
+                     <div class="singlepage">
+                         <div class="path"><p><span>You are here</span>News</p></div>
+                    
+                    <h1>News</h1>
+                                        <div class="drdot">
+                        <hr />
+                    </div>
+
+
+<div class="view view-ps-news view-id-ps_news view-display-id-page_1 view-dom-id-1">
+        <div class="view-header">
+      <p>Le ultime notizie di PalermoScienza</p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/dieci-anni-con-esperienza-insegna-la-prima-pillola">Dieci anni con Esperienza inSegna (la prima pillola)!</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">15 febbraio 2017</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p><img alt="" src="http://www.palermoscienza.it/system/files/2017-02-14_23h25_35.png" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" />Ha avuto inizio oggi, martedì 14 febbraio, la decima edizione della manifestazione <em><strong>Esperienza inSegna</strong></em>, organizzata dall&#39;Associazione PALERMOSCIENZA e dedicata quest&#39;anno all&#39;AMBIENTE.</p>
+<p>Mentre negli ampi spazi del Polidiattico gli espositori cominciavano a presentare al pubblico i propri exhibit ed esperimenti, si svolgeva l&#39;inaugurazione della manifestazione, caratterizzata quest&#39;anno dall&#39;esibizione <em><strong>Paesaggi sonori</strong></em> a cura di Eliana Danzì con i giovani componenti del <em>Gruppo SudOrff</em> della scuola secondaria i 1&deg; grado Vittorio Emanuele III di Palermo. L&#39;inaugurazione è stata introdotta da Carmelo Arena, presidente dell&#39;Associazione PALERMOSCIENZA, e ha visto gli interventi di Girolamo Cirrincione, Prorettore alla Ricerca dell&#39;Università degli Studi di Palermo, di Barbara Evola, Assessore comunale alla Scuola e realtà dell&#39;infanzia e del sindaco di Palermo, Leoluca Orlando.</p>
+<p>Tra i numerosi appuntamenti della giornata di apertura, l&#39;interessante laboratorio <em><strong>Dimostrazione di disostruzione pediatrica</strong></em> a cura della Croce Rossa Italiana, Comitato di Palermo.</p>
+<p>A domani!</p>
+<div align="center"><iframe allowfullscreen="" frameborder="0" height="360" id="vp1COxWQ" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&amp;e=1487111272&amp;f=COxWQaXnE5pWdjON9ySXTg&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" title="Video Player" width="640"></iframe></div>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_141 first"><a href="/category/keywords/2017" rel="tag" title="">2017</a></li>
+<li class="taxonomy_term_60"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+<li class="taxonomy_term_67 last"><a href="/category/keywords/pillole" rel="tag" title="">pillole</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/esperienza-insegna-compie-dieci-anni">Esperienza inSegna compie dieci anni!</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">13 febbraio 2017</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<div style="text-align: center;"><img alt="" src="http://www.palermoscienza.it/system/files/espins17.png" style="text-align: center; width: 745px; height: 246px; border-width: 0px; border-style: solid; margin: 0px;" /></div>
+<div>&nbsp;</div>
+<div><strong>Si apre domani alle 10 la grande kermesse sull&rsquo;ambiente e la scienza</strong>. Al Polididattico esposizioni, laboratori, spettacoli con 500 animatori. <em>Presenti il sindaco Orlando, il rettore Micari e gli assessori Evola e Contrafatto.</em></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>Dieci giorni di convegni, mostre e spettacoli teatrali, 200 esposizioni di oltre 60 scuole siciliane, incontri con astrofisici e artisti di fama internazionale, osservazioni del Sole e attività per bambini con quasi 500 animatori coinvolti per scoprire i mille volti dell&rsquo;ambiente. È il programma di <strong>Esperienza inSegna 2017</strong>, da domani al 23 febbraio a Palermo, il grande Festival della scienza che quest&rsquo;anno compie <strong>dieci anni</strong>, diventato ormai una delle più importanti realtà di divulgazione scientifica nel Sud Italia.&nbsp;</div>
+<div>&nbsp;</div>
+<div>L&rsquo;iniziativa è ideata e organizzata dall&rsquo;associazione Palermoscienza, che ha coinvolto l&rsquo;Università, il Cnr, l&rsquo;Invg, l&rsquo;Inaf e l&rsquo;Osservatorio Astronomico, la Soprintendenza del mare, la Guardia costiera e oltre 500 animatori tra studenti e docenti.&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+<div style="text-align: center;"><strong>La manifestazione si aprirà</strong></div>
+<div style="text-align: center;"><strong>domani alle 10</strong></div>
+<div style="text-align: center;"><strong>al Polididattico (edificio 19)</strong></div>
+<div style="text-align: center;"><strong>in viale delle Scienze&nbsp;</strong></div>
+<div style="text-align: center;"><strong>con il sindaco Leoluca Orlando&nbsp;</strong></div>
+<div style="text-align: center;"><strong>il rettore Fabrizio Micari</strong></div>
+<div style="text-align: center;"><strong>l&rsquo;assessore regionale all&rsquo;Energia Vania Contrafatto &nbsp;</strong></div>
+<div style="text-align: center;"><strong>e l&rsquo;assessore comunale alla Scuola Barbara Evola&nbsp;</strong></div>
+<div style="text-align: center;">&nbsp;</div>
+<div>Ad aprire la kermesse sarà lo spettacolo <strong>Paesaggi sonori</strong>, dell&rsquo;orchestra Sud-Orff creata e diretta da Eliana Danzì, a Palermo dopo il successo negli studi di Canale 5. Saranno presenti <strong>Carmelo Arena</strong> e <strong>Valeria Greco</strong>, presidente e vicepresidente di Palermoscienza e curatori della manifestazione.&nbsp;</div>
+<div>&nbsp;</div>
+<div style="text-align: center;"><span style="display: none;">&nbsp;</span><span style="display: none;">&nbsp;</span><span style="display: none;">&nbsp;</span><img alt="" src="http://www.palermoscienza.it/system/files/espins17Support.png" style="width: 745px; height: 128px; border-width: 0px; border-style: solid; margin: 0px;" /><span style="display: none;">&nbsp;</span><span style="display: none;">&nbsp;</span><span style="display: none;">&nbsp;</span></div>
+</div>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_141 first"><a href="/category/keywords/2017" rel="tag" title="">2017</a></li>
+<li class="taxonomy_term_60 last"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/sta-arrivare-la-x-esperienza-insegna">Sta per arrivare la X ... Esperienza inSegna!</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">19 gennaio 2017</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p><img alt="" src="http://www.palermoscienza.it/system/files/2017-01-19_08h55_03.png" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" /><span style="font-family: arial, sans-serif; font-size: 12.8px;">Quella del 2017 sarà la decima edizione di &quot;</span><b style="font-family: arial, sans-serif; font-size: 12.8px;">Esperienza inSegna</b><span style="font-family: arial, sans-serif; font-size: 12.8px;">&quot;, ormai da tempo uno dei più importanti festival a tema del nostro paese. Si terrà&nbsp;</span>14 al 23 febbraio<span style="font-family: arial, sans-serif; font-size: 12.8px;">&nbsp;2017 a Palermo, sempre presso il &quot;Polididattico Edificio 19&quot;, all&#39;interno del polo universitario in Viale delle Scienze. Pubblicheremo presto i dettagli.</span></p>
+<p><span style="font-family: arial, sans-serif; font-size: 12.8px;">Nel frattempo abbiamo creato questo video che ci emoziona e che ci fa viaggiare lungo le edizioni passate. È la nostra cartolina di invito :)</span></p>
+<div style="font-family: arial, sans-serif; font-size: 12.8px;"><span style="font-size: 12.8px;">Buona visione!</span></div>
+<div style="font-family: arial, sans-serif; font-size: 12.8px;">&nbsp;</div>
+<div align="center" style="font-family: arial, sans-serif; font-size: 12.8px;"><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/a8O9D4aCBlI?rel=0" width="560"></iframe></div>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_60 first last"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/laboratori-natalizi-presso-lecomuseo-di-palermo">Laboratori natalizi presso l&#039;Ecomuseo di Palermo</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">13 Dicembre 2016</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p style="text-align: center;"><a href="http://www.palermoscienza.it/system/files/laboratoriNataliziEcomuseo.pdf" target="_blank"><img alt="" src="http://www.palermoscienza.it/system/files/bimestrale natale 1.jpg" style="width: 745px; height: 359px; border-width: 0px; border-style: solid; margin: 0px;" /></a></p>
+<p>Dal <strong>21 dicembre</strong> 2016 al <strong>7 gennaio</strong> 2017, presso l&#39;<em>Ecomuseo Urbano Mare Memoria Viva</em> di Palermo (via Messina Marine, 20), sarà possibile prendere parte ai diversi appuntamenti programmati dell&#39;Ecomuseo per il calendario natalizio, quali rivisitazioni animate di opere musicali, laboratori scientifici, visite guidate alle narrazioni dell&#39;Ecomuseo e altro ancora.</p>
+<p>Per l&#39;occasione, l&#39;Associazione <em>PALERMOSCIENZA</em> ha curato tre diversi laboratori dedicati ai bambini dai <strong>5</strong> agli <strong>8</strong> anni, che si svolgeranno tutti in orario pomeridiano, dalle <strong>16.00</strong> alle <strong>18.00,</strong> secondo il seguente calendario:</p>
+<ul>
+<li>
+<p>Mercoledì <strong>21</strong> dicembre 2016</p>
+<p><em><strong>Navigare a vista</strong></em></p>
+</li>
+<li>
+<p>Giovedì <strong>29</strong> dicembre 2016</p>
+<p><em><strong>Arte e... matematica</strong></em></p>
+</li>
+<li>
+<p>Martedì <strong>3</strong> gennaio 2017</p>
+<p><em><strong>Il botanico che è in noi</strong></em></p>
+</li>
+</ul>
+<p>I laboratori sono <strong>a pagamento</strong> (costo singolo partecipante <strong>5,00 &euro;</strong>) e prevedono un massimo di <strong>30</strong> partecipanti.</p>
+<p>Per consultare il programma in dettaglio <a href="http://www.palermoscienza.it/system/files/laboratoriNataliziEcomuseo.pdf" target="_blank"><em><strong>cliccare qui</strong></em></a> (da mettere gli allegati bimestrale natale 1 e bimestrale natale 2, che mi hanno mandato slegati)</p>
+<p>Per informazioni e prenotazioni scrivere <a href="mailto:segreteria@palermoscienza.it">segreteria@palermoscienza.it</a> oppure telefonare al 333 4612148 (numero attivo dal <strong>lunedì</strong> al <strong>venerdì</strong>, dalle <strong>9.00</strong> alle <strong>13.00</strong> e dalle <strong>15.00</strong> alle <strong>19.00</strong>, <strong>escluso</strong> lunedì <strong>26 dicembre</strong>).</p>
+<p>Vi aspettiamo numerosi!</p>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_74 first last"><a href="/category/keywords/laboratori" rel="tag" title="">laboratori</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/un-breve-video-raccornto-della-xxvi-settimana-della-cultura-scientifica-e-tecnologica">Un breve video raccornto della XXVI Settimana della Cultura Scientifica e Tecnologica</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">06 Novembre 2016</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p><img alt="" src="http://i.imgur.com/BsH2ixr.png" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" />Sabato 29 ottobre 2016, nell&#39;ambito della <strong>XXVI Settimana della Cultura Scientifica e Tecnologica</strong> promossa dal MIUR, l&#39;associazione PALERMOSCIENZA, in collaborazione con l&#39;INAF-Osservatorio Astronomico di Palermo e il Museo dei Meccanismi e dei Motori dell&rsquo;Università di Palermo, ha organizzato &quot;Noi, il Sole e l&#39;ambiente&quot;, iniziativa ricca di attività dedicate alle famiglie quali i laboratori ispirati al tema Scienza e Ambiente, le osservazioni del Sole e le visite guidate al campo solare.</p>
+<p>&nbsp;</p>
+<div align="center"><iframe allowfullscreen="" frameborder="0" height="360" id="vp1yqV50" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&amp;e=1478456597&amp;f=yqV50DNfn9MjGw1p0AJvpA&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" title="Video Player" width="640"></iframe></div>
+<p>&nbsp;</p>
+</div>
+    
+    
+                
+        
+    
+            
+    
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/xxvi-settimana-della-cultura-scientifica-e-tecnologica-noi-il-sole-e-lambiente">XXVI Settimana della Cultura Scientifica e Tecnologica: Noi, il Sole e l&#039;ambiente</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">20 Ottobre 2016</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p style="text-align: center;"><img alt="" src="http://www.palermoscienza.it/system/files/Unipa Settimana Cultura Scientifica.jpg" /></p>
+<p>Dal 24 al 29 ottobre 2016 avrà luogo la <em>XXVI Settimana della Cultura Scientifica e Tecnologica</em>, manifestazione promossa annualmente dal MIUR. Anche quest&#39;anno l&#39;Associazione PALERMOSCIENZA vi parteciperà proponendo, in collaborazione con l&#39;<strong>INAF-Osservatorio Astronomico</strong> di Palermo e il <strong>Museo dei Meccanismi e dei Motori</strong> dell&rsquo;Università degli Studi di Palermo, una serie di attività dedicate alle famiglie.</p>
+<p>L&#39;iniziativa intitolata <em><strong>Noi, il Sole e l&#39;ambiente</strong></em> si terrà <strong>sabato 29</strong> ottobre, dalle <strong>9.00</strong> alle <strong>13.00</strong>, presso l&#39;Università degli Studi di Palermo e prevede attività di laboratorio, osservazioni del Sole e visite guidate al campo solare.</p>
+<p>Fulcro dell&#39;iniziativa saranno i <strong>laboratori</strong> ideati dall&#39;Associazione PALERMOSCIENZA e ispirati al tema <em>Scienza e Ambiente</em>, uno tra i temi suggeriti dal MIUR per l&#39;occasione.</p>
+<p>Presso le aule del <a href="http://www.museomotori.unipa.it/"><em>Museo dei Motori e dei Meccanismi</em></a> (Viale delle Scienze, edificio 8), gli esperti dell&#39;Associazione parleranno del Sole analizzandolo sia dal punto di vista astronomico che attraverso il suo impatto sul mondo biologico. Nel laboratorio di astronomia le attività saranno adattate in base all&#39;età dei partecipanti, scegliendo la modalità <em>gioco-imparo</em> per i più piccoli e le simulazioni di osservazioni, utilizzando il sito dell&rsquo;INAF dedicato all&rsquo;educational e il sito SOHO della NASA, per i ragazzi più grandi e gli adulti. Nel laboratorio di biologia sarà mostrata la respirazione delle piante attraverso l&rsquo;uso di sensori, si osserverà la struttura di alcuni esemplari di foglie al microscopio e sarà estratta la clorofilla. Anche queste attività saranno adattate in base alle varie fasce di età dei partecipanti. I laboratori, ognuno della durata di 15-20 minuti, verranno ripetuti a rotazione.</p>
+<p>Nello spazio aperto antistante l&#39;entrata del Museo dei Motori e dei Meccanismi, il pubblico sarà invitato a <strong>osservare il Sole</strong>, in totale sicurezza, con due telescopi: un telescopio equipaggiato con un filtro che taglia la luce solare del del 99% permettendo la visione della fotosfera solare, e un telescopio coronado con filtro H-Alpha che permette la visione della cromosfera solare.</p>
+<p>I visitatori potranno inoltre raggiungere il vicino <strong>campo solare</strong> ubicato accanto la sede del <a href="http://www.consorzioarca.it/index.php/it/"><em>Consorzio ARCA</em></a> (Viale delle Scienze, edificio 16), l&#39;incubatore di imprese dell&#39;Università degli Studi di Palermo, aperto al pubblico per l&#39;occasione. Si tratta del primo impianto pilota in Europa sviluppato in contesti urbani, basato sulla tecnologia degli specchi concentratori capace di fornire energia elettrica, termica e frigorifera per molteplici usi, ed è stato realizzato nell&rsquo;ambito del progetto STS-Med (Small scale thermal solar district units for Mediterranean communities).</p>
+<p>Le visite guidate partiranno dal Consorzio ARCA.</p>
+<p>Tutte le attività sono <strong><em>gratuite</em></strong> e non necessitano di prenotazione.</p>
+<p>Per informazioni, contattare l&#39;Associazione PALERMOSCIENZA all&#39;indirizzo mail <a href="mailto:segreteria@palermoscienza.it"><em>segreteria@palermoscienza.it</em></a> e al seguente numero di cellulare: 3668028227</p>
+<p style="text-align: center;"><span style="display: none;">&nbsp;</span><img src="http://www.palermoscienza.it/system/files/image2.png" style="width: 664px; height: 84px;" /><span style="display: none;">&nbsp;</span></p>
+</div>
+    
+    
+                
+        
+    
+            
+    
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/notte-europea-dei-ricercatori-2016-palermoscienza-vi-invita-alla-gam">Notte Europea dei Ricercatori 2016: PALERMOSCIENZA vi invita alla GAM</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">28 settembre 2016</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>Venerdì <strong>30</strong> <strong>settembre</strong> 2016, si rinnova l&#39;appuntamento con la <em><strong>Notte Europea dei Ricercatori</strong></em>, iniziativa che la Commissione Europea promuove fin dal 2005 con l&#39;intento di creare occasioni di incontro tra ricercatori e cittadini, per diffondere la cultura scientifica e la conoscenza delle professioni della ricerca in un contesto informale e stimolante che possa sensibilizzare i giovani alle carriere scientifiche attraverso un dialogo diretto con i professionisti del settore.</p>
+<p>La manifestazione propone numerosi eventi ricchi di esperimenti e dimostrazioni scientifiche dal vivo, attività di apprendimento per bambini, mostre e visite guidate, conferenze e seminari divulgativi, spettacoli e concerti.</p>
+<p>In un contesto che coinvolge ogni anno migliaia di ricercatori e istituzioni di ricerca di tutti i paesi europei, l&#39;Associazione propone il laboratorio per famiglie <em><strong>Ma che ore sono?</strong></em> a cura di PALERMOSCIENZA e dI Civita Sicilia, che avrà luogo presso la <em><strong>Galleria d&#39;Arte Moderna</strong></em> di Palermo, alle <strong>19.30</strong> e con una replica alle <strong>20.30</strong>.</p>
+<p>Il laboratorio parte dall&#39;analisi di alcune opere custodite all&#39;interno della Galleria, indagate e narrate attraverso la duplice lettura &ndash; quella artistica e quella scientifica &ndash; che il più delle volte rivela gli inattesi legami esistenti tra aspetti ritenuti in realtà da sempre distanti. Così le opere di importanti artisti, tra i quali Francesco Lojacono, si narrano a noi come connubio tra conoscenza scientifica e conoscenza artistica, visibile, ad esempio, in una precisa resa atmosfera della luce o nella forma di un&#39;ombra che traduce una determinata posizione del Sole.</p>
+<p>La partecipazione al laboratorio <strong>è gratuita</strong> con prenotazione obbligatoria (per numero massimo di 30 persone).</p>
+<p><strong>Info e prenotazioni visite guidate 091.8431605 e&nbsp;</strong><a href="mailto:didattica@gampalermo.it">didattica@gampalermo.it</a>.</p>
+<p>Per scaricare il <strong>programma</strong> della <em><strong>Notte Europea dei Ricercatori</strong></em> cliccare <a href="http://www.palermoscienza.it/system/files/SHARPER2016_PALERMO_programma_web.pdf">qui</a>.</p>
+<p>Questo il sito web&nbsp;<a href="https://sites.google.com/site/sharper2014nottedeiricercatori/">https://sites.google.com/site/sharper2014nottedeiricercatori/</a></p>
+<p style="text-align: center;"><span style="display: none;">&nbsp;</span><span style="display: none;">&nbsp;</span><a href="https://sites.google.com/site/sharper2014nottedeiricercatori/" target="_blank"><img alt="" src="http://www.palermoscienza.it/system/files/SHARPER_PALERMO.png" style="width: 600px; height: 430px; border-width: 0px; border-style: solid;" /></a><span style="display: none;">&nbsp;</span><span style="display: none;">&nbsp;</span></p>
+</div>
+    
+    
+                
+        
+    
+            
+    
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/palermoscienza-partecipa-al-sun-med-festival">PALERMOSCIENZA partecipa al Sun Med Festival</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">21 settembre 2016</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p style="text-align: center;"><a href="http://www.sunmedfestival.eu/" target="_blank"><img alt="" src="http://www.palermoscienza.it/system/files/Logo Sun Med Festival.png" style="width: 740px; height: 246px;" /></a></p>
+<p>L&#39;autunno dell&#39;associazione PALERMOSCIENZA inizierà con la partecipazione al <em><strong>Sun Med Festival</strong></em>, che si terrà presso il <a href="http://www.consorzioarca.it/"><em>Consorzio Arca</em></a> di Palermo dal <strong>26 settembre</strong> all&#39;<strong>1 ottobre</strong> 2016, in partenariato con il Comune e l&rsquo;Università degli Studi di Palermo, INAF - Osservatorio Astronomico di Palermo, ENEA, Energia Media, IDEA, Italia Solare, Legambiente Sicilia, Protezione Civile Sicilia, ANIMA Investment Network, ENPI CBC MED e AviTeM, Vivere Ateneo, Sicilia Journal, Balarm, neu[nòi], PUSH Palermo, EEN, GSES, Science&amp;Joy, Webinarpro.</p>
+<p>Organizzato in piena sinergia tra il Consorzio Arca, l&rsquo;Università degli Studi di Palermo e il Comune di Palermo, il <em><strong>Sun Med Festival</strong></em> è il primo festival dell&rsquo;Energia Solare della Città di Palermo che nasce col desiderio e l&#39;obiettivo di sensibilizzare non solo studenti e ricercatori, ma l&#39;intera cittadinanza, alle innumerevoli opportunità che l&rsquo;energia solare offre sul piano ambientale, climatico ed economico.</p>
+<p>Protagonista del Festival sarà il Sole che verrà osservato, indagato e <em>vissuto</em> attraverso numerosi eventi di differente natura quali laboratori, mostre, <em>exhibit</em> di aziende e <em>startup</em> che operano nel settore, e, concetrato nei giorni di <strong>venerdì 30 Settembre</strong> e <strong>sabato 1 Ottobre</strong>, un fitto programma di mostre, giochi, conversazioni, performance artistiche e degustazioni.</p>
+<p>Tra i numerosi eventi, ideati con l&#39;intento di rimarcare la centralità che il Sole ha avuto nelle civiltà del Mediterraneo e di evidenziare le opportunità che offre per il futuro sostenibile dell&rsquo;area, segnaliamo:</p>
+<p>- i laboratori per le scuole &ldquo;<strong>Sunlab@school</strong>&rdquo; a cura di PALERMOSCIENZA.</p>
+<p>- il ciclo di workshop professionali &ldquo;<strong>Aspetti costruttivi e di installazione di un impianto Fresnel poligenerativo</strong>&rdquo; dedicati alle aziende e agli studenti universitari organizzati da Idea s.r.l.(per iscriversi, <a href="http://bit.ly/2cqK5Ih"><em>http://bit.ly/2cqK5Ih</em></a>).</p>
+<p>- il <strong>s</strong>eminario d&rsquo;apertura &ldquo;<strong>Industry 4.0 and Smart Energy&rdquo;</strong> realizzato da EnergiaMedia, in collaborazione con la rete EEN, che si terrà nella sede di Sicindustria il <strong>27 Settembre</strong>, e che verterà sull&rsquo;importanza di creare sistemi energetici sostenibili ed efficienti dal punto di vista economico e ambientale, per giungere alla rivoluzione industriale definita come 4.0 (iscrizioni sul sito di Industria Media: <a href="http://bit.ly/2clVI6h"><em>http://bit.ly/2clVI6h</em></a>).</p>
+<p>- l&#39;attività seminariale <strong>&ldquo;Una marcia in più per gli impianti FV&rdquo;</strong> (30 Settembre, ore 10.00), organizzato da ITALIA Solare in collaborazione con The Green Consulting Group, con l&rsquo;obiettivo di presentare in maniera chiara e descrittiva le nuove opportunità economiche legate agli impianti fotovoltaici (la partecipazione è gratuita, ma il numero di posti è limitato, ecco il link per iscriversi: <a href="http://bit.ly/2cqM2Ey"><em>http://bit.ly/2cqM2Ey</em></a>).</p>
+<p>- la tavola rotonda <strong>&ldquo;Nuove energie dai processi di rigenerazione urbana&rdquo;</strong> (30 Settembre, ore 15.00) a cura di AUDIS, in collaborazione con Golder Associates (iscrizione sul sito: <a href="http://bit.ly/2cae8Wj"><em>http://bit.ly/2cae8Wj</em></a>).</p>
+<p>- l&#39;hackathon <strong>&ldquo;#SolarHack,</strong> sviluppo di soluzioni innovative per l&#39;ottimizzazione di un impianto solare&rdquo;, organizzato da GDGPalermo in collaborazione con Idea srl, Olomedia, Open Data Sicilia (dalle 14.00 alle 24.00).</p>
+<p>- il seminario di Fabio Reale <strong>&ldquo;La luce e la stella sole&rdquo;</strong> (partecipazione tramite iscrizione al sito: <a href="http://bit.ly/2cZgPKB"><em>http://bit.ly/2cZgPKB</em></a>) e l&rsquo;osservazione del Sole curata dall&rsquo;Istituto Nazionale di Astrofisica di Palermo e da Science&amp;Joy.</p>
+<p>- lo Speed Networking <strong>&ldquo;Pallidi VS Abbronzati&rdquo;</strong> di neu [nòi] spazio al lavoro.</p>
+<p>- il Convegno Internazionale <strong>&ldquo;Sustainable Energy, solutions for the Mediterranean communities&rdquo;</strong>, (1 Ottobre) organizzato dal Consorzio Arca con EEN - Enterprise Europe Network, durante il quale i rappresentanti di università e centri di ricerca, delle agenzie per l&rsquo;innovazione e le amministrazioni pubbliche, delle associazioni internazionali e organismi tecnici si confronteranno con l&rsquo;obiettivo di ottenere una visione completa dei benefici derivanti dall&rsquo;adozione di sistemi solari avanzati (per registrarsi all&rsquo;evento, visitare il sito <a href="http://bit.ly/2cmzoEg"><em>http://bit.ly/2cmzoEg</em></a>).</p>
+<p>- la sessione di talk <strong>&ldquo;Discorsi intorno al Sole&rdquo;</strong>, a cura di Diego Gavagnin, Giuseppe Onufrio e Cesare Silvi</p>
+<p>- il Workshop <strong>&ldquo;Visioni per Palermo 2100</strong>&rdquo; a cura di neu [nòi] spazio al lavoro.</p>
+<p>- l&rsquo;inaugurazione dell&rsquo;<strong>impianto solare poligenerativo</strong> costruito all&rsquo;interno del campus universitario palermitano.</p>
+<p>Altre attività che segneranno le due date finali del festival sono le <strong>exhibition di progetti e prodotti</strong> con aziende nel settore energetico, la mostra organizzata dal <strong>Gruppo per la Storia dell&rsquo;Energia Solare dal titolo &ldquo;I pionieri dell&rsquo;energia solare&rdquo;</strong> e i <strong>laboratori di cucina</strong> con dimostrazione del funzionamento delle cucine solari a cura degli IPSSAR Piazza e Borsellino. Tra i <strong>momenti ludici, lezioni dimostrative e partite di scacchi l&rsquo;associazione studentesca Vivere Ateneo</strong>, la <strong>pittura murale dell&rsquo;artista Emanuele Poki</strong> (a cura di Push Palermo) e le serate musicali che seguiranno gli eventi delle giornate.</p>
+<p>Tutte le informazioni riguardo il <em><strong>Sun Med Festival</strong></em> sono fruibili dal <a href="http://www.sunmedfestival.eu/"><em>sito ufficiale</em></a> e da due canali social, <a href="https://www.facebook.com/sunmedfestival"><em>Facebook</em></a> e <a href="https://twitter.com/SunMedFestival"><em>Twitter</em></a>, che racconteranno la fase preparatoria del festival e, in tempo reale, gli oltre 50 appuntamenti del festival stesso: incontri, laboratori, hackathon, giochi, concerti e workshop alternati a talk ed exhibit con alcuni dei protagonisti dell&rsquo;economia e dell&rsquo;innovazione.</p>
+<p>Per ulteriori informazioni, s&#39;invita a consultare il sito <a href="http://www.sunmedfestival.eu/"><em>http://www.sunmedfestival.eu</em></a></p>
+<p><a href="https://twitter.com/sunmedfestival">@sunmedfestival</a> FB:<a href="https://www.facebook.com/sunmedfestival">sunmedfestival</a></p>
+<p>Ufficio stampa:</p>
+<p>Valentina Nicoletti</p>
+<p>mail: <a href="mailto:redazione@sunmedfestival.eu">redazione@sunmedfestival.eu</a> - Tel: 0916615645 - Cell: 3294311566</p>
+</div>
+    
+    
+                
+        
+    
+            
+    
+  </div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/palermoscienza-e-caravaggio-mistery-alla-scoperta-dei-misteri-della-luce-e-delle-ombre">PALERMOSCIENZA e Caravaggio Mistery: alla scoperta dei misteri della luce e delle ombre</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">16 maggio 2016</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p><strong><em>PALERMOSCIENZA e</em> <em>Caravaggio Mistery: alla scoperta dei misteri della luce e delle ombre</em></strong></p>
+<p>L&#39;Associazione è lieta di informarvi che, in collaborazione con l&#39;Associazione Amici dei Musei Siciliani, sabato 21 maggio alle ore 16.00, presso l&#39;oratorio di San Lorenzo, via dell&#39;Immacolatella n. 5, Palermo (piazza San Francesco d&#39;Assisi), parteciperà all&#39;evento <em><strong>Caravaggio Mistery</strong></em>.</p>
+<p>L&#39;oratorio di San Lorenzo ospitava la famosa <em>Natività</em> di Caravaggio, rubata nell&#39;ottobre del 1969. Dalla scorso dicembre la &ldquo;tela&quot; è ritornata al suo posto: grazie a un&#39;approfondita ricerca e a un sofisticato sistema di rilevazione e di ricostruzione, è stata realizzata una copia del celebre quadro che la stampa ha definito &quot;Caravaggio 2.0&rdquo;.</p>
+<p>Lo scorso dicembre la copia è stata presentata al pubblico alla presenza delle autorità, tra cui anche il Presidente della Repubblica Sergio Mattarella.</p>
+<p>Inserito nella programmazione della <em><strong>Settimana delle Culture</strong></em>, l&#39;evento <em><strong>Caravaggio Mistery</strong></em> sarà il primo di una serie che vede coinvolti, ancora una volta, la scienza e l&rsquo;arte.</p>
+<p>Dopo una breve presentazione dell&#39;oratorio a cura delle operatrici dell&#39;Associazione Amici dei Musei Siciliani, gli esperti dell&rsquo;associazione PALERMOSCIENZA condurranno un laboratorio con l&#39;obiettivo di svelare ai giovani partecipanti i misteri della luce e delle ombre, elementi che hanno reso meravigliosi i dipinti di Caravaggio.</p>
+<p>Il laboratorio, della durata complessiva di 2 ore, è destinato a ragazze e ragazzi di età compresa tra gli 8 e i 13 anni e verrà richiesto un contributo di sostegno all&#39;iniziativa di 6 &euro; a partecipante.</p>
+<p>Per informazioni e prenotazioni contattare l&#39;Associazione Amici dei Musei Siciliani ai seguenti numeri: <a href="tel:%2B39 3398148936"><em>+39 3398148936</em></a> o <a href="tel:%2B39 3338605399"><em>+39 3338605399</em></a></p>
+<p>Vi aspettiamo numerosi!</p>
+<p><span style="display: none;">&nbsp;</span><img alt="" src="/system/files/luci e ombre-page-001.jpeg" style="width: 740px; height: 1079px;" /><span style="display: none;">&nbsp;</span></p>
+</div>
+    
+    
+                
+        
+    
+            
+    
+  </div>
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/esperienza-insegna-2016-sorrisi-e-saluti">Esperienza inSegna 2016... Sorrisi e Saluti</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">08 marzo 2016</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<div align="center"><iframe allowfullscreen="" frameborder="0" height="360" id="vp1H0SHQ" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&amp;e=1457439422&amp;f=H0SHQic0IlDCeziy6PW4Gw&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" title="Video Player" width="640"></iframe></div>
+<p>-<img alt="" src="http://i.imgur.com/61iWjpk.png" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_140 first"><a href="/category/keywords/2016" rel="tag" title="">2016</a></li>
+<li class="taxonomy_term_60"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+<li class="taxonomy_term_67 last"><a href="/category/keywords/pillole" rel="tag" title="">pillole</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-first first"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/cervello-matematico-%E2%80%93-cervello-musicale" title="Vai alla prima pagina" class="active">« primo</a></li>
+<li class="pager-previous"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/cervello-matematico-%E2%80%93-cervello-musicale?page=1" title="Vai alla pagina precedente" class="active">‹ precedente</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/cervello-matematico-%E2%80%93-cervello-musicale" title="Vai alla pagina 1" class="active">1</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/cervello-matematico-%E2%80%93-cervello-musicale?page=1" title="Vai alla pagina 2" class="active">2</a></li>
+<li class="pager-current">3</li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/cervello-matematico-%E2%80%93-cervello-musicale?page=3" title="Vai alla pagina 4" class="active">4</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/cervello-matematico-%E2%80%93-cervello-musicale?page=4" title="Vai alla pagina 5" class="active">5</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/cervello-matematico-%E2%80%93-cervello-musicale?page=5" title="Vai alla pagina 6" class="active">6</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/cervello-matematico-%E2%80%93-cervello-musicale?page=6" title="Vai alla pagina 7" class="active">7</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/cervello-matematico-%E2%80%93-cervello-musicale?page=7" title="Vai alla pagina 8" class="active">8</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/cervello-matematico-%E2%80%93-cervello-musicale?page=8" title="Vai alla pagina 9" class="active">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/cervello-matematico-%E2%80%93-cervello-musicale?page=3" title="Vai alla pagina successiva" class="active">successiva ›</a></li>
+<li class="pager-last last"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/cervello-matematico-%E2%80%93-cervello-musicale?page=18" title="Vai all&#039;ultima pagina" class="active">ultima »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>                 </div>
+            </div>
+
+
+
+            <!-- right -->
+                
+
+
+            <div class="clear"></div>
+
+        </div>
+
+        </div>
+        <!-- Close Page -->
+
+        <div id="footer">
+        
+
+   <p><a href="//www.iubenda.com/privacy-policy/808816" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a></p>
+<script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>        </div>
+<script src="http://cdn.wibiya.com/Toolbars/dir_1133/Toolbar_1133932/Loader_1133932.js" type="text/javascript"></script><noscript><a href="http://www.wibiya.com/">Web Toolbar by Wibiya</a></noscript><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-90058-23"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+    </body>
+</html>

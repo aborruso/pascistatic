@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.palermoscienza.it"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>PALERMOSCIENZA - Matematica</title>
+ <link>http://www.palermoscienza.it/taxonomy/term/12/0</link>
+ <description></description>
+ <language>it</language>
+<item>
+ <title>I numeri dei Sumeri</title>
+ <link>http://www.palermoscienza.it/schede/i-numeri-dei-sumeri</link>
+ <description>&lt;p&gt;&lt;object width=&quot;100%&quot; height=&quot;500&quot; align=&quot;middle&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; name=&quot;doc_196564136432548&quot; id=&quot;doc_196564136432548&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0&quot;&gt;
+&lt;param value=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=8753419&amp;amp;access_key=key-xia3q3r4dszjnt6ucg7&amp;amp;page=1&amp;amp;version=1&amp;amp;viewMode=&quot; name=&quot;movie&quot; /&gt;
+&lt;param value=&quot;high&quot; name=&quot;quality&quot; /&gt;
+&lt;param value=&quot;true&quot; name=&quot;play&quot; /&gt;
+&lt;param value=&quot;true&quot; name=&quot;loop&quot; /&gt;
+&lt;param value=&quot;showall&quot; name=&quot;scale&quot; /&gt;
+&lt;param value=&quot;opaque&quot; name=&quot;wmode&quot; /&gt;
+&lt;param value=&quot;false&quot; name=&quot;devicefont&quot; /&gt;
+&lt;param value=&quot;#ffffff&quot; name=&quot;bgcolor&quot; /&gt;
+&lt;param value=&quot;true&quot; name=&quot;menu&quot; /&gt;
+&lt;param value=&quot;true&quot; name=&quot;allowFullScreen&quot; /&gt;
+&lt;param value=&quot;always&quot; name=&quot;allowScriptAccess&quot; /&gt;
+&lt;param value=&quot;&quot; name=&quot;salign&quot; /&gt;   &lt;embed width=&quot;100%&quot; height=&quot;500&quot; align=&quot;middle&quot; type=&quot;application/x-shockwave-flash&quot; salign=&quot;&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; menu=&quot;true&quot; name=&quot;doc_196564136432548_object&quot; bgcolor=&quot;#ffffff&quot; devicefont=&quot;false&quot; wmode=&quot;opaque&quot; scale=&quot;showall&quot; loop=&quot;true&quot; play=&quot;true&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; quality=&quot;high&quot; src=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=8753419&amp;amp;access_key=key-xia3q3r4dszjnt6ucg7&amp;amp;page=1&amp;amp;version=1&amp;amp;viewMode=&quot;&gt;&lt;/embed&gt;    &lt;/object&gt;&lt;/p&gt;
+</description>
+ <comments>http://www.palermoscienza.it/schede/i-numeri-dei-sumeri#comments</comments>
+ <category domain="http://www.palermoscienza.it/category/disciplina/matematica">Matematica</category>
+ <category domain="http://www.palermoscienza.it/category/tipo-di-scuola/scuola-secondaria-di-secondo-grado">Scuola Secondaria di Secondo Grado</category>
+ <category domain="http://www.palermoscienza.it/category/scuola/liceo-sociopsicopedagogico-e-linguistico-danilo-dolci">Liceo Socio-Psico-Pedagogico e Linguistico Danilo Dolci</category>
+ <pubDate>Mon, 22 Dec 2008 09:36:50 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">235 at http://www.palermoscienza.it</guid>
+</item>
+<item>
+ <title>Cifratori automatici</title>
+ <link>http://www.palermoscienza.it/schede/cifratori-automatici</link>
+ <description>&lt;object codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0&quot; id=&quot;doc_348741409054554&quot; name=&quot;doc_348741409054554&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; align=&quot;middle&quot;	height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;param name=&quot;movie&quot;	value=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801797&amp;access_key=key-27adk8x5azzhvhprjr9k&amp;page=1&amp;version=1&amp;viewMode=&quot;&gt;
+  &lt;param name=&quot;quality&quot; value=&quot;high&quot;&gt;
+  &lt;param name=&quot;play&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;loop&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;scale&quot; value=&quot;showall&quot;&gt;
+  &lt;param name=&quot;wmode&quot; value=&quot;opaque&quot;&gt;
+  &lt;param name=&quot;devicefont&quot; value=&quot;false&quot;&gt;
+  &lt;param name=&quot;bgcolor&quot; value=&quot;#ffffff&quot;&gt;
+  &lt;param name=&quot;menu&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;&gt;
+  &lt;param name=&quot;salign&quot; value=&quot;&quot;&gt;
+  &lt;embed src=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801797&amp;access_key=key-27adk8x5azzhvhprjr9k&amp;page=1&amp;version=1&amp;viewMode=&quot; quality=&quot;high&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; play=&quot;true&quot; loop=&quot;true&quot; scale=&quot;showall&quot; wmode=&quot;opaque&quot; devicefont=&quot;false&quot; bgcolor=&quot;#ffffff&quot; name=&quot;doc_348741409054554_object&quot; menu=&quot;true&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; salign=&quot;&quot; type=&quot;application/x-shockwave-flash&quot; align=&quot;middle&quot;  height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;/embed&gt;
+&lt;/object&gt;</description>
+ <comments>http://www.palermoscienza.it/schede/cifratori-automatici#comments</comments>
+ <category domain="http://www.palermoscienza.it/category/disciplina/matematica">Matematica</category>
+ <category domain="http://www.palermoscienza.it/category/tipo-di-scuola/scuola-secondaria-di-secondo-grado">Scuola Secondaria di Secondo Grado</category>
+ <category domain="http://www.palermoscienza.it/category/scuola/liceo-scientifico-cannizzaro-palermo">Liceo Scientifico Cannizzaro - Palermo</category>
+ <pubDate>Tue, 09 Dec 2008 11:04:02 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">145 at http://www.palermoscienza.it</guid>
+</item>
+<item>
+ <title>Biellismo del Delauney</title>
+ <link>http://www.palermoscienza.it/schede/biellismo-del-delauney</link>
+ <description>&lt;object codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0&quot; id=&quot;doc_462956572508487&quot; name=&quot;doc_462956572508487&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; align=&quot;middle&quot;	height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;param name=&quot;movie&quot;	value=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801787&amp;access_key=key-wvkvowo3qxcllbsdzb7&amp;page=1&amp;version=1&amp;viewMode=&quot;&gt;
+  &lt;param name=&quot;quality&quot; value=&quot;high&quot;&gt;
+  &lt;param name=&quot;play&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;loop&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;scale&quot; value=&quot;showall&quot;&gt;
+  &lt;param name=&quot;wmode&quot; value=&quot;opaque&quot;&gt;
+  &lt;param name=&quot;devicefont&quot; value=&quot;false&quot;&gt;
+  &lt;param name=&quot;bgcolor&quot; value=&quot;#ffffff&quot;&gt;
+  &lt;param name=&quot;menu&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;&gt;
+  &lt;param name=&quot;salign&quot; value=&quot;&quot;&gt;
+  &lt;embed src=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801787&amp;access_key=key-wvkvowo3qxcllbsdzb7&amp;page=1&amp;version=1&amp;viewMode=&quot; quality=&quot;high&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; play=&quot;true&quot; loop=&quot;true&quot; scale=&quot;showall&quot; wmode=&quot;opaque&quot; devicefont=&quot;false&quot; bgcolor=&quot;#ffffff&quot; name=&quot;doc_462956572508487_object&quot; menu=&quot;true&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; salign=&quot;&quot; type=&quot;application/x-shockwave-flash&quot; align=&quot;middle&quot;  height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;/embed&gt;
+&lt;/object&gt;</description>
+ <comments>http://www.palermoscienza.it/schede/biellismo-del-delauney#comments</comments>
+ <category domain="http://www.palermoscienza.it/category/disciplina/matematica">Matematica</category>
+ <category domain="http://www.palermoscienza.it/category/tipo-di-scuola/scuola-secondaria-di-secondo-grado">Scuola Secondaria di Secondo Grado</category>
+ <category domain="http://www.palermoscienza.it/category/scuola/liceo-scientifico-cannizzaro-palermo">Liceo Scientifico Cannizzaro - Palermo</category>
+ <pubDate>Tue, 09 Dec 2008 10:37:05 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">144 at http://www.palermoscienza.it</guid>
+</item>
+<item>
+ <title>Proprietà ottiche della parabola – specchi parabolici</title>
+ <link>http://www.palermoscienza.it/schede/propriet%C3%A0-ottiche-della-parabola-%E2%80%93-specchi-parabolici</link>
+ <description>&lt;object codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0&quot; id=&quot;doc_341212108671156&quot; name=&quot;doc_341212108671156&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; align=&quot;middle&quot;	height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;param name=&quot;movie&quot;	value=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801933&amp;access_key=key-2h9gq5njnhiebh8c40n6&amp;page=1&amp;version=1&amp;viewMode=&quot;&gt;
+  &lt;param name=&quot;quality&quot; value=&quot;high&quot;&gt;
+  &lt;param name=&quot;play&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;loop&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;scale&quot; value=&quot;showall&quot;&gt;
+  &lt;param name=&quot;wmode&quot; value=&quot;opaque&quot;&gt;
+  &lt;param name=&quot;devicefont&quot; value=&quot;false&quot;&gt;
+  &lt;param name=&quot;bgcolor&quot; value=&quot;#ffffff&quot;&gt;
+  &lt;param name=&quot;menu&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;&gt;
+  &lt;param name=&quot;salign&quot; value=&quot;&quot;&gt;
+  &lt;embed src=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801933&amp;access_key=key-2h9gq5njnhiebh8c40n6&amp;page=1&amp;version=1&amp;viewMode=&quot; quality=&quot;high&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; play=&quot;true&quot; loop=&quot;true&quot; scale=&quot;showall&quot; wmode=&quot;opaque&quot; devicefont=&quot;false&quot; bgcolor=&quot;#ffffff&quot; name=&quot;doc_341212108671156_object&quot; menu=&quot;true&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; salign=&quot;&quot; type=&quot;application/x-shockwave-flash&quot; align=&quot;middle&quot;  height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;/embed&gt;
+&lt;/object&gt;</description>
+ <comments>http://www.palermoscienza.it/schede/propriet%C3%A0-ottiche-della-parabola-%E2%80%93-specchi-parabolici#comments</comments>
+ <category domain="http://www.palermoscienza.it/category/disciplina/matematica">Matematica</category>
+ <category domain="http://www.palermoscienza.it/category/tipo-di-scuola/scuola-secondaria-di-secondo-grado">Scuola Secondaria di Secondo Grado</category>
+ <category domain="http://www.palermoscienza.it/category/scuola/liceo-scientifico-cannizzaro-palermo">Liceo Scientifico Cannizzaro - Palermo</category>
+ <pubDate>Thu, 13 Nov 2008 10:03:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">133 at http://www.palermoscienza.it</guid>
+</item>
+<item>
+ <title>La macchina di Wimshurst</title>
+ <link>http://www.palermoscienza.it/schede/la-macchina-di-wimshurst</link>
+ <description>&lt;object codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0&quot; id=&quot;doc_897036358160947&quot; name=&quot;doc_897036358160947&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; align=&quot;middle&quot;	height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;param name=&quot;movie&quot;	value=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801910&amp;access_key=key-1h94dwbhqnvhaglkwggu&amp;page=1&amp;version=1&amp;viewMode=&quot;&gt;
+  &lt;param name=&quot;quality&quot; value=&quot;high&quot;&gt;
+  &lt;param name=&quot;play&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;loop&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;scale&quot; value=&quot;showall&quot;&gt;
+  &lt;param name=&quot;wmode&quot; value=&quot;opaque&quot;&gt;
+  &lt;param name=&quot;devicefont&quot; value=&quot;false&quot;&gt;
+  &lt;param name=&quot;bgcolor&quot; value=&quot;#ffffff&quot;&gt;
+  &lt;param name=&quot;menu&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;&gt;
+  &lt;param name=&quot;salign&quot; value=&quot;&quot;&gt;
+  &lt;embed src=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801910&amp;access_key=key-1h94dwbhqnvhaglkwggu&amp;page=1&amp;version=1&amp;viewMode=&quot; quality=&quot;high&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; play=&quot;true&quot; loop=&quot;true&quot; scale=&quot;showall&quot; wmode=&quot;opaque&quot; devicefont=&quot;false&quot; bgcolor=&quot;#ffffff&quot; name=&quot;doc_897036358160947_object&quot; menu=&quot;true&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; salign=&quot;&quot; type=&quot;application/x-shockwave-flash&quot; align=&quot;middle&quot;  height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;/embed&gt;
+&lt;/object&gt;</description>
+ <comments>http://www.palermoscienza.it/schede/la-macchina-di-wimshurst#comments</comments>
+ <category domain="http://www.palermoscienza.it/category/disciplina/matematica">Matematica</category>
+ <category domain="http://www.palermoscienza.it/category/tipo-di-scuola/scuola-secondaria-di-secondo-grado">Scuola Secondaria di Secondo Grado</category>
+ <category domain="http://www.palermoscienza.it/category/scuola/liceo-scientifico-cannizzaro-palermo">Liceo Scientifico Cannizzaro - Palermo</category>
+ <pubDate>Thu, 13 Nov 2008 09:16:40 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">128 at http://www.palermoscienza.it</guid>
+</item>
+<item>
+ <title>Inversore di Peaucellier</title>
+ <link>http://www.palermoscienza.it/schede/inversore-di-peaucellier</link>
+ <description>&lt;object codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0&quot; id=&quot;doc_710430073571687&quot; name=&quot;doc_710430073571687&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; align=&quot;middle&quot;	height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;param name=&quot;movie&quot;	value=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801882&amp;access_key=key-1ud95wojikyc00y11rht&amp;page=1&amp;version=1&amp;viewMode=&quot;&gt;
+  &lt;param name=&quot;quality&quot; value=&quot;high&quot;&gt;
+  &lt;param name=&quot;play&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;loop&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;scale&quot; value=&quot;showall&quot;&gt;
+  &lt;param name=&quot;wmode&quot; value=&quot;opaque&quot;&gt;
+  &lt;param name=&quot;devicefont&quot; value=&quot;false&quot;&gt;
+  &lt;param name=&quot;bgcolor&quot; value=&quot;#ffffff&quot;&gt;
+  &lt;param name=&quot;menu&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;&gt;
+  &lt;param name=&quot;salign&quot; value=&quot;&quot;&gt;
+  &lt;embed src=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801882&amp;access_key=key-1ud95wojikyc00y11rht&amp;page=1&amp;version=1&amp;viewMode=&quot; quality=&quot;high&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; play=&quot;true&quot; loop=&quot;true&quot; scale=&quot;showall&quot; wmode=&quot;opaque&quot; devicefont=&quot;false&quot; bgcolor=&quot;#ffffff&quot; name=&quot;doc_710430073571687_object&quot; menu=&quot;true&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; salign=&quot;&quot; type=&quot;application/x-shockwave-flash&quot; align=&quot;middle&quot;  height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;/embed&gt;
+&lt;/object&gt;</description>
+ <comments>http://www.palermoscienza.it/schede/inversore-di-peaucellier#comments</comments>
+ <category domain="http://www.palermoscienza.it/category/disciplina/matematica">Matematica</category>
+ <category domain="http://www.palermoscienza.it/category/tipo-di-scuola/scuola-secondaria-di-secondo-grado">Scuola Secondaria di Secondo Grado</category>
+ <category domain="http://www.palermoscienza.it/category/scuola/liceo-scientifico-cannizzaro-palermo">Liceo Scientifico Cannizzaro - Palermo</category>
+ <pubDate>Thu, 13 Nov 2008 08:17:47 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">122 at http://www.palermoscienza.it</guid>
+</item>
+<item>
+ <title>Generazione di quartiche: lemniscata di Bernoulli (sistema articolato)</title>
+ <link>http://www.palermoscienza.it/schede/generazione-di-quartiche-lemniscata-di-bernoulli-sistema-articolato</link>
+ <description>&lt;object codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0&quot; id=&quot;doc_978681391182367&quot; name=&quot;doc_978681391182367&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; align=&quot;middle&quot;	height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;param name=&quot;movie&quot;	value=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801846&amp;access_key=key-2eyugg3zp87abz8vrwcs&amp;page=1&amp;version=1&amp;viewMode=&quot;&gt;
+  &lt;param name=&quot;quality&quot; value=&quot;high&quot;&gt;
+  &lt;param name=&quot;play&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;loop&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;scale&quot; value=&quot;showall&quot;&gt;
+  &lt;param name=&quot;wmode&quot; value=&quot;opaque&quot;&gt;
+  &lt;param name=&quot;devicefont&quot; value=&quot;false&quot;&gt;
+  &lt;param name=&quot;bgcolor&quot; value=&quot;#ffffff&quot;&gt;
+  &lt;param name=&quot;menu&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;&gt;
+  &lt;param name=&quot;salign&quot; value=&quot;&quot;&gt;
+  &lt;embed src=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801846&amp;access_key=key-2eyugg3zp87abz8vrwcs&amp;page=1&amp;version=1&amp;viewMode=&quot; quality=&quot;high&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; play=&quot;true&quot; loop=&quot;true&quot; scale=&quot;showall&quot; wmode=&quot;opaque&quot; devicefont=&quot;false&quot; bgcolor=&quot;#ffffff&quot; name=&quot;doc_978681391182367_object&quot; menu=&quot;true&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; salign=&quot;&quot; type=&quot;application/x-shockwave-flash&quot; align=&quot;middle&quot;  height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;/embed&gt;
+&lt;/object&gt;</description>
+ <comments>http://www.palermoscienza.it/schede/generazione-di-quartiche-lemniscata-di-bernoulli-sistema-articolato#comments</comments>
+ <category domain="http://www.palermoscienza.it/category/disciplina/matematica">Matematica</category>
+ <category domain="http://www.palermoscienza.it/category/tipo-di-scuola/scuola-secondaria-di-secondo-grado">Scuola Secondaria di Secondo Grado</category>
+ <category domain="http://www.palermoscienza.it/category/scuola/liceo-scientifico-cannizzaro-palermo">Liceo Scientifico Cannizzaro - Palermo</category>
+ <pubDate>Tue, 11 Nov 2008 10:46:42 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">111 at http://www.palermoscienza.it</guid>
+</item>
+<item>
+ <title>Generazione di quartiche. Lemniscata di Bernoulli</title>
+ <link>http://www.palermoscienza.it/schede/generazione-di-quartiche-lemniscata-di-bernoulli</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://www.palermoscienza.it/schede/generazione-di-quartiche-lemniscata-di-bernoulli&quot; target=&quot;_blank&quot;&gt;leggi tutto&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://www.palermoscienza.it/schede/generazione-di-quartiche-lemniscata-di-bernoulli#comments</comments>
+ <category domain="http://www.palermoscienza.it/category/disciplina/matematica">Matematica</category>
+ <category domain="http://www.palermoscienza.it/category/tipo-di-scuola/scuola-secondaria-di-secondo-grado">Scuola Secondaria di Secondo Grado</category>
+ <category domain="http://www.palermoscienza.it/category/scuola/liceo-scientifico-cannizzaro-palermo">Liceo Scientifico Cannizzaro - Palermo</category>
+ <pubDate>Tue, 11 Nov 2008 10:40:42 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">110 at http://www.palermoscienza.it</guid>
+</item>
+<item>
+ <title>Ellissografo di Proclo</title>
+ <link>http://www.palermoscienza.it/schede/ellissografo-di-proclo</link>
+ <description>&lt;object codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0&quot; id=&quot;doc_107816409090329&quot; name=&quot;doc_107816409090329&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; align=&quot;middle&quot;	height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;param name=&quot;movie&quot;	value=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801821&amp;access_key=key-1uthq995qrarota1pucs&amp;page=1&amp;version=1&amp;viewMode=&quot;&gt;
+  &lt;param name=&quot;quality&quot; value=&quot;high&quot;&gt;
+  &lt;param name=&quot;play&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;loop&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;scale&quot; value=&quot;showall&quot;&gt;
+  &lt;param name=&quot;wmode&quot; value=&quot;opaque&quot;&gt;
+  &lt;param name=&quot;devicefont&quot; value=&quot;false&quot;&gt;
+  &lt;param name=&quot;bgcolor&quot; value=&quot;#ffffff&quot;&gt;
+  &lt;param name=&quot;menu&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;&gt;
+  &lt;param name=&quot;salign&quot; value=&quot;&quot;&gt;
+  &lt;embed src=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801821&amp;access_key=key-1uthq995qrarota1pucs&amp;page=1&amp;version=1&amp;viewMode=&quot; quality=&quot;high&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; play=&quot;true&quot; loop=&quot;true&quot; scale=&quot;showall&quot; wmode=&quot;opaque&quot; devicefont=&quot;false&quot; bgcolor=&quot;#ffffff&quot; name=&quot;doc_107816409090329_object&quot; menu=&quot;true&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; salign=&quot;&quot; type=&quot;application/x-shockwave-flash&quot; align=&quot;middle&quot;  height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;/embed&gt;
+&lt;/object&gt;</description>
+ <comments>http://www.palermoscienza.it/schede/ellissografo-di-proclo#comments</comments>
+ <category domain="http://www.palermoscienza.it/category/disciplina/matematica">Matematica</category>
+ <category domain="http://www.palermoscienza.it/category/tipo-di-scuola/scuola-secondaria-di-secondo-grado">Scuola Secondaria di Secondo Grado</category>
+ <category domain="http://www.palermoscienza.it/category/scuola/liceo-scientifico-cannizzaro-palermo">Liceo Scientifico Cannizzaro - Palermo</category>
+ <pubDate>Tue, 11 Nov 2008 10:24:21 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">107 at http://www.palermoscienza.it</guid>
+</item>
+<item>
+ <title>Ellissografo di Leonardo</title>
+ <link>http://www.palermoscienza.it/schede/ellissografo-di-leonardo</link>
+ <description>&lt;object codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0&quot; id=&quot;doc_787393616630101&quot; name=&quot;doc_787393616630101&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; align=&quot;middle&quot;	height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;param name=&quot;movie&quot;	value=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801820&amp;access_key=key-deo57tupplw0zek0fgo&amp;page=1&amp;version=1&amp;viewMode=&quot;&gt;
+  &lt;param name=&quot;quality&quot; value=&quot;high&quot;&gt;
+  &lt;param name=&quot;play&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;loop&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;scale&quot; value=&quot;showall&quot;&gt;
+  &lt;param name=&quot;wmode&quot; value=&quot;opaque&quot;&gt;
+  &lt;param name=&quot;devicefont&quot; value=&quot;false&quot;&gt;
+  &lt;param name=&quot;bgcolor&quot; value=&quot;#ffffff&quot;&gt;
+  &lt;param name=&quot;menu&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;&gt;
+  &lt;param name=&quot;salign&quot; value=&quot;&quot;&gt;
+  &lt;embed src=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801820&amp;access_key=key-deo57tupplw0zek0fgo&amp;page=1&amp;version=1&amp;viewMode=&quot; quality=&quot;high&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; play=&quot;true&quot; loop=&quot;true&quot; scale=&quot;showall&quot; wmode=&quot;opaque&quot; devicefont=&quot;false&quot; bgcolor=&quot;#ffffff&quot; name=&quot;doc_787393616630101_object&quot; menu=&quot;true&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; salign=&quot;&quot; type=&quot;application/x-shockwave-flash&quot; align=&quot;middle&quot;  height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;/embed&gt;
+&lt;/object&gt;</description>
+ <comments>http://www.palermoscienza.it/schede/ellissografo-di-leonardo#comments</comments>
+ <category domain="http://www.palermoscienza.it/category/disciplina/matematica">Matematica</category>
+ <category domain="http://www.palermoscienza.it/category/tipo-di-scuola/scuola-secondaria-di-secondo-grado">Scuola Secondaria di Secondo Grado</category>
+ <category domain="http://www.palermoscienza.it/category/scuola/liceo-scientifico-cannizzaro-palermo">Liceo Scientifico Cannizzaro - Palermo</category>
+ <pubDate>Tue, 11 Nov 2008 10:21:54 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">106 at http://www.palermoscienza.it</guid>
+</item>
+</channel>
+</rss>

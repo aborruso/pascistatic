@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.palermoscienza.it"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>PALERMOSCIENZA - città</title>
+ <link>http://www.palermoscienza.it/taxonomy/term/83/0</link>
+ <description></description>
+ <language>it</language>
+<item>
+ <title>esperienza inSegna in città</title>
+ <link>http://www.palermoscienza.it/news/esperianza-insegna-citt%C3%A0</link>
+ <description>&lt;p&gt;Quest&amp;#39;anno &lt;strong&gt;PALERMOSCIENZA esperienza inSegna&lt;/strong&gt; vivrà anche aldifuori del polididattico di Viale delle Scienze, e la potrete seguire in altri luoghi della città. Qui sotto &lt;a href=&quot;http://www.palermoscienza.it/system/files/esperienza_insegna_in_citta_2011.pdf&quot;&gt;calendario e programma&lt;/a&gt; di &lt;strong&gt;PALERMOSCIENZA esperienza inSegna in città&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Vi aspettiamo!&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;object data=&quot;http://d1.scribdassets.com/ScribdViewer.swf&quot; height=&quot;400&quot; id=&quot;doc_70492&quot; name=&quot;doc_70492&quot; style=&quot;outline:none;&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;700&quot;&gt;&lt;param name=&quot;quality&quot; value=&quot;high&quot; /&gt; &lt;param name=&quot;movie&quot; value=&quot;http://d1.scribdassets.com/ScribdViewer.swf&quot; /&gt; &lt;param name=&quot;wmode&quot; value=&quot;opaque&quot; /&gt; &lt;param name=&quot;bgcolor&quot; value=&quot;#ffffff&quot; /&gt; &lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt; &lt;param name=&quot;FlashVars&quot; value=&quot;document_id=49339534&amp;amp;access_key=key-169nogszksjjotw9dmt8&amp;amp;page=1&amp;amp;viewMode=list&quot; /&gt; &lt;embed allowscriptaccess=&quot;always&quot; bgcolor=&quot;#ffffff&quot; height=&quot;400&quot; id=&quot;doc_70492&quot; name=&quot;doc_70492&quot; quality=&quot;high&quot; src=&quot;http://d1.scribdassets.com/ScribdViewer.swf&quot; style=&quot;outline:none;&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;700&quot; wmode=&quot;opaque&quot;&gt;&lt;/embed&gt; &lt;/object&gt;&lt;/div&gt;
+</description>
+ <comments>http://www.palermoscienza.it/news/esperianza-insegna-citt%C3%A0#comments</comments>
+ <category domain="http://www.palermoscienza.it/category/keywords/2011">2011</category>
+ <category domain="http://www.palermoscienza.it/category/keywords/citt%C3%A0">città</category>
+ <category domain="http://www.palermoscienza.it/category/keywords/esperienza-insegna">esperienza inSegna</category>
+ <category domain="http://www.palermoscienza.it/category/keywords/palermo">palermo</category>
+ <enclosure url="http://www.palermoscienza.it/system/files/esperienza_insegna_in_citta_2011.pdf" length="1606661" type="application/pdf" />
+ <pubDate>Tue, 22 Feb 2011 18:46:18 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">429 at http://www.palermoscienza.it</guid>
+</item>
+</channel>
+</rss>

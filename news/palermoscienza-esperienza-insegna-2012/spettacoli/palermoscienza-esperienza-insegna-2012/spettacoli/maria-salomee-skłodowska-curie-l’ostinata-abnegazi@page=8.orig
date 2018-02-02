@@ -1,0 +1,650 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it" dir="ltr">
+
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>News | PALERMOSCIENZA</title>
+
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ctools/css/ctools.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/fivestar/css/fivestar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/lightbox2/css/lightbox.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/mollom/mollom.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/oembed/oembed.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/tagadelic/tagadelic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/forum/forum.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/misc/farbtastic/farbtastic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/calendar/calendar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/panels/css/panels.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/layout.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/graphics.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/typography.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/links.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/giordani/giordani.css?i" />
+
+        <!--[if IE 6]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie6.css" />
+      <![endif]-->
+
+        <!--[if IE 7]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie7.css" />
+      <![endif]-->
+
+
+        <script type="text/javascript" src="/misc/jquery.js?i"></script>
+<script type="text/javascript" src="/misc/drupal.js?i"></script>
+<script type="text/javascript" src="//var/nadir/drupal/palermoscienza/languages/it_790dce158f5eb1dfc93047e4aacef555.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/equalheights/jquery.equalheights.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/fivestar/js/fivestar.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/auto_image_handling.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/mollom/mollom.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "fivestar": { "titleUser": "Il tuo voto: ", "titleAverage": "Media: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Il tuo voto è stato salvato.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": "0", "file_path": "/(\\w\\w/)system/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 1, "force_show_nav": 0, "show_caption": true, "loop_items": 1, "node_link_text": "", "node_link_target": 0, "image_count": "Immagine !current di !total", "video_count": "Video !current of !total", "page_count": "Pagina !current di !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "preview", "image_node_sizes": "(\\.thumbnail)", "trigger_lightbox_classes": "img.flickr-photo-img,img.flickr-photoset-img", "trigger_lightbox_group_classes": "img.thumbnail, img.image-thumbnail", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){$('.eqheight').equalHeights().css('overflow', 'visible');});
+//--><!]]>
+</script>
+    </head>
+
+
+    <body>
+
+        <div id="utilities">
+            <form action="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/maria-salomee-sk%C5%82odowska-curie-l%E2%80%99ostinata-abnegazi?page=8"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Cerca nel sito: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Inserisci i termini da cercare." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Cerca"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-55d164b296819c93113c79c9fd273f21" value="form-55d164b296819c93113c79c9fd273f21"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+
+                            <div id="plinks">
+                <ul class="links primary-links"><li class="menu-285 first"><a href="/" title="Benvenuti">Home</a></li>
+<li class="menu-2067"><a href="/associazione-palermoscienza" title="Associazione PALERMOSCIENZA">L&#039;associazione</a></li>
+<li class="menu-6708"><a href="/esperienza-insegna-story" title="">Esperienza inSegna</a></li>
+<li class="menu-415 active-trail"><a href="/news" title="">News</a></li>
+<li class="menu-329"><a href="/contact" title="Contattaci">Contattaci</a></li>
+<li class="menu-1191"><a href="http://newsletter.palermoscienza.it/lists/?p=subscribe&amp;id=3" title="La Newsletter di PALERMOSCIENZA">Newsletter</a></li>
+<li class="menu-337"><a href="/link" title="Link">Link</a></li>
+<li class="menu-6671 last"><a href="/social" title="">Social</a></li>
+</ul>
+                </div>                    </div>
+
+
+        <div id="page">
+
+            <div id="header">
+                
+                
+                <div id="casa_cn">
+                    <div id="casa">
+                        <a href="/">
+                            <span id="logo">
+                            </span>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+
+            
+
+
+
+            <div class="wrapper"><!--wrapper:defines whole content margins-->
+
+                <!-- left -->
+                                <div class="lsidebar">
+
+
+                        
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2017</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="expanded first last"><a href="/esperienza-insegna-2017" title="">Esperienza inSegna 2017</a><ul class="menu"><li class="leaf first"><a href="/esperienza-insegna-2017/dove" title="">Dove</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/informazioni" title="">Informazioni</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/quando" title="">Quando</a></li>
+<li class="leaf last"><a href="/esperienza-insegna-2017/calendario" title="">Calendario</a></li>
+</ul></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2016</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2016" title="">Esperienza inSegna 2016</a></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2015</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2015" title="">Esperienza inSegna 2015</a></li>
+</ul></div>
+</div>
+ <div class="loginblock">
+    <h2 class="login">Login utente</h2><!--block title-->
+   <div class="blockcontent"><form action="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/maria-salomee-sk%C5%82odowska-curie-l%E2%80%99ostinata-abnegazi?destination=news%2Fpalermoscienza-esperienza-insegna-2012%2Fspettacoli%2Fpalermoscienza-esperienza-insegna-2012%2Fspettacoli%2Fmaria-salomee-sk%C5%82odowska-curie-l%E2%80%99ostinata-abnegazi%3Fpage%3D8"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Nome utente: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Accedi"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="/user/password" title="Richiedi una nuova password per e-mail.">Richiedi una nuova password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-2e41310fba8dd04070a86e5ed4f3cd62" value="form-2e41310fba8dd04070a86e5ed4f3cd62"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+                </div><!-- end left -->
+                    
+
+
+                <div id="primary" class="long">
+                     <div class="singlepage">
+                         <div class="path"><p><span>You are here</span>News</p></div>
+                    
+                    <h1>News</h1>
+                                        <div class="drdot">
+                        <hr />
+                    </div>
+
+
+<div class="view view-ps-news view-id-ps_news view-display-id-page_1 view-dom-id-1">
+        <div class="view-header">
+      <p>Le ultime notizie di PalermoScienza</p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/un-mare-di-scienza-al-centro-la-scienza">Un Mare di Scienza al Centro per la scienza</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">09 giugno 2013</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p><img alt="" src="http://www.palermoscienza.it/system/files/DSC_4689_S.jpg" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px; float: left;" />Questa estate l&#39;associazione <strong>PALERMOSCIENZA</strong>, con il coinvolgimento di <strong>INAF - Osservatorio Astronomico di Palermo</strong>, ripropone il progetto <em><strong>Un mare di scienza</strong></em>, ideato per far vivere ai <strong>bambini </strong>tra i <strong>5 </strong>e i <strong>12</strong> <strong>anni </strong>un&rsquo;<strong>estate</strong> all&rsquo;insegna della <strong>scienza</strong>.</p>
+<p>Dal <strong>17 giugno</strong> al <strong>12 luglio</strong>, presso il nostro <em>Centro per la scienza</em>, sito in via Salerno 19 presso l&#39;IC Cruillas (<a href="http://goo.gl/maps/2Y6nJ" target="_blank">mappa</a>), animatori specializzati coinvolgeranno i bambini in laboratori giornalieri, trasformandoli in piccoli scienziati, rendendoli attori delle loro scoperte e creazioni e stimolando la loro voglia di imparare, comprendere e comunicare attraverso il gioco e la manualità. Ciascun laboratorio è auto-consistente in modo che i singoli partecipanti possano inserirsi in qualsiasi giorno trovando sempre cose interessanti da fare. Ogni mattina dunque il tempo trascorrerà alla scoperta dei pianeti e delle stelle, o andando a caccia di simmetrie, o &quot;misurandosi&quot; col concetto di misura o, ancora, sperimentando la scienza da vedere e da mangiare.</p>
+<p>In allegato la <a href="http://www.palermoscienza.it/system/files/brochure_mare_di_scienza.pdf" target="_blank"><strong>brochure informativa</strong></a> in cui troverete maggiori dettagli.</p>
+<p>Per <strong>informazioni</strong> e <strong>iscrizioni </strong>contattare, dal lunedì al venerdì dalle ore 10:00 alle ore 13:00 e dalle 16:00 alle 19:00, la<strong>&nbsp;</strong>segreteria dell&#39;associazione ai numeri 3668028227 / 3334612148 o per email&nbsp;<a href="mailto:segreteria@palermoscienza.it">segreteria@palermoscienza.it</a>.</p>
+<p><a href="http://www.palermoscienza.it/system/files/brochure_mare_di_scienza.pdf" target="_blank"><img alt="" src="http://www.palermoscienza.it/system/files/DSC_4689_S.jpg" style="width: 745px; height: 460px; border-width: 0px; border-style: solid; margin: 0px;" /></a></p>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_86 first"><a href="/category/keywords/bambini" rel="tag" title="">bambini</a></li>
+<li class="taxonomy_term_125"><a href="/category/keywords/estate" rel="tag" title="">estate</a></li>
+<li class="taxonomy_term_61"><a href="/category/keywords/palermo" rel="tag" title="">palermo</a></li>
+<li class="taxonomy_term_49 last"><a href="/category/keywords/scienza" rel="tag" title="">scienza</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/al-la-seconda-edizione-de-la-notte-bianca-della-scuola">Al via la seconda edizione de La Notte Bianca della Scuola</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">28 maggio 2013</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p><a href="http://www.palermoscienza.it/system/files/notte%20bianca%20della%20scuola_0.pdf" target="_blank"><img alt="" src="http://www.palermoscienza.it/system/files/notte bianca della scuola.jpg" style="width: 151px; height: 200px; border-width: 0px; border-style: solid; margin: 2px; float: right;" /></a>La 19esima edizione di <i><b>Palermo apre le porte. La scuola adotta la città</b></i><i> </i>sta per concludersi:<i> </i>venerdì <b>31 maggio</b> alle ore <b>17.00</b>, sulla scalinata del Teatro Massimo avrà luogo la cerimonia di chiusura con la riconsegna al Sindaco, da parte delle scuole partecipanti, delle chiavi della città.</p>
+<p>A seguire, l&#39;inauguraione della seconda edizione della <a href="http://www.comune.palermo.it/palermoapreleporte2013.php?sel=1&amp;asel=40" target="_blank"><b>Notte Bianca della Scuola</b></a>, evento conclusivo della manifestazione, rivolto alla scuola palermitana e aperto all&#39;intera cittadinanza.</p>
+<p>Per l&#39;occasione alcuni tratti del centro storico saranno chiusi al traffico e dedicati alle molteplici e diversificate attività previste in <a href="http://www.palermoscienza.it/system/files/notte%20bianca%20della%20scuola_0.pdf" target="_blank"><strong>programma</strong></a> e che si terranno dalle ore <b>17.</b><b>00</b><b> </b>fino alle ore <b>24.</b><b>00</b>.</p>
+<p>L&#39;associazione <b>PALERMOSCIENZA</b>, come l&#39;anno precedente, sarà presente in due postazioni: una in <b>via Cavour</b> (nel tratto stradale all&#39;altezza della libreria <i>La Feltrinelli</i> e attiva dalle ore <b>18.15</b>) e una in <b>via Roma</b> (tra via Napoli e via Bandiera e attiva dalle ore <b>18.00</b>).</p>
+<p>I laboratori ludico-scientifici saranno incentrati sulle <b>mappe,</b> tema scelto dall&#39;Associazione come filo conduttore di tutti i maggiori eventi annuali. Le mappe saranno analizzate, vissute e rivisitare sotto chiavi differenti; saranno proposti giochi, costruzioni e ricostruzioni, oggetti da assemblare, e altro ancora.</p>
+<p>Vi aspettiamo numerosi!</p>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_61 first"><a href="/category/keywords/palermo" rel="tag" title="">palermo</a></li>
+<li class="taxonomy_term_108 last"><a href="/category/keywords/scuola" rel="tag" title="">scuola</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/palermoscienza-al-massimo">PALERMOSCIENZA al... Massimo!</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">14 maggio 2013</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p><img height="1" src="http://www.palermoscienza.it/system/files/886633_146510655525047_1158815882_o.jpg" width="1" /><a href="https://www.facebook.com/palermoapreleporte" target="_blank"><img alt="Palermo apre le porte. La scuola adotta la città - XIX edizione" src="http://www.palermoscienza.it/system/files/886633_146510655525047_1158815882_o.jpg" style="width: 200px; height: 286px; border-width: 0px; border-style: solid; margin: 2px; float: right;" /></a>Anche quest&#39;anno l&#39;associazione PALERMOSCIENZA partecipa alla manifestazione <em><strong>Palermo apre le porte. La scuola adotta la città</strong></em>, organizzata dal Comune di Palermo e giunta alla 19esima edizione. Il tema dell&#39;edizione 2013 è &quot;Palermo tra profumi, colori, suoni e memoria&quot;.</p>
+<p>Tra i prossimi appuntamenti di PALERMOSCIENZA vi sarà un laboratorio incentrato sull&#39;acustica che avrà luogo all&#39;interno della suggestiva Sala Pompeiana del <strong>Teatro Massimo</strong>, uno degli edifici adottati durante la manifestazione.</p>
+<p><strong>Venerdì 17</strong>, <strong>sabato 18</strong> e <strong>domenica 19 maggio</strong>, dalle ore <strong>9.30</strong> alle ore <strong>16.30</strong>, i visitatori potranno sperimentare la particolare acustica della sala e le caratteristiche di questa branca della fisica. Ogni singolo laboratorio &ndash; della durata massima di 15 minuti e pensato sia per adulti che per i più piccoli &ndash; , si inserisce nel normale percorso di visita del Teatro Massimo.</p>
+<p>L&#39;ingresso è gratuito.</p>
+<p>Per ulteriori informazioni contattare il Teatro Massimo:</p>
+<ul>
+<li><a href="http://www.teatromassimo.it">www.teatromassimo.it</a></li>
+<li>tel. 0916053580</li>
+<li>numero verde 800907080</li>
+</ul>
+<p>&nbsp;</p>
+<p style="text-align: center;"><a href="http://www.teatromassimo.it" target="_blank"><img alt="" src="http://www.palermoscienza.it/system/files/logo Teatro Massimo.jpeg" style="width: 460px; height: 118px; border-width: 0px; border-style: solid; margin: 2px;" /></a></p>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_124 first"><a href="/category/keywords/acustica" rel="tag" title="">acustica</a></li>
+<li class="taxonomy_term_123"><a href="/category/keywords/comune-di-palermo" rel="tag" title="">Comune di Palermo</a></li>
+<li class="taxonomy_term_50 last"><a href="/category/keywords/teatro" rel="tag" title="">teatro</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/occhi-su-saturno-sabato-18-maggio-2013-una-serata-mostrare-saturno-allitalia">Occhi su Saturno: sabato 18 maggio 2013, una serata per mostrare Saturno all&#039;Italia</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">13 maggio 2013</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p><img alt="" src="http://www.palermoscienza.it/system/files/OcchiSaturno.jpg" style="width: 253px; height: 191px; border-width: 0px; border-style: solid; margin: 2px; float: right;" />Il secondo appuntamento di maggio presso il <strong>Centro per la scienza di Palermo</strong> si inserisce nell&rsquo;ambito della manifestazione &ldquo;Occhi su Saturno&rdquo; (<a href="http://www.occhisusaturno.it/" target="_blank">http://www.occhisusaturno.it/</a>) ideata nel 2012 dall&rsquo;Associazione Stellaria di Perinaldo per celebrare il 300&deg; anniversario della morte del grande astronomo Gian Domenico Cassini (Perinaldo 1625 &ndash; Parigi, 1712).</p>
+<p>Per l&rsquo;edizione 2013 sono previsti oltre 100 eventi in tutta Italia, tra i quali quello organizzato dall&rsquo;Associazione PALERMOSCIENZA, l&rsquo;INAF - Osservatorio Astronomico di Palermo e il Piano Lauree Scientifiche Fisica: dalle ore <strong>20.00</strong> alle ore<strong> 24.00</strong>, nella sede del <strong>Centro per la scienza </strong>di Palermo, inaugurato lo scorso 9 aprile, e con sede presso l&rsquo;<strong>Istituto Comprensivo Statale Cruillas</strong> (<a href="http://goo.gl/maps/j151w" target="_blank">via Salerno 19</a>) si terrà una serata di osservazione del cielo ai telescopi nella quale saranno coinvolti alcuni studenti del corso di laurea in Fisica, una breve introduzione su Saturno, osservazioni in remoto, video proiezioni e visita alla mostra permanente di exhibit scientifici costruiti dall&rsquo;associazione PALERMOSCIENZA e dall&rsquo;Istituto d&#39;Arte V. Ragusa e O. Kjoara di Palermo.</p>
+<p>Parteciperanno all&#39;evento anche l&rsquo;associazione Planetaria.it, portando un telescopio per l&rsquo;osservazione serale ed alcuni meteoriti e il giornale scientifico on line Tvspace.it, che realizzerà un reportage della serata.</p>
+<p>&ldquo;Occhi su Saturno&rdquo; ha il patrocinio della Società Astronomica Italiana, dell&rsquo;Istituto Nazionale di Astrofisica, dell&rsquo;Unione Astrofili Italiani, dell&rsquo;Agenzia Spaziale Italiana e dell&rsquo;European Astrosky Network.</p>
+<p>L&rsquo;ingresso è gratuito e non occorre prenotare.</p>
+<p>Per ulteriori informazioni:</p>
+<ul>
+<li><a href="mailto:segreteria@palermoscienza.it">segreteria@palermoscienza.it</a></li>
+<li>366 8028227 - 333 4612148</li>
+<li><a href="http://www.astropa.unipa.it/OcchiSaturno2013.html">http://www.astropa.unipa.it/OcchiSaturno2013.html</a></li>
+</ul>
+<p>Vi aspettiamo!</p>
+</div>
+    
+    
+                
+        
+    
+            
+    
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/la-chimica-cucina-presso-il-centro-la-scienza-di-palermo">La Chimica in cucina presso il Centro per la scienza di Palermo</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">27 aprile 2013</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>L&#39;associazione PALERMOSCIENZA ha dato il via ai primi appuntamenti presso il <b>Centro per la scienza </b>di Palermo, inaugurato lo scorso 9 aprile, e con sede presso l&rsquo;<a href="http://www.iccruillas.it/" target="_blank">Istituto Comprensivo Statale <b>Cruillas</b></a>&nbsp;(via Salerno 19).</p>
+<p>Mercoledì <b>8 maggio</b>, dalle ore <b>18.00</b> alle ore <b>20.</b><b>0</b><b>0</b>, gli esperti Chiara Guarisco e Giorgio Nasillo intratterranno i partecipanti svelando i segreti della <i><b>C</b></i><i><b>himica in cucina</b></i><i>,</i> in<i> </i>un incontro aperto a un pubblico adulto e pensato per un numero totale di <b>50 </b>partecipanti.</p>
+<p>Sarà inoltre possibile visitare la mostra permanente di exhibit scientifici costruiti dall&rsquo;associazione PALERMOSCIENZA e dall&rsquo;<a href="http://www.istitutoartepalermo.eu/" target="_blank">Istituto d&#39;Arte V. Ragusa e O. Kjoara</a> di Palermo.</p>
+<p>Per informazioni e prenotazioni scrivere a&nbsp; <a href="mailto:segreteria@palermoscienza.it">segreteria@palermoscienza.it</a> o telefonare al 333 4612148.</p>
+<p>Per ragioni organizzative<strong>&nbsp;è necessario prenotarsi</strong>.</p>
+<p>Vi aspettiamo!</p>
+<p><img alt="" src="http://www.palermoscienza.it/system/files/Chimica in cucina.jpg" style="text-align: center; width: 740px; height: 272px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_121 first"><a href="/category/keywords/centro-la-scienza" rel="tag" title="">centro per la scienza</a></li>
+<li class="taxonomy_term_98"><a href="/category/keywords/chimica" rel="tag" title="">chimica</a></li>
+<li class="taxonomy_term_59"><a href="/category/keywords/cucina" rel="tag" title="">cucina</a></li>
+<li class="taxonomy_term_61 last"><a href="/category/keywords/palermo" rel="tag" title="">palermo</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/palermo-apre-le-porte-la-scuola-adotta-la-citt%C3%A0">Palermo apre le porte. La scuola adotta la città.</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">15 aprile 2013</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>Tra <i>profumi, colori, suoni e memoria</i> è cominciata la 19esima edizione di <i><b>Palermo apre le porte. La scuola adotta la città.</b></i></p>
+<p>Anche quest&#39;anno l&#39;associazione <strong>PALERMOSCIENZA </strong>partecipa alla manifestazione <i>Palermo apre le porte. </i><i>La scuola adotta la città</i>, organizzata dal Comune di Palermo e giunta alla 19esima edizione. Il tema dell&#39;edizione 2013 è &quot;Palermo tra profumi, colori, suoni e memoria&quot;.</p>
+<p>PALERMOSCIENZA sarà presente con diverse attività secondo il seguente calendario:</p>
+<p><b>venerdì 19 aprile</b><br />Un laboratorio pomeridiano per bambini e genitori, presso la Biblioteca delle Balate, dedicato ad alcune scolaresche del quartiere. Nell&#39;arco di due ore il chimico e il fisico si intervalleranno con esperimenti e giochi con la luce e i colori.</p>
+<p><b>venerdì 17, sabato </b><b>18 e </b><b>domenica </b><b>19 maggio</b><br />Uno degli edifici che sarà adottato durante la manifestazione è il Teatro Massimo. PALERMOSCIENZA terrà un laboratorio scientifico nella Sala Pompeiana: i visitatori potranno sperimentare come qualunque suono prodotto nel centro di questa sala non sia udibile al di fuori della stessa grazie alla forma non simmetrica che determina effetti di risonanza particolari.</p>
+<p><b>venerdì 31 maggio</b><br /><i><b>Notte bianca della scuola</b></i><br />Le attività proposte per questa edizione saranno incentrate sulle <b>mappe,</b> tema scelto dall&#39;Associazione come filo conduttore di tutti i maggiori eventi annuali. Le mappe saranno analizzate, vissute e rivisitare sotto chiavi differenti: il chimico, il fisico, il biologico e il matematico proporanno giochi, costruizioni e ricostruzioni, oggetti da assemblare, e altro ancora.</p>
+<p>Nel video alcuni momenti delle attività svolte durante la giornata inaugurale &ndash; domenica <b>17 marzo</b> iniziata con un raduno a Piazza Castelnuovo, sfilata fino a Piazza Verdi, dove sulla scalinata del Teatro Massimo, si è potuto assistere a una breve rappresentazione teatrale tratta dal racconto <i>Il gigante egoista</i> di Oscar Wilde e infine il discorso inaugurale con consegna delle chiavi della città da parte del sindaco Leoluca Orlando agli studenti.</p>
+<p>Vi terremo informati con ulteriori e più dettagliate notizie.</p>
+<p>A presto!<img alt="" src="http://www.palermoscienza.it/system/files/2013-04-15_21h40_16.jpg" style="width: 1px; height: 1px;" /></p>
+<p>&nbsp;</p>
+<div align="center">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" height="364" id="vp1i0mzS" width="648"><param name="movie" value="http://static.animoto.com/swf/w.swf?w=swf/vp1&amp;e=1366054722&amp;f=i0mzSnpSY3idhgAKk3shjA&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed allowfullscreen="true" allowscriptaccess="always" height="364" id="vp1i0mzS" src="http://static.animoto.com/swf/w.swf?w=swf/vp1&amp;e=1366054722&amp;f=i0mzSnpSY3idhgAKk3shjA&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" type="application/x-shockwave-flash" width="648"></embed></object></div>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_61 first"><a href="/category/keywords/palermo" rel="tag" title="">palermo</a></li>
+<li class="taxonomy_term_108 last"><a href="/category/keywords/scuola" rel="tag" title="">scuola</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/centro-la-scienza-un-anticipazione-di-domani">Centro per la scienza: un&#039;anticipazione di domani</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">08 aprile 2013</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>Domani festeggeremo la nascita del primo <strong><a href="http://www.palermoscienza.it/news/nasce-il-primo-nucleo-di-un-centro-la-scienza-palermo" target="_blank">Centro per la Scienza di Palermo</a></strong>. Nel video qui sotto un&#39;anticipazione di ciò che vedrete.</p>
+<p>Si tratta di una bella e speciale <strong>Tavola Periodica</strong> creata dal <a href="http://www.istitutoartepalermo.eu/" target="_blank"><strong>Liceo Artistico di Palermo &quot;Vincenzo Ragusa e Otama Kiyohara&quot;</strong></a>, che ha vinto nel 2011 il II <a href="http://portale.unipa.it/home/Events/2012/02/premiazionestudenti.html" target="_blank">premio</a> al <em>contest </em>internazionale dell&#39;<a href="http://ectn-assoc.cpe.fr/network/ectn5_ec2e2n.htm" target="_blank">European Chemistry and Chemical Engineering Education Network </a>(EC2E2N).<img alt="" src="http://www.palermoscienza.it/system/files/titanio.jpg" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+<div align="center"><iframe allowfullscreen="" frameborder="0" height="480" src="http://www.youtube.com/embed/gBdlN5F28T8?rel=0" width="640"></iframe></div>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_122 first"><a href="/category/keywords/centro" rel="tag" title="">centro</a></li>
+<li class="taxonomy_term_98"><a href="/category/keywords/chimica" rel="tag" title="">chimica</a></li>
+<li class="taxonomy_term_61"><a href="/category/keywords/palermo" rel="tag" title="">palermo</a></li>
+<li class="taxonomy_term_49 last"><a href="/category/keywords/scienza" rel="tag" title="">scienza</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/nasce-il-primo-nucleo-di-un-centro-la-scienza-palermo">Nasce il primo nucleo di un centro per la scienza a Palermo</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">03 aprile 2013</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p><span style="font-family: arial, sans-serif; font-size: 13px;"><a href="http://www.iccruillas.it/" target="_blank"><img alt="" src="http://www.palermoscienza.it/system/files/Logo_Cruillas.gif" style="width: 200px; height: 201px; float: right;" /></a>Martedì&nbsp;</span><strong style="font-family: arial, sans-serif; font-size: 13px;">9 aprile</strong><span style="font-family: arial, sans-serif; font-size: 13px;">&nbsp;2013, alle ore&nbsp;</span><strong style="font-family: arial, sans-serif; font-size: 13px;">10.00</strong><span style="font-family: arial, sans-serif; font-size: 13px;">, presso l&rsquo;Istituto Comprensivo Statale Cruillas di Palermo (</span><a href="http://goo.gl/maps/j151w" style="font-family: arial, sans-serif; font-size: 13px; color: rgb(17, 85, 204);" target="_blank">via Salerno 19</a><span style="font-family: arial, sans-serif; font-size: 13px;">), l&#39;associazione&nbsp;</span><strong style="font-family: arial, sans-serif; font-size: 13px;">PALERMOSCIENZA&nbsp;</strong><span style="font-family: arial, sans-serif; font-size: 13px;">e la scuola&nbsp;</span><strong style="font-family: arial, sans-serif; font-size: 13px;">I.C. Cruillas</strong><span style="font-family: arial, sans-serif; font-size: 13px;">&nbsp;inaugurano il primo nucleo di un</span><strong style="font-family: arial, sans-serif; font-size: 13px;"><em>centro per la scienza</em></strong><span style="font-family: arial, sans-serif; font-size: 13px;">&nbsp;a Palermo.&nbsp;</span></p>
+<div style="font-family: arial, sans-serif; font-size: 13px;">Per l&rsquo;occasione sarà presentata al pubblico la mostra permanente di exhibit scientifici costruiti dall&rsquo;Associazione e dall&rsquo;Istituto d&#39;Arte V. Ragusa e O. Kjoara. Nel corso della mattinata l&rsquo;Associazione presenterà inoltre un ventaglio delle attività che si terranno nel nuovo spazio: giochi ed esperienze per bambini e genitori, conferenze, workshop.</div>
+<div style="font-family: arial, sans-serif; font-size: 13px;">&nbsp;</div>
+<div style="font-family: arial, sans-serif; font-size: 13px;">Per informazioni scrivere a&nbsp;<a style="color: rgb(17, 85, 204);">segreteria@palermoscienza.it</a>, o telefonare ai numeri&nbsp;<font color="#1155cc">3</font><font color="#1155cc">668028227</font>&nbsp;e&nbsp;<font color="#1155cc">3334612148</font>.</div>
+<div style="font-family: arial, sans-serif; font-size: 13px;">&nbsp;</div>
+<div style="font-family: arial, sans-serif; font-size: 13px;">Vi aspettiamo numerosi!</div>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_121 first"><a href="/category/keywords/centro-la-scienza" rel="tag" title="">centro per la scienza</a></li>
+<li class="taxonomy_term_61"><a href="/category/keywords/palermo" rel="tag" title="">palermo</a></li>
+<li class="taxonomy_term_49 last"><a href="/category/keywords/scienza" rel="tag" title="">scienza</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/esperienza-insegna-2013-mappare-lambiente-avete-continuato-la-cura">Esperienza inSegna 2013: Mappare l&#039;ambiente... avete continuato la cura?</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">30 marzo 2013</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<div>A distanza di più di un mese ecco altre due <strong>pillole </strong>di <em><strong>Esperienza inSegna 2013: Mappare l&#39;ambiente</strong></em>, con il desiderio di ripercorrere, attraverso una versione in <strong>musica </strong>e <strong>movimento</strong>, un pò di esperienze fatte durante l&#39;ultima edizione.</div>
+<div>&nbsp;</div>
+<div>Per finire in bellezza, nella seconda pillola, un pò di <strong>visi </strong>- e <strong>sorrisi</strong>! - incontrati da me e da <strong>Edoardo </strong>durante le lunghe e interessanti &quot;passeggiate&quot; nei corridoi del Polididattico dell&#39;Università di Palermo.</div>
+<div>&nbsp;</div>
+<div>Ricordiamo a tutti che PALERMOSCIENZA continua le sue attività. Vi terremo dunque informati per la futura &ldquo;degustazione&rdquo; di pillole di altro tipo!</div>
+<div><img alt="" src="http://www.palermoscienza.it/system/files/2013-03-30_22h50_03.jpg" style="width: 1px; height: 1px;" /></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div align="center">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" height="364" id="vp1vnnke" width="648"><param name="movie" value="http://static.animoto.com/swf/w.swf?w=swf/vp1&amp;e=1364680584&amp;f=vnnkeyPbMf0Z237wN2CEcg&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed allowfullscreen="true" allowscriptaccess="always" height="364" id="vp1vnnke" src="http://static.animoto.com/swf/w.swf?w=swf/vp1&amp;e=1364680584&amp;f=vnnkeyPbMf0Z237wN2CEcg&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" type="application/x-shockwave-flash" width="648"></embed></object></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div align="center">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" height="364" id="vp1P4wMY" width="648"><param name="movie" value="http://static.animoto.com/swf/w.swf?w=swf/vp1&amp;e=1364680626&amp;f=P4wMYe0V37oFUFQohHKjNw&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed allowfullscreen="true" allowscriptaccess="always" height="364" id="vp1P4wMY" src="http://static.animoto.com/swf/w.swf?w=swf/vp1&amp;e=1364680626&amp;f=P4wMYe0V37oFUFQohHKjNw&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" type="application/x-shockwave-flash" width="648"></embed></object></div>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_115 first"><a href="/category/keywords/2013" rel="tag" title="">2013</a></li>
+<li class="taxonomy_term_60 last"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/gli-appuntamenti-di-esperienza-insegna-2013-continuano">Gli appuntamenti di Esperienza inSegna 2013 continuano!</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">26 febbraio 2013</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p><img alt="" src="http://www.palermoscienza.it/system/files/comune_pa.jpg" style="width: 160px; height: 160px; border-width: 1px; border-style: solid; margin: 2px; float: right;" />Si è appena conclusa la sesta edizione della mostra incentrata quest&#39;anno sul tema&nbsp;<i>Mappare l&rsquo;ambiente&nbsp;</i>ma&nbsp;<b><i>Esperienza inSegna&nbsp;</i></b>continua.</p>
+<p>La mostra è stata la fase iniziale di una serie di attività proposte dall&#39;associazione PALERMOSCIENZA che saranno infatti distribuite nell&rsquo;arco temporale di un anno e costituiranno un&rsquo;animazione permanente rivolta principalmente a tutta la città di Palermo.<br />Si continua quindi con i seguenti appuntamenti:</p>
+<p>Sabato&nbsp;<b>2 marzo</b>&nbsp;2013, presso la Sala&nbsp;<i>De Seta</i>&nbsp;dei Cantieri culturali della Zisa di Palermo,&nbsp;<b><i>Luigi Dei</i></b>, docente dell&rsquo;Università degli Studi di Firenze, proporrà due conferenze-spettacolo:</p>
+<p><b>Ore 10.30</b><br /><b><i>Il Bolero di Ravel: la storia scientifica di un puzzle fisico-matematico</i></b><br /><i>La conferenza-spettacolo narra, secondo questa visione fisica, un brano musicale famoso e particolarmente adatto a comprendere la meraviglia che sta dietro alla produzione dei suoni e alla loro propagazione nell&rsquo;aria: il Bolero di Maurice Ravel.</i></p>
+<p><b>ore 17.00</b><br /><b><i>Da Schubert a De André: i misteri della voce in musica</i></b><br /><i>La voce recitante interpretata dall&rsquo;autore, ricorrendo a registrazioni audio o video, accompagnerà il pubblico in un percorso affascinante fra le caratteristiche fisiologiche della voce e le sue applicazioni al canto, avventurandosi nei meandri delle interazioni fra la voce in musica e le nostre percezioni neurofisiologiche.</i></p>
+<p>&nbsp;</p>
+<p>Vi aspettiamo!</p>
+<p>Per informazioni e prenotazioni:<br /><a href="mailto:segreteria@palermoscienza.it">segreteria@palermoscienza.it</a><br />366 8028227<br />333 4612148</p>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_115 first"><a href="/category/keywords/2013" rel="tag" title="">2013</a></li>
+<li class="taxonomy_term_118"><a href="/category/keywords/conferenza" rel="tag" title="">conferenza</a></li>
+<li class="taxonomy_term_60"><a href="/category/keywords/esperienza-insegna" rel="tag" title="">esperienza inSegna</a></li>
+<li class="taxonomy_term_120"><a href="/category/keywords/musica" rel="tag" title="">musica</a></li>
+<li class="taxonomy_term_119 last"><a href="/category/keywords/spettacolo" rel="tag" title="">spettacolo</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-first first"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/maria-salomee-sk%C5%82odowska-curie-l%E2%80%99ostinata-abnegazi" title="Vai alla prima pagina" class="active">« primo</a></li>
+<li class="pager-previous"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/maria-salomee-sk%C5%82odowska-curie-l%E2%80%99ostinata-abnegazi?page=7" title="Vai alla pagina precedente" class="active">‹ precedente</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/maria-salomee-sk%C5%82odowska-curie-l%E2%80%99ostinata-abnegazi?page=4" title="Vai alla pagina 5" class="active">5</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/maria-salomee-sk%C5%82odowska-curie-l%E2%80%99ostinata-abnegazi?page=5" title="Vai alla pagina 6" class="active">6</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/maria-salomee-sk%C5%82odowska-curie-l%E2%80%99ostinata-abnegazi?page=6" title="Vai alla pagina 7" class="active">7</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/maria-salomee-sk%C5%82odowska-curie-l%E2%80%99ostinata-abnegazi?page=7" title="Vai alla pagina 8" class="active">8</a></li>
+<li class="pager-current">9</li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/maria-salomee-sk%C5%82odowska-curie-l%E2%80%99ostinata-abnegazi?page=9" title="Vai alla pagina 10" class="active">10</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/maria-salomee-sk%C5%82odowska-curie-l%E2%80%99ostinata-abnegazi?page=10" title="Vai alla pagina 11" class="active">11</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/maria-salomee-sk%C5%82odowska-curie-l%E2%80%99ostinata-abnegazi?page=11" title="Vai alla pagina 12" class="active">12</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/maria-salomee-sk%C5%82odowska-curie-l%E2%80%99ostinata-abnegazi?page=12" title="Vai alla pagina 13" class="active">13</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/maria-salomee-sk%C5%82odowska-curie-l%E2%80%99ostinata-abnegazi?page=9" title="Vai alla pagina successiva" class="active">successiva ›</a></li>
+<li class="pager-last last"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/maria-salomee-sk%C5%82odowska-curie-l%E2%80%99ostinata-abnegazi?page=18" title="Vai all&#039;ultima pagina" class="active">ultima »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>                 </div>
+            </div>
+
+
+
+            <!-- right -->
+                
+
+
+            <div class="clear"></div>
+
+        </div>
+
+        </div>
+        <!-- Close Page -->
+
+        <div id="footer">
+        
+
+   <p><a href="//www.iubenda.com/privacy-policy/808816" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a></p>
+<script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>        </div>
+<script src="http://cdn.wibiya.com/Toolbars/dir_1133/Toolbar_1133932/Loader_1133932.js" type="text/javascript"></script><noscript><a href="http://www.wibiya.com/">Web Toolbar by Wibiya</a></noscript><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-90058-23"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+    </body>
+</html>

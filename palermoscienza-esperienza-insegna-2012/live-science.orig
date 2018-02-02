@@ -1,0 +1,522 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it" dir="ltr">
+
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>CNR live science | PALERMOSCIENZA</title>
+
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="palermo, scienza, didattica, didattica informale, exhibit, mostre, laboratori, strumenti scientifici antichi, macchine matematiche, scuola, fisica, chimica, biologia, scienze della terra, matematica" />
+<link rel="prev" href="/palermoscienza-esperienza-insegna-2012/documentario" />
+<link rel="up" href="/esperienza-insegna-2012" />
+<link rel="next" href="/palermoscienza-esperienza-insegna-2012/spettacoli" />
+        <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ctools/css/ctools.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/fivestar/css/fivestar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/lightbox2/css/lightbox.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/mollom/mollom.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/oembed/oembed.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/tagadelic/tagadelic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/forum/forum.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/misc/farbtastic/farbtastic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/calendar/calendar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/panels/css/panels.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/layout.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/graphics.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/typography.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/links.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/giordani/giordani.css?i" />
+
+        <!--[if IE 6]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie6.css" />
+      <![endif]-->
+
+        <!--[if IE 7]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie7.css" />
+      <![endif]-->
+
+
+        <script type="text/javascript" src="/misc/jquery.js?i"></script>
+<script type="text/javascript" src="/misc/drupal.js?i"></script>
+<script type="text/javascript" src="//var/nadir/drupal/palermoscienza/languages/it_790dce158f5eb1dfc93047e4aacef555.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/equalheights/jquery.equalheights.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/fivestar/js/fivestar.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/auto_image_handling.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/mollom/mollom.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?i"></script>
+<script type="text/javascript" src="/misc/tableheader.js?i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "fivestar": { "titleUser": "Il tuo voto: ", "titleAverage": "Media: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Il tuo voto è stato salvato.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": "0", "file_path": "/(\\w\\w/)system/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 1, "force_show_nav": 0, "show_caption": true, "loop_items": 1, "node_link_text": "", "node_link_target": 0, "image_count": "Immagine !current di !total", "video_count": "Video !current of !total", "page_count": "Pagina !current di !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "preview", "image_node_sizes": "(\\.thumbnail)", "trigger_lightbox_classes": "img.flickr-photo-img,img.flickr-photoset-img", "trigger_lightbox_group_classes": "img.thumbnail, img.image-thumbnail", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){$('.eqheight').equalHeights().css('overflow', 'visible');});
+//--><!]]>
+</script>
+    </head>
+
+
+    <body>
+
+        <div id="utilities">
+            <form action="/palermoscienza-esperienza-insegna-2012/live-science"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Cerca nel sito: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Inserisci i termini da cercare." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Cerca"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-51496ef84f82e1c24fdca9af3f9ad733" value="form-51496ef84f82e1c24fdca9af3f9ad733"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+
+                            <div id="plinks">
+                <ul class="links primary-links"><li class="menu-285 first"><a href="/" title="Benvenuti">Home</a></li>
+<li class="menu-2067"><a href="/associazione-palermoscienza" title="Associazione PALERMOSCIENZA">L&#039;associazione</a></li>
+<li class="menu-6708"><a href="/esperienza-insegna-story" title="">Esperienza inSegna</a></li>
+<li class="menu-415"><a href="/news" title="">News</a></li>
+<li class="menu-329"><a href="/contact" title="Contattaci">Contattaci</a></li>
+<li class="menu-1191"><a href="http://newsletter.palermoscienza.it/lists/?p=subscribe&amp;id=3" title="La Newsletter di PALERMOSCIENZA">Newsletter</a></li>
+<li class="menu-337"><a href="/link" title="Link">Link</a></li>
+<li class="menu-6671 last"><a href="/social" title="">Social</a></li>
+</ul>
+                </div>                    </div>
+
+
+        <div id="page">
+
+            <div id="header">
+                
+                
+                <div id="casa_cn">
+                    <div id="casa">
+                        <a href="/">
+                            <span id="logo">
+                            </span>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+
+            
+
+
+
+            <div class="wrapper"><!--wrapper:defines whole content margins-->
+
+                <!-- left -->
+                                <div class="lsidebar">
+
+
+                        
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2017</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="expanded first last"><a href="/esperienza-insegna-2017" title="">Esperienza inSegna 2017</a><ul class="menu"><li class="leaf first"><a href="/esperienza-insegna-2017/dove" title="">Dove</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/informazioni" title="">Informazioni</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/quando" title="">Quando</a></li>
+<li class="leaf last"><a href="/esperienza-insegna-2017/calendario" title="">Calendario</a></li>
+</ul></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2016</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2016" title="">Esperienza inSegna 2016</a></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2015</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2015" title="">Esperienza inSegna 2015</a></li>
+</ul></div>
+</div>
+ <div class="loginblock">
+    <h2 class="login">Login utente</h2><!--block title-->
+   <div class="blockcontent"><form action="/palermoscienza-esperienza-insegna-2012/live-science?destination=node%2F494"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Nome utente: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Accedi"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="/user/password" title="Richiedi una nuova password per e-mail.">Richiedi una nuova password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-b7f41333f7fb407bfcbe96276a4a923f" value="form-b7f41333f7fb407bfcbe96276a4a923f"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+                </div><!-- end left -->
+                    
+
+
+                <div id="primary" class="long">
+                     <div class="singlepage">
+                         <div class="path"><p><span>You are here</span><a href="/esperienza-insegna-2012">PALERMOSCIENZA Esperienza inSegna 2012</a> / CNR live science</p></div>
+                    
+                    <h1>CNR live science</h1>
+                                        <div class="drdot">
+                        <hr />
+                    </div>
+
+
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+        
+		        
+    <div class="content">
+	
+	
+	<TABLE WIDTH=100% CELLPADDING=4 CELLSPACING=0 STYLE="page-break-before: always">
+	<COL WIDTH=16%>
+	<COL WIDTH=16%>
+	<COL WIDTH=16%>
+	<COL WIDTH=16%>
+	<COL WIDTH=16%>
+	<COL WIDTH=16%>
+	<COL WIDTH=16%>
+	<COL WIDTH=16%>
+	<TR VALIGN=TOP>
+		<TD WIDTH=84 HEIGHT=11 STYLE="; border-top: 1px solid #e6e6e6; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0.11cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt"><B>25/02/2012</B></FONT></P>
+		</TD>
+		<TD WIDTH=83 STYLE="; border-top: 1px solid #e6e6e6; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0.11cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER><FONT SIZE=1 STYLE="font-size: 8pt"><B>27/02/2012</B></FONT></P>
+		</TD>
+		<TD WIDTH=59 STYLE="; border-top: 1px solid #e6e6e6; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0.11cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER><FONT SIZE=1 STYLE="font-size: 8pt"><B>28/02/2012</B></FONT></P>
+		</TD>
+		<TD WIDTH=64 STYLE="; border-top: 1px solid #e6e6e6; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0.11cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER><FONT SIZE=1 STYLE="font-size: 8pt"><B>29/02/2012</B></FONT></P>
+		</TD>
+		<TD WIDTH=85 STYLE="; border-top: 1px solid #e6e6e6; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0.11cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER><FONT SIZE=1 STYLE="font-size: 8pt"><B>01/03/2012</B></FONT></P>
+		</TD>
+		<TD WIDTH=78 STYLE="; border-top: 1px solid #e6e6e6; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0.11cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER><FONT SIZE=1 STYLE="font-size: 8pt"><B>02/03/2012</B></FONT></P>
+		</TD>
+		<TD WIDTH=72 STYLE="; border-top: 1px solid #e6e6e6; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0.11cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER><FONT SIZE=1 STYLE="font-size: 8pt"><B>03/03/2012</B></FONT></P>
+		</TD>
+		<TD WIDTH=73 STYLE="; border: 1px solid #e6e6e6; padding: 0.11cm">
+			<P ALIGN=CENTER><FONT SIZE=1 STYLE="font-size: 8pt"><B>04/03/2012</B></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=84 HEIGHT=36 BGCOLOR="#aecf00" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.B.F<BR>(CARROTTA)</FONT></P>
+		</TD>
+		<TD WIDTH=83 BGCOLOR="#ff950e" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.B.I.M.<BR>(DI
+			CARLO)</FONT></P>
+		</TD>
+		<TD WIDTH=59 BGCOLOR="#aecf00" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.B.F.
+			(MIGLIORE)</FONT></P>
+		</TD>
+		<TD WIDTH=64 BGCOLOR="#aecf00" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.B.F.<BR>(MIGLIORE)</FONT></P>
+		</TD>
+		<TD WIDTH=85 BGCOLOR="#ff950e" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.B.I.M.<BR>(MONTALBANO)</FONT></P>
+		</TD>
+		<TD WIDTH=78 BGCOLOR="#ccccff" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.S.M.N.<BR>(DEGANELLO)</FONT></P>
+		</TD>
+		<TD WIDTH=72 BGCOLOR="#ccccff" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.S.M.N.<BR>(DEGANELLO)</FONT></P>
+		</TD>
+		<TD WIDTH=73 BGCOLOR="#ccccff" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: 1px solid #e6e6e6; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0.11cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.S.M.N.<BR>(DEGANELLO)</FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=84 HEIGHT=36 BGCOLOR="#ff950e" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.B.I.M.
+			(DI CARLO)</FONT></P>
+		</TD>
+		<TD WIDTH=83 BGCOLOR="#aecf00" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.B.F<BR>(CARROTTA)</FONT></P>
+		</TD>
+		<TD WIDTH=59 STYLE="; border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=LEFT><BR>
+			</P>
+		</TD>
+		<TD WIDTH=64 BGCOLOR="#ccccff" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.S.M.N.<BR>(LIOTTA)</FONT></P>
+		</TD>
+		<TD WIDTH=85 BGCOLOR="#ff950e" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.B.I.M.<BR>(DI
+			BLASI)</FONT></P>
+		</TD>
+		<TD WIDTH=78 BGCOLOR="#ff950e" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.B.I.M.(BONGIOVANNI)</FONT></P>
+		</TD>
+		<TD WIDTH=72 STYLE="; border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER><BR>
+			</P>
+		</TD>
+		<TD WIDTH=73 STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: 1px solid #e6e6e6; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0.11cm">
+			<P ALIGN=CENTER><BR>
+			</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=84 HEIGHT=25 STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm"></TD>
+		<TD WIDTH=83 STYLE="; border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm"></TD>
+		<TD WIDTH=59 STYLE="; border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=LEFT><BR>
+			</P>
+		</TD>
+		<TD WIDTH=64 BGCOLOR="#83caff" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.A.M.C.
+			(CUTTITTA)</FONT></P>
+		</TD>
+		<TD WIDTH=85 BGCOLOR="#83caff" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.A.M.C.
+			(CUTTITTA)</FONT></P>
+		</TD>
+		<TD WIDTH=78 BGCOLOR="#83caff" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER STYLE="border: none; padding: 0cm"><FONT SIZE=1 STYLE="font-size: 8pt">I.A.M.C.<BR>(CUTTITTA)</FONT></P>
+		</TD>
+		<TD WIDTH=72 STYLE="; border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P ALIGN=CENTER><BR>
+			</P>
+		</TD>
+		<TD WIDTH=73 STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: 1px solid #e6e6e6; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0.11cm">
+			<P ALIGN=CENTER><BR>
+			</P>
+		</TD>
+	</TR>
+</TABLE>
+<H3 CLASS="western">IBF - Istituto di Biofisica - Unit&agrave;
+operativa di supporto di Palermo</H3>
+<TABLE WIDTH=100% CELLPADDING=4 CELLSPACING=0>
+	<COL WIDTH=26*>
+	<COL WIDTH=230*>
+	<TR VALIGN=TOP>
+		<TD WIDTH=10% BGCOLOR="#aecf00" STYLE="border-top: 1px solid #e6e6e6; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0.11cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P STYLE="border: none; padding: 0cm"><B>IBF-1</B></P>
+		</TD>
+		<TD WIDTH=90% STYLE="; border: 1px solid #e6e6e6; padding: 0.11cm">
+			<P STYLE="margin-bottom: 0.5cm; border: none; padding: 0cm"><B>LABORATORIO
+			DI BIOFISICA: INTERAZIONE LUCE-MATERIA</B><BR>RITA CARROTTA,
+			ROSINA NOTO, MARIUCCIA MANGIONE, SILVIA VILASI, ANTONELLA TOMASINO, FABIO LIBRIZZI, PIER LUIGI SAN BIAGIO</P>
+			<P STYLE="border: none; padding: 0cm">SCUOLE COINVOLTE: ISTITUTO
+			TECNICO INDUSTRIALE MAJORANA DI PALERMO (PROF. NATOLI)</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=10% BGCOLOR="#aecf00" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P STYLE="border: none; padding: 0cm"><B>IBF-2</B></P>
+		</TD>
+		<TD WIDTH=90% STYLE="; border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: 1px solid #e6e6e6; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0.11cm">
+			<P STYLE="border: none; padding: 0cm"><B>SIMULAZIONE AL COMPUTER
+			DI NEURONI</B><BR>MICHELE MIGLIORE, ROSANNA MIGLIORE<BR><a href="http://www.palermoscienza.it/system/files/SIMULAZIONE%20AL%20COMPUTER%20DI%20NEURONI.pdf" target="_blank">scheda</a><BR><BR>SCUOLE
+			COINVOLTE: CENTRO EDUCATIVO IGNAZIANO DI PALERMO(PROF. LUIGI
+			MENNA) E ISTITUTO D'ISTRUZIONE SUPERIORE &quot;UGO MURSIA&quot; DI
+			CARINI (PROF. ALFONSO ZANNELLI)</P>
+		</TD>
+	</TR>
+</TABLE>
+<H3 CLASS="western"><BR><BR>
+</H3>
+<H3 CLASS="western">ISMN - Istituto per lo Studio dei Materiali
+Nanostrutturati - Unit&agrave; operativa di supporto di Palermo</H3>
+<TABLE WIDTH=100% CELLPADDING=4 CELLSPACING=0>
+	<COL WIDTH=26*>
+	<COL WIDTH=230*>
+	<TR VALIGN=TOP>
+		<TD WIDTH=10% BGCOLOR="#ccccff" STYLE="border-top: 1px solid #e6e6e6; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0.11cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P STYLE="border: none; padding: 0cm"><STRONG><B>ISMN-1</B></STRONG>
+						</P>
+		</TD>
+		<TD WIDTH=90% STYLE="; border: 1px solid #e6e6e6; padding: 0.11cm">
+			<P STYLE="border: none; padding: 0cm"><B>La marmitta catalitica
+			per l'abbattimento dei gas di scarico di autoveicoli: effetto del
+			carburante e valutazione matematica dei dati di attivit&agrave; e
+			durabilit&agrave; del catalizzatore</B><BR>LEONARDA LIOTTA<BR><a href="http://www.palermoscienza.it/system/files/La%20marmitta%20catalitica%20per%20l%27abbattimento%20dei%20gas%20di%20scarico%20di%20autoveicoli.pdf" target="_blank">scheda</a><BR><BR>SCUOLE
+			COINVOLTE: LICEO SCIENTIFICO M. MAZZARELLO DI PALERMO</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=10% BGCOLOR="#ccccff" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P STYLE="border: none; padding: 0cm"><STRONG><B>ISMN-2</B></STRONG>
+						</P>
+		</TD>
+		<TD WIDTH=90% STYLE="; border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: 1px solid #e6e6e6; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0.11cm">
+			<P STYLE="border: none; padding: 0cm"><B>Come utilizzare i rifiuti
+			urbani per risanare l&rsquo;ambiente</B><BR>FRANCESCA DEGANELLO,
+			MARIA LUISA TESTA, CHIARA ALIOTTA, CARLA CALABRESE<BR><a href="http://www.palermoscienza.it/system/files/Come%20utilizzare%20i%20rifiuti%20urbani%20per%20risanare%20l%E2%80%99ambiente.pdf" target="_blank">scheda</a><BR><BR>SCUOLE
+			COINVOLTE: NESSUNA</P>
+		</TD>
+	</TR>
+</TABLE>
+<H3 CLASS="western"><BR><BR>
+</H3>
+<H3 CLASS="western">IAMC- Istituto per l'Ambiente Marino e Costiero-
+Unit&agrave; operativa di supporto di Capo Granitola</H3>
+<TABLE WIDTH=100% CELLPADDING=4 CELLSPACING=0>
+	<COL WIDTH=26*>
+	<COL WIDTH=230*>
+	<TR VALIGN=TOP>
+		<TD WIDTH=10% BGCOLOR="#83caff" STYLE="border-top: 1px solid #e6e6e6; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0.11cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P STYLE="border: none; padding: 0cm"><STRONG><B>IAMC</B></STRONG>
+						</P>
+		</TD>
+		<TD WIDTH=90% STYLE="; border: 1px solid #e6e6e6; padding: 0.11cm">
+			<P STYLE="border: none; padding: 0cm"><B>Il Pescato e il
+			mare</B><BR>ANGELA CUTTITTA, MARIANNA MUSCO, GABRIELLA TITONE,
+			FRANCESCA VACCARO, SANDRO FIORELLI, ANTONINO ADAMO<BR><a href="http://www.palermoscienza.it/system/files/Il%20Pescato%20e%20il%20mare.pdf" target="_blank">scheda</a><BR><BR>SCUOLE
+			COINVOLTE: NESSUNA</P>
+		</TD>
+	</TR>
+</TABLE>
+<H3 CLASS="western"><BR><BR>
+</H3>
+<H3 CLASS="western">IBIM - Istituto di Biomedicina e Immunologia
+Molecolare - Palermo</H3>
+<TABLE WIDTH=100% CELLPADDING=4 CELLSPACING=0>
+	<COL WIDTH=26*>
+	<COL WIDTH=230*>
+	<TR VALIGN=TOP>
+		<TD WIDTH=10% BGCOLOR="#ff950e" STYLE="border-top: 1px solid #e6e6e6; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0.11cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P STYLE="border: none; padding: 0cm"><STRONG><B>IBIM-1</B></STRONG>
+						</P>
+		</TD>
+		<TD WIDTH=90% STYLE="; border: 1px solid #e6e6e6; padding: 0.11cm">
+			<P STYLE="border: none; padding: 0cm"><B>La Biomedicina nelle
+			Patologie Respiratorie<BR></B>ANGELA MARINA MONTALBANO, STEFANIA
+			GERBINO, SERENA DI VINCENZO, GIULIA ANZALONE, MIRELLA PROFITA,
+			ELISABETTA PACE<BR><a href="http://www.palermoscienza.it/system/files/La%20Biomedicina%20nelle%20Patologie%20Respiratorie.pdf" target="_blank">scheda</a><BR><BR>SCUOLE COINVOLTE: LICEO CLASSICO MELI</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=10% BGCOLOR="#ff950e" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P STYLE="border: none; padding: 0cm"><B>IBIM-2</B></P>
+		</TD>
+		<TD WIDTH=90% STYLE="; border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: 1px solid #e6e6e6; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0.11cm">
+			<P STYLE="border: none; padding: 0cm"><B>Il DNA: la Chimica della
+			Vita</B><BR>MARTA DI CARLO, PASQUALE PICONE, DOMENICO NUZZO, LUCA
+			CARUANA, IRENE PAGLIARELLO<BR><a href="http://www.palermoscienza.it/system/files/Il%20DNA%2C%20la%20Chimica%20della%20Vita.pdf" target="_blank">scheda</a><BR><BR>SCUOLE COINVOLTE: LICEO
+			SCIENTIFICO GALILEI DI PALERMO</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=10% BGCOLOR="#ff950e" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P STYLE="border: none; padding: 0cm"><B>IBIM-3</B></P>
+		</TD>
+		<TD WIDTH=90% STYLE="; border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: 1px solid #e6e6e6; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0.11cm">
+			<P STYLE="border: none; padding: 0cm"><B>Le Biotecnologie nel
+			campo Agro-Alimentare<BR></B>FRANCESCO DI BLASI, GAETANO SPINELLI,
+			FRANCESCA VALENTINO, GIULIA SIGNORINO<BR><a href="http://www.palermoscienza.it/system/files/Le%20Biotecnologie%20nel%20campo%20Agro-Alimentare.pdf" target="_blank">scheda</a><BR><BR>SCUOLE COINVOLTE:
+			LICEO CLASSICO MELI</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=10% BGCOLOR="#ff950e" STYLE="border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: none; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0cm">
+			<P STYLE="border: none; padding: 0cm"><B>IBIM-4</B></P>
+		</TD>
+		<TD WIDTH=90% STYLE="; border-top: none; border-bottom: 1px solid #e6e6e6; border-left: 1px solid #e6e6e6; border-right: 1px solid #e6e6e6; padding-top: 0cm; padding-bottom: 0.11cm; padding-left: 0.11cm; padding-right: 0.11cm">
+			<P STYLE="border: none; padding: 0cm"><B>Biotecnologia cellulare:
+			studiare il funzionamento e lo sviluppo del muscolo
+			scheletrico<BR></B>ANTONELLA BONGIOVANNI, DANIELE ROMANCINO,
+			ANTONELLA LAVANCO<BR><a href="http://www.palermoscienza.it/system/files/Biotecnologia%20cellulare%2C%20studiare%20il%20funzionamento%20e%20lo%20sviluppo%20del%20muscolo%20scheletrico.pdf" target="_blank">scheda</a><BR><BR>SCUOLE COINVOLTE: LICEO CLASSICO MELI</P>
+		</TD>
+	</TR>
+</TABLE>
+<P><img src="http://www.palermoscienza.it/system/files/Logo%20CNR_0.png">
+</P><table id="attachments" class="sticky-enabled">
+ <thead><tr><th>Allegato</th><th>Dimensione</th> </tr></thead>
+<tbody>
+ <tr class="odd"><td><a href="http://www.palermoscienza.it/system/files/SIMULAZIONE%20AL%20COMPUTER%20DI%20NEURONI.pdf">Simulazione al computer di neuroni</a></td><td>76.3 KB</td> </tr>
+ <tr class="even"><td><a href="http://www.palermoscienza.it/system/files/La%20marmitta%20catalitica%20per%20l%27abbattimento%20dei%20gas%20di%20scarico%20di%20autoveicoli.pdf">La marmitta catalitica per l&#039;abbattimento dei gas di scarico di autoveicoli</a></td><td>522.63 KB</td> </tr>
+ <tr class="odd"><td><a href="http://www.palermoscienza.it/system/files/Come%20utilizzare%20i%20rifiuti%20urbani%20per%20risanare%20l%E2%80%99ambiente.pdf">Come utilizzare i rifiuti urbani per risanare l’ambiente</a></td><td>32.13 KB</td> </tr>
+ <tr class="even"><td><a href="http://www.palermoscienza.it/system/files/Il%20Pescato%20e%20il%20mare.pdf">Il Pescato e il mare</a></td><td>134.11 KB</td> </tr>
+ <tr class="odd"><td><a href="http://www.palermoscienza.it/system/files/La%20Biomedicina%20nelle%20Patologie%20Respiratorie.pdf">La Biomedicina nelle Patologie Respiratorie</a></td><td>189.06 KB</td> </tr>
+ <tr class="even"><td><a href="http://www.palermoscienza.it/system/files/Il%20DNA%2C%20la%20Chimica%20della%20Vita.pdf">Il DNA, la Chimica della Vita</a></td><td>202.33 KB</td> </tr>
+ <tr class="odd"><td><a href="http://www.palermoscienza.it/system/files/Le%20Biotecnologie%20nel%20campo%20Agro-Alimentare.pdf">Le Biotecnologie nel campo Agro-Alimentare</a></td><td>182.24 KB</td> </tr>
+ <tr class="even"><td><a href="http://www.palermoscienza.it/system/files/Biotecnologia%20cellulare%2C%20studiare%20il%20funzionamento%20e%20lo%20sviluppo%20del%20muscolo%20scheletrico.pdf">Biotecnologia cellulare, studiare il funzionamento e lo sviluppo del muscolo scheletrico</a></td><td>71.55 KB</td> </tr>
+</tbody>
+</table>
+  <div id="book-navigation-466" class="book-navigation">
+    
+        <div class="page-links clear-block">
+              <a href="/palermoscienza-esperienza-insegna-2012/documentario" class="page-previous" title="Vai alla pagina precedente"> ‹Documentario</a>
+                    <a href="/esperienza-insegna-2012" class="page-up" title="Vai alla pagina padre">su</a>
+                    <a href="/palermoscienza-esperienza-insegna-2012/spettacoli" class="page-next" title="Vai alla pagina successiva">Spettacoli ›</a>
+          </div>
+    
+  </div>
+</div>
+    
+    
+                
+        
+    
+            
+    
+  </div>
+                </div>
+            </div>
+
+
+
+            <!-- right -->
+                
+
+
+            <div class="clear"></div>
+
+        </div>
+
+        </div>
+        <!-- Close Page -->
+
+        <div id="footer">
+        
+
+   <p><a href="//www.iubenda.com/privacy-policy/808816" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a></p>
+<script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>        </div>
+<script src="http://cdn.wibiya.com/Toolbars/dir_1133/Toolbar_1133932/Loader_1133932.js" type="text/javascript"></script><noscript><a href="http://www.wibiya.com/">Web Toolbar by Wibiya</a></noscript><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-90058-23"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+    </body>
+</html>

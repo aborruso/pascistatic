@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.palermoscienza.it"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>PALERMOSCIENZA - Astronomia</title>
+ <link>http://www.palermoscienza.it/taxonomy/term/53/0</link>
+ <description></description>
+ <language>it</language>
+<item>
+ <title>Il cielo in una stanza</title>
+ <link>http://www.palermoscienza.it/schede/il-cielo-una-stanza</link>
+ <description>&lt;p&gt;&lt;object width=&quot;100%&quot; height=&quot;500&quot; align=&quot;middle&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; name=&quot;doc_122191672392878&quot; id=&quot;doc_122191672392878&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0&quot;&gt;
+&lt;param value=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7804257&amp;amp;access_key=key-1aajqz4x068ueyeulir6&amp;amp;page=1&amp;amp;version=1&amp;amp;viewMode=&quot; name=&quot;movie&quot; /&gt;
+&lt;param value=&quot;high&quot; name=&quot;quality&quot; /&gt;
+&lt;param value=&quot;true&quot; name=&quot;play&quot; /&gt;
+&lt;param value=&quot;true&quot; name=&quot;loop&quot; /&gt;
+&lt;param value=&quot;showall&quot; name=&quot;scale&quot; /&gt;
+&lt;param value=&quot;opaque&quot; name=&quot;wmode&quot; /&gt;
+&lt;param value=&quot;false&quot; name=&quot;devicefont&quot; /&gt;
+&lt;param value=&quot;#ffffff&quot; name=&quot;bgcolor&quot; /&gt;
+&lt;param value=&quot;true&quot; name=&quot;menu&quot; /&gt;
+&lt;param value=&quot;true&quot; name=&quot;allowFullScreen&quot; /&gt;
+&lt;param value=&quot;always&quot; name=&quot;allowScriptAccess&quot; /&gt;
+&lt;param value=&quot;&quot; name=&quot;salign&quot; /&gt;   &lt;embed width=&quot;100%&quot; height=&quot;500&quot; align=&quot;middle&quot; type=&quot;application/x-shockwave-flash&quot; salign=&quot;&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; menu=&quot;true&quot; name=&quot;doc_122191672392878_object&quot; bgcolor=&quot;#ffffff&quot; devicefont=&quot;false&quot; wmode=&quot;opaque&quot; scale=&quot;showall&quot; loop=&quot;true&quot; play=&quot;true&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; quality=&quot;high&quot; src=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7804257&amp;amp;access_key=key-1aajqz4x068ueyeulir6&amp;amp;page=1&amp;amp;version=1&amp;amp;viewMode=&quot;&gt;&lt;/embed&gt;    &lt;/object&gt;&lt;/p&gt;
+</description>
+ <comments>http://www.palermoscienza.it/schede/il-cielo-una-stanza#comments</comments>
+ <category domain="http://www.palermoscienza.it/category/disciplina/astronomia">Astronomia</category>
+ <category domain="http://www.palermoscienza.it/category/tipo-di-scuola/scuola-secondaria-di-secondo-grado">Scuola Secondaria di Secondo Grado</category>
+ <category domain="http://www.palermoscienza.it/category/scuola/istituto-tecnico-commerciale-crispi">Istituto Tecnico Commerciale Crispi</category>
+ <pubDate>Tue, 11 Nov 2008 11:07:51 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">114 at http://www.palermoscienza.it</guid>
+</item>
+</channel>
+</rss>

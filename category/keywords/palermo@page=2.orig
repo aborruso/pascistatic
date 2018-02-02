@@ -1,0 +1,668 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it" dir="ltr">
+
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>palermo | PALERMOSCIENZA</title>
+
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link rel="alternate" type="application/rss+xml" title="RSS - palermo" href="/category/keywords/palermo/feed" />
+        <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ctools/css/ctools.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/fivestar/css/fivestar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/lightbox2/css/lightbox.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/mollom/mollom.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/oembed/oembed.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/tagadelic/tagadelic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/forum/forum.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/misc/farbtastic/farbtastic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/calendar/calendar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/panels/css/panels.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/taxonomy/taxonomy.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/layout.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/graphics.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/typography.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/links.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/giordani/giordani.css?i" />
+
+        <!--[if IE 6]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie6.css" />
+      <![endif]-->
+
+        <!--[if IE 7]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie7.css" />
+      <![endif]-->
+
+
+        <script type="text/javascript" src="/misc/jquery.js?i"></script>
+<script type="text/javascript" src="/misc/drupal.js?i"></script>
+<script type="text/javascript" src="//var/nadir/drupal/palermoscienza/languages/it_790dce158f5eb1dfc93047e4aacef555.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/equalheights/jquery.equalheights.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/fivestar/js/fivestar.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/auto_image_handling.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/mollom/mollom.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "fivestar": { "titleUser": "Il tuo voto: ", "titleAverage": "Media: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Il tuo voto è stato salvato.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": "0", "file_path": "/(\\w\\w/)system/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 1, "force_show_nav": 0, "show_caption": true, "loop_items": 1, "node_link_text": "", "node_link_target": 0, "image_count": "Immagine !current di !total", "video_count": "Video !current of !total", "page_count": "Pagina !current di !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "preview", "image_node_sizes": "(\\.thumbnail)", "trigger_lightbox_classes": "img.flickr-photo-img,img.flickr-photoset-img", "trigger_lightbox_group_classes": "img.thumbnail, img.image-thumbnail", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){$('.eqheight').equalHeights().css('overflow', 'visible');});
+//--><!]]>
+</script>
+    </head>
+
+
+    <body>
+
+        <div id="utilities">
+            <form action="/category/keywords/palermo?page=2"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Cerca nel sito: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Inserisci i termini da cercare." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Cerca"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-b7b441cedd5fe47738454d23041577b3" value="form-b7b441cedd5fe47738454d23041577b3"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+
+                            <div id="plinks">
+                <ul class="links primary-links"><li class="menu-285 first"><a href="/" title="Benvenuti">Home</a></li>
+<li class="menu-2067"><a href="/associazione-palermoscienza" title="Associazione PALERMOSCIENZA">L&#039;associazione</a></li>
+<li class="menu-6708"><a href="/esperienza-insegna-story" title="">Esperienza inSegna</a></li>
+<li class="menu-415"><a href="/news" title="">News</a></li>
+<li class="menu-329"><a href="/contact" title="Contattaci">Contattaci</a></li>
+<li class="menu-1191"><a href="http://newsletter.palermoscienza.it/lists/?p=subscribe&amp;id=3" title="La Newsletter di PALERMOSCIENZA">Newsletter</a></li>
+<li class="menu-337"><a href="/link" title="Link">Link</a></li>
+<li class="menu-6671 last"><a href="/social" title="">Social</a></li>
+</ul>
+                </div>                    </div>
+
+
+        <div id="page">
+
+            <div id="header">
+                
+                
+                <div id="casa_cn">
+                    <div id="casa">
+                        <a href="/">
+                            <span id="logo">
+                            </span>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+
+            
+
+
+
+            <div class="wrapper"><!--wrapper:defines whole content margins-->
+
+                <!-- left -->
+                                <div class="lsidebar">
+
+
+                        
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2017</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="expanded first last"><a href="/esperienza-insegna-2017" title="">Esperienza inSegna 2017</a><ul class="menu"><li class="leaf first"><a href="/esperienza-insegna-2017/dove" title="">Dove</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/informazioni" title="">Informazioni</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/quando" title="">Quando</a></li>
+<li class="leaf last"><a href="/esperienza-insegna-2017/calendario" title="">Calendario</a></li>
+</ul></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2016</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2016" title="">Esperienza inSegna 2016</a></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2015</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2015" title="">Esperienza inSegna 2015</a></li>
+</ul></div>
+</div>
+ <div class="loginblock">
+    <h2 class="login">Login utente</h2><!--block title-->
+   <div class="blockcontent"><form action="/category/keywords/palermo?destination=taxonomy%2Fterm%2F61%3Fpage%3D2"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Nome utente: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Accedi"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="/user/password" title="Richiedi una nuova password per e-mail.">Richiedi una nuova password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-0f0f40b0b12fd01ce354b63dd05272f5" value="form-0f0f40b0b12fd01ce354b63dd05272f5"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+                </div><!-- end left -->
+                    
+
+
+                <div id="primary" class="long">
+                     <div class="singlepage">
+                         <div class="path"><p><span>You are here</span>palermo</p></div>
+                    
+                    <h1>palermo</h1>
+                                        <div class="drdot">
+                        <hr />
+                    </div>
+
+
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/laboratori-relazioni-tra-stelle">Laboratori RELAZIONI TRA STELLE</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p>L&#39;Associazione <strong>PALERMOSCIENZA</strong> e l&#39;Associazione <strong><a href="http://www.caparle.it" target="_blank"><i>Ça Parle</i></a></strong> organizzano i laboratori &ldquo;<i><b><a href="http://www.palermoscienza.it/system/files/RELAZIONI%20TRA%20LE%20STELLE%5B1%5D.pdf" target="_blank">RELAZIONI TRA STELLE</a>&rdquo; </b></i>rivolti a bambini e ragazzi di età compresa tra i <b>4 </b>e i <b>13</b> anni.</p>
+<p>Sabato <b>26 gennaio</b>, sabato <b>2 febbraio</b> e sabato <b>9 febbraio</b>, dalle <b>9.30 </b>alle<b> 12.30</b>, presso la sede dell&#39;Associazione <i>Ça Parle</i>, gli operatori di PALERMOSCIENZA guideranno i partecipanti nel mondo dell&#39;astronomia e dell&#39;astrofisica, alla scoperta delle relazioni esistenti tra i vari tipi di stelle (che differenza c&#39;è ad esempio tra una stella di colore blu e una stella di colore rosso?) e costruendo oggetti di semplice utilizzo &ndash; come lo spettroscopio o un termometro a cristalli liquidi &ndash; per comprendere bene e in modo diretto i concetti scientifici alla base dell&rsquo;esperienza.</p>
+<p>L&#39;<b>accoglienza</b> dei bambini comincerà dalle ore <b>8.30</b> e terminerà alle ore <b>13.30</b>.</p>
+<p>La sede dell&#39;Associazione <i>Ça Parle</i> si trova in <a class="western" href="https://maps.google.it/maps?q=38.133611,13.334012&amp;ll=38.133611,13.334012&amp;spn=0.028186,0.055747&amp;num=1&amp;t=m&amp;z=15">via Mario Vaccaro, 4</a>.</p>
+<p>Per info e prenotazioni chiamare cell. 338 5629477, 388 8036127</p>
+<p><img alt="Laboratori RELAZIONI TRA STELLE" src="http://www.palermoscienza.it/system/files/caparle-palermoscienza.jpg" style="width: 728px; height: 135px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+</div>
+    
+    
+        
+        <div class="linksteaser"><div class="links"><ul class="links inline"><li class="upload_attachments first last"><a href="/news/laboratori-relazioni-tra-stelle#attachments" title="Leggi l&#039;articolo completo per vedere gli allegati.">1 allegato</a></li>
+</ul></div></div>        
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/3-e-4-gennaio-2013-laboratori-di-astronomia-al-bimpa">3 e 4 gennaio 2013: Laboratori di astronomia al BIMPA</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p><span style="color: rgb(0, 0, 0);">L&rsquo;</span><a _fcksavedurl="http://www.astropa.inaf.it/" href="http://www.astropa.inaf.it/" target="_blank">INAF-Osservatorio Astronomico di Palermo</a><span style="color: rgb(0, 0, 0);">, l&rsquo;</span><a _fcksavedurl="http://www.palermoscienza.it/" href="http://www.palermoscienza.it/" target="_blank">Associazione PALERMOSCIENZA</a><span style="color: rgb(0, 0, 0);">&nbsp;e il&nbsp;</span><a _fcksavedurl="http://www.bimpa.it/" href="http://www.bimpa.it/" target="_blank">Museo dei Bambini di Palermo (BIMPA)</a><span style="color: rgb(0, 0, 0);">&nbsp;</span>stanno lavorando insieme per proporre nuove attività ludiche, che siano da stimolo per la crescita dei bambini, considerata nei suoi aspetti specificamente scientifici ed artistici.</p>
+<p>In particolare, il 3 e il 4 gennaio prossimi verranno organizzati due laboratori/gioco di astronomia al Museo dei Bambini (BIMPA), in via Alloro 95.</p>
+<p>I laboratori, dedicati a bambini dai 6 ai 12 anni, si svolgeranno dalle 9.30 alle 12.30; sarà inoltre disponibile un servizio di accoglienza dalle 8.30 alle 13.30 e una merenda a base di torte e succhi di frutta.</p>
+<p>Si può scegliere di partecipare ad una sola giornata o ad entrambe; il costo di un singolo laboratorio è di 15 euro, ma se ci si iscriverà ad entrambi i laboratori il costo totale sarà di 25 euro. I laboratori sono riservati ad un numero massimo di 30 bambini ed e&rsquo; necessario prenotare mandando una mail a <a href="mailto:daric@astropa.inaf.it" target="_blank">daric@astropa.inaf.it</a></p>
+<p>Il <b>3 Gennaio 2013</b> affronteremo il viaggio &ldquo;<b>Dalla Terra alla Luna</b>&rdquo;.</p>
+<p>La giornata sarà dedicata a conoscere più da vicino il nostro satellite sia con attività di <i>role playing</i> che con la costruzione di modellini.</p>
+<p>Sarà ricostruito il percorso dell&rsquo;Apollo 11 per raggiungere la Luna, saranno costruite la Terra e la Luna e sarà usato un modellino del razzo per segnare le varie tappe del viaggio di andata e ritorno. Si studierà il movimento del nostro satellite, si vedrà un video che spieghi le fasi lunari, aiutandosi con il role playing si simuleranno le fasi della Luna e si costruirà un modellino delle fasi.</p>
+<p>Il laboratorio del <b>4 Gennaio 2013</b> si chiama: &ldquo;<b>C&rsquo;era una volta una stella&hellip;&rdquo;</b></p>
+<p>L&rsquo;incontro sarà dedicato ad approfondire la conoscenza delle stelle, prima fra tutte il nostro Sole. Costruiremo uno spettroscopio e un disco di Newton per familiarizzare con la scomposizione della luce. Sarà usato un planetario portatile per simulare la volta celeste; saranno costruiti un orologio notturno e un cercatore di stelle; sarà proiettato un video che mostrerà quali siano le dimensioni relative delle varie stelle e verranno usati Stellarium e delle carte stellari per imparare i nomi delle principali stelle.</p>
+<p>&nbsp;</p>
+<p>Vi aspettiamo numerosi!</p>
+<p><span style="display: none;">&nbsp;</span><img alt="" src="http://www.palermoscienza.it/system/files/lab_pimpa.jpg" style="width: 720px; height: 599px; border-width: 0px; border-style: solid; margin: 0px;" /><span style="display: none;">&nbsp;</span></p>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/esperienza-insegna-2013-mappare-l%E2%80%99ambiente">Esperienza inSegna 2013: Mappare l’ambiente</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p>Per l&#39;anno <strong>2013 </strong>l&#39;Associazione PALERMOSCIENZA inaugura le attività di <em><strong>Esperienza inSegna</strong></em> con la mostra <em>Mappare l&rsquo;ambiente</em>. Essa si inserisce in un quadro di attività che l&#39;Associazione svilupperà nell&#39;arco di tutto l&#39;anno e che avrà le mappe quale filo conduttore dominante.</p>
+<p>Dal 18 al 24 febbraio 2013, il Polididattico dell&#39;Università degli Studi di Palermo si trasformerà per l&#39;occasione in un luogo di incontro, dove approfondire, divertendosi, temi ed esperienze scientifiche. La mostra vedrà la partecipazione attiva di studenti e docenti delle scuole della città di Palermo e della provincia. Il suo fulcro sarà l&#39;esposizione degli exhibit scientifici progettati e costruiti dai docenti e dagli studenti e che riguarderanno tutti gli aspetti delle scienze con ricadute sull&rsquo;ambiente. Tra le altre attività previste vi saranno i laboratori &quot;Fare per capire&quot; ideati per partecipanti di ogni ordine e grado scolastico, durante i quali il tema delle &nbsp;mappe verrà affrontato a più livelli.</p>
+<p>Nelle prossime settimane avrete ovviamente maggiori dettagli.</p>
+<div><img alt="A map of the world" src="http://www.palermoscienza.it/system/files/2710796662_fe888e0933_o.jpg" style="width: 720px; height: 410px; border-width: 0px; border-style: solid; margin: 0px;" /><br />foto da:&nbsp;<a href="http://www.flickr.com/photos/normanbleventhalmapcenter/2710796662/" target="_blank">http://www.flickr.com/photos/normanbleventhalmapcenter/2710796662/</a></div>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/xxii-settimana-della-cultura-scientifica-e-tecnologica">XXII Settimana della Cultura Scientifica e Tecnologica</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p>L&#39;Associazione PALERMOSCIENZA partecipa alla <b>XXII Settimana della Cultura </b><b>S</b><b>cientifica e </b><b>T</b><b>ecnologica </b><span>che</span><span> </span><span><span>si svolgerà dal 15 al 21 </span></span><span><span>o</span></span><span><span>ttobre 2012. </span></span>La manifestazione, sviluppata in modo congiunto con l&#39;<a href="http://www.astropa.unipa.it/" target="_blank">INAF-Osservatorio Astronomico di Palermo</a> e l&#39;<a href="http://www.unipa.it/" target="_blank">Università degli Studi di Palermo</a>, si intitola &quot;<span><i><b>La ricerca: il nostro mondo. Un mondo migliore con la ricerca</b></i></span><span><span><span>&rdquo;</span></span></span><span><b> </b></span><span><span>ed è rivolta principalmente a studenti e docenti delle scuole di ogni ordine e grado, studenti e docenti universitari, studiosi e appassionati, famiglie e turisti. </span></span></p>
+<p><span><span>L</span></span><span><span>&#39;evento inaugurale </span></span><span><span>si terrà </span></span><span><b>l</b></span><span><b>unedì 15 dalle </b></span><span><b>20.00 alle 24.00</b></span><span><span>,</span></span><span><span> </span></span><span><span>presso la Facoltà di Ingegneria dell&#39;Università degli Studi di Palermo; </span></span><span><span>durante </span></span><span><span>la serata l</span></span><span><span>&#39;</span></span><span><span>A</span></span><span><span>ssociazione </span></span><span><span>aprirà al pubblico la mostra &quot;</span></span><span><i><b>La bellezza della matematica</b></i></span><span><span>&quot; in cui saranno esposti exhibit interattivi che rendono visibili e sperimentabili concetti matematici.</span></span></p>
+<p><span><span>Durante la manifestazionre l</span></span><span><span>&#39;</span></span><span><span>A</span></span><span><span>ssociazione </span></span><span><span>sarà inoltre presente </span></span><span><span>con le seguenti attività:</span></span></p>
+<ul>
+<li><b>s</b><b>abato 20, </b><b>dalle </b><b>9,30</b><b> </b><b>alle </b><b>12,45:</b> laboratori di <b>real time</b> per studenti della scuola secondaria di secondo grado, presso aule didattiche annesse al Museo Storico dei Motori e dei Meccanismi (laboratorio su prenotazione);</li>
+<li><b>s</b><b>abato 20, </b><b>dalle 16,00 alle 18,00</b>: laboratorio artistico-scientifico per ragazzi che si terrà presso i Cantieri Culturali alla Zisa, sede della manifestazione &quot;<i><b>Fa la cosa giusta Sicilia</b></i>&quot;, (19-21 ottobre) organizzato in collaborazione con la <b>Galleria d&rsquo;arte moderna</b> (GAM) di Palermo;</li>
+<li><b>domenica 21, dalle 10,00 alle 12,30: </b>laboratori artistico-scientifici realizzati per bambini e ragazzi in collaborazione la <a href="http://www.galleriadartemodernapalermo.it/mediacenter/FE/home.aspx" target="_blank"><b>GAM</b></a> e ospitati nel chiostro della Galleria.</li>
+</ul>
+<p><u><b>Per ulteriori e dettagliate informazioni consultare i seguenti allegati</b></u>:</p>
+<ul>
+<li><a href="http://www.palermoscienza.it/system/files/COMUNICATO%20STAMPA_XXII%20Settimana%20della%20Cultura%20Scientifica%20e%20Tecnologica.pdf" target="_blank">comunicato stampa con calendario di tutte le attività</a>;</li>
+<li><a href="http://www.palermoscienza.it/system/files/Locandina%20manifestazione.jpg" target="_blank">locandina della manifestazione</a>;</li>
+<li><a href="http://www.palermoscienza.it/system/files/Mappa%20Facolt%C3%A0%20Ingegneria.jpg" target="_blank">mappa della Facoltà di Ingegneria</a>;</li>
+<li><a href="http://www.palermoscienza.it/system/files/Mappa%20sedi%20attivit%C3%A0.jpg" target="_blank">mappa delle varie sedi situate in Viale delle Scienze nelle quali si svolgeranno le attività</a>.</li>
+</ul>
+<p>Vi aspettiamo numerosi!</p>
+<p style="text-align: center;"><img alt="" src="http://www.palermoscienza.it/system/files/Locandina manifestazione_lr.jpg" style="width: 740px; height: 1047px; border-width: 0px; border-style: solid; margin-top: 2px; margin-bottom: 2px;" /></p>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/notte-bianca-della-scuola">Notte Bianca della Scuola</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p><img alt="" src="http://www.palermoscienza.it/system/files/notte_bianca_scuolaa.jpg" style="border-width: 0px; border-style: solid; margin: 2px; float: right; width: 150px; height: 215px; " /></p>
+<div>Il <strong>25 maggio</strong> la Scuola palermitana sarà protagonista con la sua <strong>Prima Notte Bianca</strong>. L&#39;evento è un progetto del &quot;<strong>Laboratorio cittadino di educazione alla legalità</strong>&quot; e si rivolge ai giovani studenti di <strong>Palermo </strong>con l&#39;intento di commemorare il <strong>XX anniversario delle stragi del &#39;92</strong>, testimoniando il rinnovato impegno a costruire una Palermo migliore, dove la mafia, la criminalità, la violenza, il degrado, l&#39;incuria e l&#39;ignoranza saranno cancellati con i colori della Speranza.&nbsp;</div>
+<div>&nbsp;</div>
+<div>Gli studenti dalle ore 18.00 all&#39;1.00 di notte, fruiranno liberamente di alcuni spazi cittadini chiusi al traffico per l&#39;occasione (via R. Settimo, via Cavour e via Roma), che diventeranno palcoscenico delle loro libere espressioni creative. Mostre fotografiche, laboratori scientifici, percorsi narrativi, laboratori di scrittura e di recitazione, di pittura, esibizioni musicali, sfilate di moda, giochi di strada e altro animeranno per una sera le vie della città, contestualmente all&#39;apertura serale di siti monumentali che si trovano nella zona interessata dall&#39;evento.</div>
+<div>&nbsp;</div>
+<div>Ci saremo anche noi di PALERMOSCIENZA nelle modalità evidenziate sotto nel programma.</div>
+<div>&nbsp;</div>
+<div><em><strong>Siete tutti invitati a partecipare!&nbsp;</strong></em></div>
+<div>&nbsp;</div>
+<div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2 style="color: rgb(0, 0, 0); ">Programma</h2>
+<h3 style="color: rgb(0, 0, 0); ">VIA ROMA E DINTORNI</h3>
+<div style="color: rgb(0, 0, 0); ">Altezza punto vendita &quot;Bottega Verde&quot; e &quot;Thun Shop&quot;, dalle ore 19,00:</div>
+<div style="color: rgb(0, 0, 0); ">-<u><strong>Laboratori &quot;Astronomico-Matematico&quot; e &quot;Chimico&quot; (Ass.&quot;PALERMOSCIENZA&quot;)</strong></u></div>
+<div style="color: rgb(0, 0, 0); ">-Laboratori &quot;Caccia alla merenda&quot; ore 18,30; &quot;Aiutiamo Piumetto&quot; ore 19,30; &quot;Pianeta cioccolato&quot; ore 20,30 (Associazione Siciliana Consumo Consapevole)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Tratto compreso tra Via Venezia e Piazzetta Due Palme, dalle ore 18,30:</div>
+<div style="color: rgb(0, 0, 0); ">-Giochi per strada e giochi di squadra (Ass.Marabù e Settore Servizi Educativi)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Punto vendita Keys, dalle ore 18,30:</div>
+<div style="color: rgb(0, 0, 0); ">-Vetrina espositiva (Liceo Artistico Catalano)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Altezza Teatro Biondo, dalle ore 19,30:</div>
+<div style="color: rgb(0, 0, 0); ">-&quot;Staffetta musicale&quot; (Istituto Nautico Gioeni Trabia)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Punto vendita Navigare, dalle ore 18,30:</div>
+<div style="color: rgb(0, 0, 0); ">-Vetrina espositiva (Liceo Artistico Catalano)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Piazza San Domenico, dalle ore 18,30:</div>
+<div style="color: rgb(0, 0, 0); ">-Estemporanea di pittura, scultura e grafica (Liceo Artistico Catalano)</div>
+<div style="color: rgb(0, 0, 0); ">-Visita guidata della Chiesa di San Domenico (I.C. Colozza-Bonfiglio, Associazione Itiner&#39;ars ed Associazione Chiese Storiche) ore 19,00-22,00</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Altezza Piazzetta Due Palme, dalle ore 19,00:</div>
+<div style="color: rgb(0, 0, 0); ">-Laboratorio di Navigazione (Istituto Nautico Gioeni Trabia)&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">-Vetrina espositiva presso Coralia Viaggi (Istituto Nautico Gioeni Trabia)&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Tra Piazzetta Due Palme e scalinata delle Poste</div>
+<div style="color: rgb(0, 0, 0); ">-Diretta Radiofonica &quot;Prima Radio&quot; e &quot;Latte e Miele&quot;</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Scalinata delle Poste Centrali, dalle ore 19,00:</div>
+<div style="color: rgb(0, 0, 0); ">-Danza Interdisciplinare (Liceo Artistico Damiani Almeyda) ore 19,00</div>
+<div style="color: rgb(0, 0, 0); ">-Tango argentino. Diego Calarco con allieva ore 19,15</div>
+<div style="color: rgb(0, 0, 0); ">-Danza Urbana (Cervino Dance Accademy) ore 19,45</div>
+<div style="color: rgb(0, 0, 0); ">-&quot;Musicando, ballando insieme&quot; (ITG Parlatore e ITC Ferrara) ore 20,15</div>
+<div style="color: rgb(0, 0, 0); ">-Esibizione di band musicali ore 21,30</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Punto vendita Gurrera (di fronte le poste), dalle ore 19,00:</div>
+<div style="color: rgb(0, 0, 0); ">-Mostra elaborati artistici (I.C. Principessa Elena)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Tratto compreso tra la scalinata delle Poste e via Cavour, dalle ore 19,00:</div>
+<div style="color: rgb(0, 0, 0); ">-Gazebo Solidarietà ed Impegno (D.D. Ferrara plesso Valverde, Settore Servizi Educativi)</div>
+<div style="color: rgb(0, 0, 0); ">-Mostra fotografica (Liceo socio-psicopedagogico Finocchiaro Aprile)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Lungo l&#39;asse viario nelle vetrine dei punti vendita Cinti, Sacconi, Yamamay, Tezenis, Dmail e Guajana:</div>
+<div style="color: rgb(0, 0, 0); ">-Esposizioni di 12 incisioni (Liceo Artistico Damiani Almeyda)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Oratorio di S.Cita Via Valverde 3, dalle ore 18,30:</div>
+<div style="color: rgb(0, 0, 0); ">-Visita guidata (D.D Ferrara plesso Valverde ed Associazione Chiese Storiche) ore 18,30-20,30</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Salone delle conferenze:</div>
+<div style="color: rgb(0, 0, 0); ">-Proiezione di video a cura dell&#39;Associazione Nazionale Insegnanti Storia dell&#39;Arte, della Scuola dell&#39;Infanzia Comunale Galileo Galilei, dell&#39;I.C. Colozza-Bonfiglio, del Liceo Artistico Damiani Almeyda</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Atrio:</div>
+<div style="color: rgb(0, 0, 0); ">-Commedia &quot;Tiani, tianieddi, pignati e pareddi&quot; (Scuola San GIuseppe) ore 18,45 e ore 20,00</div>
+<div style="color: rgb(0, 0, 0); ">-Commedia &quot;La Giara&quot; (D.D. Pallavicino ed Ass.ne Marabù) ore 19,30</div>
+<div style="color: rgb(0, 0, 0); ">-Tarantella Siciliana (D.D. Pallavicino ed Ass.ne Marabù)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Chiesa San Mamiliano, dalle ore 18,45</div>
+<div style="color: rgb(0, 0, 0); ">-Ensemble d&#39;archi (Istituto Magistrale Regina Margherita)</div>
+<div style="color: rgb(0, 0, 0); ">-Brani di musica leggera (I.C.Lombardo Radice)</div>
+<div style="color: rgb(0, 0, 0); ">-&quot;Amor sacro e amor profano&quot; Concerto (Istituto Magistrale Regina Margherita. Liceo Musicale)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Atrio dell&#39;I.C. Turrisi Colonna-D&#39;Acquisto, dalle ore 18,45</div>
+<div style="color: rgb(0, 0, 0); ">-&quot;Marcia dei diritti dei bambini&quot;, &quot;Pensa&quot; ed i &quot;Cento Passi&quot; (I.C.G.Verdi) ore 18,45</div>
+<div style="color: rgb(0, 0, 0); ">-&quot;Esecuzione di brani musicali&quot; (I.C.Principessa Elena) ore 19,00</div>
+<div style="color: rgb(0, 0, 0); ">-&quot;Gli atropidi sgattaiolati&quot; Orchestra di percussioni e voci (D.D.F. Raciti) ore 19,15</div>
+<div style="color: rgb(0, 0, 0); ">-&quot;Percussioni, musica, danza da &quot;Carmina Burana ed Aisha&quot; (S.M.S. Quasimodo) ore 19,45</div>
+<div style="color: rgb(0, 0, 0); ">-&quot;Domani&quot; di Jovanotti (I.C. Arenella) ore 20,45</div>
+<div style="color: rgb(0, 0, 0); ">-&quot;Concerto&quot; (I.C. Turrisi Colonna-D&#39;Acquisto) ore 21,00</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Chiesa di Santa Maria in Valverde, dalle ore 18,30</div>
+<div style="color: rgb(0, 0, 0); ">-Visita guidata (I.C.Turrisi Colonna-D&#39;Acquisto ed Associazione Chiese Storiche) ore 18,30-21,00</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Angolo via Roma-via Cavour</div>
+<div style="color: rgb(0, 0, 0); ">-L&#39;uomo di latta. Installazione (S.M.S S. Quasimodo)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<h3 style="color: rgb(0, 0, 0); ">VIA CAVOUR</h3>
+<div style="color: rgb(0, 0, 0); ">Tra via Cavour e Banca d&#39;Italia:</div>
+<div style="color: rgb(0, 0, 0); ">-Giochi di strada a cura delle Associazioni &quot;Santa Chiara&quot; e &quot;Libera&quot;</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Altezza Banca d&#39;Italia, dalle ore 19,00:</div>
+<div style="color: rgb(0, 0, 0); ">-Tarantella e balli (I.C. Colozza-Bonfiglio) ore 19,00</div>
+<div style="color: rgb(0, 0, 0); ">-Esibizione di Capoeira (Liceo Artistico Damiani Almeyda)</div>
+<div style="color: rgb(0, 0, 0); ">-Hip Hop (Liceo Artistico Damiani Almeyda)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Libreria Feltrinelli, dalle ore 18,30:</div>
+<div style="color: rgb(0, 0, 0); ">-Laboratorio di narrazione &quot;Gli alberi raccontano&quot; (Officina Creativa Interculturale)</div>
+<div style="color: rgb(0, 0, 0); ">-<u><strong>Laboratori di &quot;Ambiente&quot; e di &quot;Fisica&quot; (Ass. &quot;PALERMOSCIENZA&quot;)</strong></u></div>
+<div style="color: rgb(0, 0, 0); ">-Vetrina espositiva (12 cartoline tridimensionali su Palermo del Liceo Artistico Damiani Almeyda)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Altezza Libreria Feltrinelli</div>
+<div style="color: rgb(0, 0, 0); ">-Vetrina espositiva (soggetti zoomorfi in cartapesta S.M.S S.Quasimodo)</div>
+<div style="color: rgb(0, 0, 0); ">-Gazebi Espositivi Partner</div>
+<div style="color: rgb(0, 0, 0); ">-Laboratorio di origami (Liceo socio-psicopedagogico Finocchiaro Aprile)</div>
+<div style="color: rgb(0, 0, 0); ">-Gazebi Solidarietà ed Impegno (I.T.C. Ferrara, I.C. Arenella, Settore Servizi Educativi)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<h3 style="color: rgb(0, 0, 0); ">PIAZZA VERDI</h3>
+<div style="color: rgb(0, 0, 0); ">Teatro Massimo dalle ore 17,45:</div>
+<div style="color: rgb(0, 0, 0); ">-Ore 17,45 sulla scalinata del Teatro chiusura della 18a ed. di &quot;Palermo apre le porte. La scuola adotta la città&quot;: riconsegna della chiave simbolica della città da parte delle scuole al Sindaco ed inaugurazione della 1a Notte Bianca della Scuola</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Sala Ex Caffè Letterario Teatro Massimo ore 19,00-24,00:</div>
+<div style="color: rgb(0, 0, 0); ">-Esposizione bozzetti dei figurini (Liceo Artistico Damiani Almeyda)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Scalinata:</div>
+<div style="color: rgb(0, 0, 0); ">-Pillole di Musical (Istituto per il Turismo Marco Polo) ore 21,00</div>
+<div style="color: rgb(0, 0, 0); ">-Sfilata di moda (Liceo Artistico Damiani Almeyda) ore 22,00</div>
+<div style="color: rgb(0, 0, 0); ">-Lancio di lanterne (Officina Creativa Interculturale) ore 23,30</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<h3 style="color: rgb(0, 0, 0); ">VIA R.SETTIMO E DINTORNI</h3>
+<div style="color: rgb(0, 0, 0); ">Altezza portici piazzale Ungheria, dalle ore 18,30:</div>
+<div style="color: rgb(0, 0, 0); ">-Gazebo Solidarietà ed Impegno (Centro Educativo Ignaziano, Unicef, D.D. Gabelli, Settore Servizi Educativi)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Portici piazzale Ungheria, dalle ore 18,30</div>
+<div style="color: rgb(0, 0, 0); ">-Mostra di pittura (Centro Educativo Ignaziano)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Libreria Flaccovio, ore 18,30</div>
+<div style="color: rgb(0, 0, 0); ">-Laboratorio di narrazione per bambini di scuola dell&#39;infanzia (max 21 bambini) (Scuola dell&#39;infanzia Comunale Galilei Galileo)</div>
+<div style="color: rgb(0, 0, 0); ">-Diretta Radiofonica &quot;Prima Radio&quot; e &quot;Latte e Miele&quot;</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Portici accanto edicola dopo Via Stabile (davanti punto vendita Randazzo) dalle ore 18,30:</div>
+<div style="color: rgb(0, 0, 0); ">-&quot;Occhio al dettaglio&quot; Caccia al tesoro culturale (Associazione Nazionale Insegnanti Storia dell&#39;Arte, Iscrizioni entro il 23 maggio)</div>
+<div style="color: rgb(0, 0, 0); ">-Mostra fotografica &quot;Val di Noto&quot; (Centro Educativo Ignaziano)</div>
+<div style="color: rgb(0, 0, 0); ">-Mostra fotografica (Istituto Magistrale Regina Margherita)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Sotto i portici altezza punto vendita Harrison, dalle ore 18,30:</div>
+<div style="color: rgb(0, 0, 0); ">-&quot;L&#39;impegno di Libera per le scuole&quot; (Ass.ne Libera)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Tratto tra piazza R.Settimo e Via Belmonte, ore 19,00-24,00</div>
+<div style="color: rgb(0, 0, 0); ">-Esposizione ed Estemporanea di disegno dal vivo (Grafimated Cartoon/Scuola del Fumetto)</div>
+<div style="color: rgb(0, 0, 0); ">-Giochi di strada (Associazioni &quot;Santa Chiara&quot; e &quot;Libera&quot;)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Via Generale Magliocco, accanto al bar Mazzara, ore 18,30:</div>
+<div style="color: rgb(0, 0, 0); ">-Laboratorio di pittura per bambini 3-5 anni (Scuola dell&#39;infanzia comunale Galileo Galilei)</div>
+<div style="color: rgb(0, 0, 0); ">-Laboratorio di discipline olistiche (Associazione Pradashanti)</div>
+<div style="color: rgb(0, 0, 0); ">-Vetrina espositiva presso il Bar Mazzara (Scuola dell&#39;infanzia comunale Galileo Galilei)</div>
+<div style="color: rgb(0, 0, 0); ">&nbsp;</div>
+<div style="color: rgb(0, 0, 0); ">Via Generale Magliocco, davanti Ufficio Presidenza Regionale Siciliana, dalle ore 18,30</div>
+<div style="color: rgb(0, 0, 0); ">-Esibizione degli alunni (Liceo socio-psicopedagogico Finocchiaro Aprile) ore 19,00</div>
+<div style="color: rgb(0, 0, 0); ">-Ensemble d&#39;archi, 10 elementi (Istituto Regina Margherita) ore 20,30</div>
+<div style="color: rgb(0, 0, 0); ">-Band musicali dalle ore 21,30&nbsp;</div>
+</div>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/al-la-quinta-edizione-di-esperienza-insegna">Al via la quinta edizione di Esperienza inSegna</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p style="text-align: center;"><img alt="" src="http://www.palermoscienza.it/system/files/banner_2012.png" style="width: 745px; height: 233px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+<p><span><span><span>Anche</span></span></span><span><span><span> </span></span></span><span><span><span>quest&#39;anno</span></span></span><span><span><span> </span></span></span><span><span><span>l&#39;Associazione</span></span></span><span><span><span> </span></span></span><span><span><span>PALERMOSCIENZA</span></span></span><span><span><span> da il via alla </span></span></span><span><span><span>manifestazione</span></span></span><span><span><span> </span></span></span><a href="esperienza-insegna-2012"><span><i><b>Esperienza</b></i></span><span><i><b> </b></i></span><span><i><b>inSegna</b></i></span></a><span><span><span>,</span></span></span><span><i><b> </b></i></span><span><span><span>giunta</span></span></span><span><span><span> </span></span></span><span><span><span>alla</span></span></span><span><span><span> </span></span></span><span><span><span>sua</span></span></span><span><span><span> </span></span></span><span><span><span>quinta</span></span></span><span><span><span> </span></span></span><span><span><span>edizione.</span></span></span><span><span><span> </span></span></span><span><span><span>Dal</span></span></span><span><span><span> </span></span></span><span><span><b>25</b></span></span><span><span><b> </b></span></span><span><span><b>febbraio</b></span></span><span><span><b> </b></span></span><span><span><b>al</b></span></span><span><span><b> 4 </b></span></span><span><span><b>marzo</b></span></span><span><span><span> </span></span></span><span><span><span>la</span></span></span><span><span><span> </span></span></span><span><span><span>sede</span></span></span><span><span><span> </span></span></span><span><span><span>del</span></span></span><span><span><span> </span></span></span><span><span><b>Polididattico</b></span></span><span><span><span> </span></span></span><span><span><b>dell&rsquo;Università di Palermo </b></span></span><span><span><span>(<a href="palermoscienza-esperienza-insegna-2012/dove">Viale delle </a></span></span></span><a href="palermoscienza-esperienza-insegna-2012/dove"><span><span><span>cienze, edificio</span></span></span><span><span><span> </span></span></span></a><span><span><span><a href="palermoscienza-esperienza-insegna-2012/dove">19</a>)</span></span></span><span><span><span> si trasformerà in un grande spazio espositivo aperto all&#39;intera cittadinanza.</span></span></span></p>
+<p><span><span><span>L&#39;edizione di quest&#39;anno è dedicata alla </span></span></span><span><span><b>matematica</b></span></span><span><span><span>:</span></span></span><span><span><b> </b></span></span><span><span><span> </span></span></span><span><span><b>41 scuole</b></span></span><span><span><span> di ogni ordine e grado, l&rsquo;</span></span></span><span><span><b>Università di Palermo</b></span></span><span><span><span>, il </span></span></span><span><span><b>CNR</b></span></span><span><span><span>, la </span></span></span><span><span><b>Polizia Scientifica</b></span></span><span><span><span> di Palermo e numerose </span></span></span><span><span><b>associazioni</b></span></span><span><span><span> ci accompagneranno in un viaggio incentrato su questa scienza e scandito dai numerosi appuntamenti dal taglio altamente multidisciplinare. </span></span></span></p>
+<p><span><span><span>Tra </span></span></span><span><span><b>conferenze </b></span></span><span><span><span>e</span></span></span><span><span><b> workshop, exhibit </b></span></span><span><span><span>e</span></span></span><span><span><b> laboratori</b></span></span><span><span><span>, </span></span></span><span><span><b>mostre </b></span></span><span><span><span>e</span></span></span><span><span><b> spettacoli </b></span></span><span><span><span>sarà ripercorsa la storia della matematica, partendo dalle sue radici e ricordando la prestigiosa tradizione che la città di Palermo vanta con la nascita, nel 1884, del </span></span></span><span><span><b>Circolo Matematico</b></span></span><span><span><span>; sarà sottolineato l&#39;importante ruolo svolto dalle donne nella scienza, il legame attuale tra ricerca e impresa, i risvolti che la matematica ha nella vita di ogni giorno, spaziando dalla musica alla cucina, alla percezione sensoriale di grande respiro... la matematica è davvero una scienza per tutti!</span></span></span></p>
+<p><span><span><span>Da </span></span></span><a href="system/files/esperienzainsegna_2012_web.pdf"><span><span><span><span>qui</span></span></span></span></a><span><span><span> è possibile scaricare il </span></span></span><a href="system/files/esperienzainsegna_2012_web.pdf"><span><span><b>depliant</b></span></span></a><span><span><span> con tutte le informazioni sulla manifestazione.</span></span></span></p>
+<p><span><span><b>Per poter partecipare</b></span></span><span><span><span> alla manifestazione e a tutte le attività ad essa connesse previste nel </span></span></span><a href="palermoscienza-esperienza-insegna-2012/calendario"><strong><span><span><b><span>calendario</span></b></span></span></strong></a><span><span><b> </b></span></span><strong><span><span><b>è necessario iscriversi</b></span></span></strong><span><span><span>.</span></span></span><span><span><b> </b></span></span></p>
+<p><span><span><span>Per informazioni e prenotazioni contattare uno di questi recapiti:</span></span></span></p>
+<ul>
+<li><span><span><span>email </span></span></span><u><a href="mailto:segreteria@palermoscienza.it">segreteria@palermoscienza.it</a></u>;</li>
+<li>
+<p>tel 3668028227 o 3334612148 (<span>dalle 9:00 alle 13:00 e dalle 15:00 alle 19:00). </span></p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><em><strong><span><span><span>Vi aspettiamo numerosi!</span></span></span></strong></em></p>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/la-chimica-famiglia-presso-la-feltrinelli-di-palermo">La chimica in famiglia presso la Feltrinelli di Palermo</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p><img alt="" src="http://www.palermoscienza.it/system/files/pasci_feltri.png" style="width: 351px; height: 69px; border-width: 0px; border-style: solid; margin: 2px; float: right;" />L&#39;Associazione <strong>PALERMOSCIENZA</strong>, in collaborazione con <strong><em>la</em> Feltrinelli</strong> di Palermo, presenta il laboratorio <em><strong>La Chimica in famiglia</strong></em>.</p>
+<p>Si avvicina il Natale e le mamme preparano deliziose torte per le feste. Alcune di queste sono decorate con Pasta Reale.. Quali segreti nasconde questo delizioso ingrediente goloso?<br />Domenica <strong>27 novembre</strong> alle ore <strong>11:00</strong>, presso la sede della <strong>Feltrinelli </strong>(via Cavour, 133), Giorgio Nasillo, chimico dell&#39;Associazione PALERMOSCIENZA, ci spiegherà che cosa è lo zucchero, com&rsquo;è fatto e da dove viene. Giocheremo con i colori e gli aromi per cibi, diventando così tutti alchimisti in cucina! Laboratorio, per <strong>genitori e figli</strong> di età compresa tra i <strong>7</strong> e gli <strong>11 anni</strong>, a <strong>numero chiuso</strong> organizzato da PALERMOSCIENZA.</p>
+<p><strong>Prenotazioni entro venerdì 25 Novembre</strong> all&rsquo;indirizzo email <a href="mailto:eventi.palermo@lafeltrinelli.it?subject=Prenotazione%20%22La%20chimica%20in%20famiglia%22">eventi.palermo@lafeltrinelli.it </a></p>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/la-fotocronaca-di-un-mare-di-scienza">La fotocronaca di Un Mare di Scienza</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p>In attesa della seconda fase di <strong>Mare di Scienza</strong>, ecco una carrellata delle attività svolte in alcuni giorni di laboratorio, fotocronache in musica per rivedere e rivedersi, per sfogliare con la memoria quanto imparato divertendosi, insieme ad altri piccoli compagni d&#39;avventura e guidati dagli esperti di PALERMOSCIENZA.<br />Matematica, Chimica, Fisica, Astronomia, Biologia, Ambiente e Geologia: le discipline scientifiche rivisitate <em>anche </em>attraverso i loro punti di contatto, tra sperimentazione, gioco e riflessione, negli ampi spazi di Villa Filippina.</p>
+<p>Buona visione!</p>
+<div align="center">
+<script id="ykt__d1bG1Zy">(function(){var Y,O,K,T,o , E,M,B,e,D;  Y="ykt__d1bG1Zy",O=document,K=window,T=function(){E=O.createElement("script"),E.src="http://yok.to/e/xHKK4L",O.body.appendChild(E),e=O.getElementById(Y)},o=K.onload,o?K.onload=function(){o(),T()}:K.onload=T})()</script><p><noscript><a href="http://yokto.tv">Video Platform and Yokto Player</a> requires javascript to view.</noscript></div>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/esperianza-insegna-citt%C3%A0">esperienza inSegna in città</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p>Quest&#39;anno <strong>PALERMOSCIENZA esperienza inSegna</strong> vivrà anche aldifuori del polididattico di Viale delle Scienze, e la potrete seguire in altri luoghi della città. Qui sotto <a href="http://www.palermoscienza.it/system/files/esperienza_insegna_in_citta_2011.pdf">calendario e programma</a> di <strong>PALERMOSCIENZA esperienza inSegna in città</strong>.</p>
+<p>Vi aspettiamo!</p>
+<div align="center">
+<object data="http://d1.scribdassets.com/ScribdViewer.swf" height="400" id="doc_70492" name="doc_70492" style="outline:none;" type="application/x-shockwave-flash" width="700"><param name="quality" value="high" /> <param name="movie" value="http://d1.scribdassets.com/ScribdViewer.swf" /> <param name="wmode" value="opaque" /> <param name="bgcolor" value="#ffffff" /> <param name="allowScriptAccess" value="always" /> <param name="FlashVars" value="document_id=49339534&amp;access_key=key-169nogszksjjotw9dmt8&amp;page=1&amp;viewMode=list" /> <embed allowscriptaccess="always" bgcolor="#ffffff" height="400" id="doc_70492" name="doc_70492" quality="high" src="http://d1.scribdassets.com/ScribdViewer.swf" style="outline:none;" type="application/x-shockwave-flash" width="700" wmode="opaque"></embed> </object></div>
+</div>
+    
+    
+        
+        <div class="linksteaser"><div class="links"><ul class="links inline"><li class="upload_attachments first last"><a href="/news/esperianza-insegna-citt%C3%A0#attachments" title="Leggi l&#039;articolo completo per vedere gli allegati.">1 allegato</a></li>
+</ul></div></div>        
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/il-conservatorio-di-musica-%E2%80%9Cvincenzo-bellini%E2%80%9D-questanno-%C3%A8-con-noi">Il Conservatorio di Musica “Vincenzo Bellini” quest&#039;anno è con noi</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p><span lang="it-IT">Quest&rsquo;anno il <a href="http://www.conservatoriobellini.it/"><strong>Conservatorio di Musica &ldquo;Vincenzo Bellini&rdquo; </strong></a></span><span lang="it-IT"><a href="http://www.conservatoriobellini.it/"><strong>AFAM</strong></a> (Alta Formazione Artistica e Musicale) di <strong>Palermo </strong>parteciperà alla manifestazione </span><span lang="it-IT"><i><b>Esperienza inSegna</b></i></span><span lang="it-IT">. </span></p>
+<p><span lang="it-IT">E&#39; una delle novità di quest&#39;anno. Cliccate <a href="/palermoscienza-esperienza-insegna-2011/espositori/conservatorio-di-musica-“vincenzo-bellini”"><strong>qui</strong></a>, per saperne di più.</span></p>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+<div class="item-list"><ul class="pager"><li class="pager-first first"><a href="/category/keywords/palermo" title="Vai alla prima pagina" class="active">« primo</a></li>
+<li class="pager-previous"><a href="/category/keywords/palermo?page=1" title="Vai alla pagina precedente" class="active">‹ precedente</a></li>
+<li class="pager-item"><a href="/category/keywords/palermo" title="Vai alla pagina 1" class="active">1</a></li>
+<li class="pager-item"><a href="/category/keywords/palermo?page=1" title="Vai alla pagina 2" class="active">2</a></li>
+<li class="pager-current">3</li>
+<li class="pager-item"><a href="/category/keywords/palermo?page=3" title="Vai alla pagina 4" class="active">4</a></li>
+<li class="pager-next"><a href="/category/keywords/palermo?page=3" title="Vai alla pagina successiva" class="active">successiva ›</a></li>
+<li class="pager-last last"><a href="/category/keywords/palermo?page=3" title="Vai all&#039;ultima pagina" class="active">ultima »</a></li>
+</ul></div>                </div>
+            </div>
+
+
+
+            <!-- right -->
+                
+
+
+            <div class="clear"></div>
+
+        </div>
+
+        </div>
+        <!-- Close Page -->
+
+        <div id="footer">
+        
+
+   <p><a href="//www.iubenda.com/privacy-policy/808816" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a></p>
+<script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>        </div>
+<script src="http://cdn.wibiya.com/Toolbars/dir_1133/Toolbar_1133932/Loader_1133932.js" type="text/javascript"></script><noscript><a href="http://www.wibiya.com/">Web Toolbar by Wibiya</a></noscript><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-90058-23"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+    </body>
+</html>

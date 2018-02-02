@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.palermoscienza.it"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>PALERMOSCIENZA - magnetismo</title>
+ <link>http://www.palermoscienza.it/taxonomy/term/48/0</link>
+ <description></description>
+ <language>it</language>
+<item>
+ <title>Paracadute invisibile</title>
+ <link>http://www.palermoscienza.it/schede/paracadute-invisibile</link>
+ <description>&lt;object codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0&quot; id=&quot;doc_690918246238117&quot; name=&quot;doc_690918246238117&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; align=&quot;middle&quot;	height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;param name=&quot;movie&quot;	value=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801926&amp;access_key=key-umxs6xqz9nt7ee8m7di&amp;page=1&amp;version=1&amp;viewMode=&quot;&gt;
+  &lt;param name=&quot;quality&quot; value=&quot;high&quot;&gt;
+  &lt;param name=&quot;play&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;loop&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;scale&quot; value=&quot;showall&quot;&gt;
+  &lt;param name=&quot;wmode&quot; value=&quot;opaque&quot;&gt;
+  &lt;param name=&quot;devicefont&quot; value=&quot;false&quot;&gt;
+  &lt;param name=&quot;bgcolor&quot; value=&quot;#ffffff&quot;&gt;
+  &lt;param name=&quot;menu&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;
+  &lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;&gt;
+  &lt;param name=&quot;salign&quot; value=&quot;&quot;&gt;
+  &lt;embed src=&quot;http://documents.scribd.com/ScribdViewer.swf?document_id=7801926&amp;access_key=key-umxs6xqz9nt7ee8m7di&amp;page=1&amp;version=1&amp;viewMode=&quot; quality=&quot;high&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; play=&quot;true&quot; loop=&quot;true&quot; scale=&quot;showall&quot; wmode=&quot;opaque&quot; devicefont=&quot;false&quot; bgcolor=&quot;#ffffff&quot; name=&quot;doc_690918246238117_object&quot; menu=&quot;true&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; salign=&quot;&quot; type=&quot;application/x-shockwave-flash&quot; align=&quot;middle&quot;  height=&quot;500&quot; width=&quot;100%&quot;&gt;
+  &lt;/embed&gt;
+&lt;/object&gt;</description>
+ <comments>http://www.palermoscienza.it/schede/paracadute-invisibile#comments</comments>
+ <category domain="http://www.palermoscienza.it/category/disciplina/fisica">Fisica</category>
+ <category domain="http://www.palermoscienza.it/category/tipo-di-scuola/scuola-secondaria-di-secondo-grado">Scuola Secondaria di Secondo Grado</category>
+ <category domain="http://www.palermoscienza.it/category/scuola/liceo-scientifico-cannizzaro-palermo">Liceo Scientifico Cannizzaro - Palermo</category>
+ <category domain="http://www.palermoscienza.it/category/tag/elettricit%C3%A0">elettricità</category>
+ <category domain="http://www.palermoscienza.it/category/tag/magnetismo">magnetismo</category>
+ <pubDate>Thu, 13 Nov 2008 09:57:23 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">131 at http://www.palermoscienza.it</guid>
+</item>
+</channel>
+</rss>

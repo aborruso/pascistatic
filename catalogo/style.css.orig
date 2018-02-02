@@ -1,0 +1,203 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #FFFFFF url(img/bg.gif);
+	color: #1F1F1F;
+	font: 11px/1.5 Georgia, Arial, Helvetica;
+	text-align: center;
+}
+p, h1, h2, h3, ul, li, form, input, select, textarea, span, a {
+	font: 11px Georgia, Arial, Helvetica;
+}
+img {
+	border: 0;
+}
+h1 {
+	display: none;
+}
+h2 {
+	color: #000;
+	font-size: 1.5em;
+	font-variant: small-caps;
+	font-weight: bold;
+	padding: 8px 20px 0 0;
+}
+h3 {
+	color: #80802d;
+	font-size: 1.3em;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+h3, p {
+	margin-bottom: 10px;
+}
+a {
+	color: #444b08;
+	text-decoration: none;
+}
+a:hover {
+	color: #91ad9b;
+}
+
+div#container {
+	margin: 10px auto;
+	position: relative;
+	text-align: left;
+	width: 780px;
+}
+
+div#header {
+	background: url(img/header.jpg) no-repeat;
+	color: #FFFFFF;
+	font-weight: bold;
+	margin-bottom: 30px;
+	height: 117px;
+	text-align: center;
+}
+
+div#content {
+	background: url(img/shad-mid.jpg);
+}
+div#content a {
+	color: #e7802d;
+}
+div#content a:hover {
+	color: #80802d;
+}
+div#menu {
+	position: absolute;
+	top: 125px;
+	width: inherit;
+}
+div#menu li {
+	float: left;
+	list-style-type: none;
+	margin-left: 15px;
+}
+div#menu a {
+	background: url(img/menu_1.gif) no-repeat;
+	padding-left: 20px;
+}
+div#menu li#li-0 {
+	margin-left: 5px;
+}
+div#menu a:hover {
+	background: url(img/menu_2.gif) no-repeat;
+}
+div#menu a#menu-active, div#menu a#menu-active:hover {
+	background: url(img/menu_3.gif) no-repeat;
+	color: #91ad9b;
+	font-weight: bold;
+} 
+div#date {
+	float: right;
+	font-style: italic;
+	padding-right: 10px;
+	text-align: right;
+	width: 180px;
+}
+
+div#titolo {
+	background: url(img/shad-top.jpg) no-repeat;
+	height: 50px;
+	padding-top: 5px;
+	text-align: right;
+	width: inherit;
+}
+a#bottega {
+	float: left;
+	margin-left: 5px;
+	width: 165px;
+}
+div#data {
+	background: url(img/shad-bot.gif) bottom no-repeat;
+	min-height: 300px;
+	padding: 15px 19px 15px 15px;
+
+}
+div#data ul {
+	margin-left: 30px;
+}
+div#data li {
+	list-style-image: url(img/dot.gif);
+}
+div#right-block {
+	float: right; 
+	text-align: center;
+	width: 200px;
+}
+div#left-block {
+	float: left;
+	width: 500px;
+}
+form#log {
+	display: block;
+	margin-bottom: 10px;
+}
+ul#submenu {
+	display: block;
+	
+}
+ul#submenu li{
+	list-style-image: none;
+	list-style-type: none;
+	text-align: right;width: 90px;
+}
+form#dati {
+	display: block;
+	float: left;
+	width: 310px;
+}
+div#validator{
+	clear: both;
+}
+div#footer {
+	clear: both;
+	padding-top: 10px;
+	text-align: center;
+}
+div#nav td a {
+	color: #89968b;
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+}
+div#nav table {
+	border-left: 1px solid #000;
+	width: 750px;
+}
+div#nav td {
+	background-color: #EEE;
+	border: 1px solid #000;
+	border-width: 1px 1px 0 0;
+	padding: 2px;
+	text-align: center;
+}
+div#nav #lasttr .nav2 {
+	border-bottom: 1px solid #000;
+}
+div#nav .nav1, .tab {
+	background-color: #D7D7D7;
+}
+
+textarea {width: 500px;}
+
+.tab {
+	border: 0 solid #000;
+	border-width: 0 1px 1px 1px;
+	width: 750px;
+}
+.tab td {padding: 2px; background-color: #a4afa1; border: 1px #FFF outset;}
+.tit {width: 20%; text-align: right; font-style: italic; vertical-align: middle;}
+.tit2 {width: 20%; text-align: right; font-style: italic; vertical-align: top;}
+.tit3 {font-weight: bold;}
+.tab .tit1 {text-align: center; font-weight: bold; background-color: #5b590e; color: #fff; vertical-align: middle;}
+.tab .tit1b {text-align: center; font-weight: bold; background-color: #5b590e; color: #fff; vertical-align: middle;}
+.inptd {text-align: left;}
+.inp {padding: 0 0 0 3px; border: 1px inset;}
+.inp_100 {width: 520px; padding: 0 0 0 3px; border: 1px inset;}
+.sel {padding: 0 0 0 3px; border: 1px inset; width: 400px;}
+.saved {font-weight: bold; color: #009900;}
+

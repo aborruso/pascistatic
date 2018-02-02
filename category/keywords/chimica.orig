@@ -1,0 +1,361 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it" dir="ltr">
+
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>chimica | PALERMOSCIENZA</title>
+
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="palermo, scienza, didattica, didattica informale, exhibit, mostre, laboratori, strumenti scientifici antichi, macchine matematiche, scuola, fisica, chimica, biologia, scienze della terra, matematica" />
+<link rel="alternate" type="application/rss+xml" title="RSS - chimica" href="/category/keywords/chimica/feed" />
+        <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ctools/css/ctools.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/fivestar/css/fivestar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/lightbox2/css/lightbox.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/mollom/mollom.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/oembed/oembed.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/tagadelic/tagadelic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/forum/forum.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/misc/farbtastic/farbtastic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/calendar/calendar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/panels/css/panels.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/taxonomy/taxonomy.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/layout.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/graphics.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/typography.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/links.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/giordani/giordani.css?i" />
+
+        <!--[if IE 6]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie6.css" />
+      <![endif]-->
+
+        <!--[if IE 7]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie7.css" />
+      <![endif]-->
+
+
+        <script type="text/javascript" src="/misc/jquery.js?i"></script>
+<script type="text/javascript" src="/misc/drupal.js?i"></script>
+<script type="text/javascript" src="//var/nadir/drupal/palermoscienza/languages/it_790dce158f5eb1dfc93047e4aacef555.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/equalheights/jquery.equalheights.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/fivestar/js/fivestar.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/auto_image_handling.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/mollom/mollom.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "fivestar": { "titleUser": "Il tuo voto: ", "titleAverage": "Media: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Il tuo voto è stato salvato.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": "0", "file_path": "/(\\w\\w/)system/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 1, "force_show_nav": 0, "show_caption": true, "loop_items": 1, "node_link_text": "", "node_link_target": 0, "image_count": "Immagine !current di !total", "video_count": "Video !current of !total", "page_count": "Pagina !current di !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "preview", "image_node_sizes": "(\\.thumbnail)", "trigger_lightbox_classes": "img.flickr-photo-img,img.flickr-photoset-img", "trigger_lightbox_group_classes": "img.thumbnail, img.image-thumbnail", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){$('.eqheight').equalHeights().css('overflow', 'visible');});
+//--><!]]>
+</script>
+    </head>
+
+
+    <body>
+
+        <div id="utilities">
+            <form action="/category/keywords/chimica"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Cerca nel sito: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Inserisci i termini da cercare." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Cerca"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-0c1dd214a713591d27658f60c0221945" value="form-0c1dd214a713591d27658f60c0221945"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+
+                            <div id="plinks">
+                <ul class="links primary-links"><li class="menu-285 first"><a href="/" title="Benvenuti">Home</a></li>
+<li class="menu-2067"><a href="/associazione-palermoscienza" title="Associazione PALERMOSCIENZA">L&#039;associazione</a></li>
+<li class="menu-6708"><a href="/esperienza-insegna-story" title="">Esperienza inSegna</a></li>
+<li class="menu-415"><a href="/news" title="">News</a></li>
+<li class="menu-329"><a href="/contact" title="Contattaci">Contattaci</a></li>
+<li class="menu-1191"><a href="http://newsletter.palermoscienza.it/lists/?p=subscribe&amp;id=3" title="La Newsletter di PALERMOSCIENZA">Newsletter</a></li>
+<li class="menu-337"><a href="/link" title="Link">Link</a></li>
+<li class="menu-6671 last"><a href="/social" title="">Social</a></li>
+</ul>
+                </div>                    </div>
+
+
+        <div id="page">
+
+            <div id="header">
+                
+                
+                <div id="casa_cn">
+                    <div id="casa">
+                        <a href="/">
+                            <span id="logo">
+                            </span>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+
+            
+
+
+
+            <div class="wrapper"><!--wrapper:defines whole content margins-->
+
+                <!-- left -->
+                                <div class="lsidebar">
+
+
+                        
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2017</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="expanded first last"><a href="/esperienza-insegna-2017" title="">Esperienza inSegna 2017</a><ul class="menu"><li class="leaf first"><a href="/esperienza-insegna-2017/dove" title="">Dove</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/informazioni" title="">Informazioni</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/quando" title="">Quando</a></li>
+<li class="leaf last"><a href="/esperienza-insegna-2017/calendario" title="">Calendario</a></li>
+</ul></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2016</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2016" title="">Esperienza inSegna 2016</a></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2015</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2015" title="">Esperienza inSegna 2015</a></li>
+</ul></div>
+</div>
+ <div class="loginblock">
+    <h2 class="login">Login utente</h2><!--block title-->
+   <div class="blockcontent"><form action="/category/keywords/chimica?destination=taxonomy%2Fterm%2F98"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Nome utente: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Accedi"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="/user/password" title="Richiedi una nuova password per e-mail.">Richiedi una nuova password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-71789bdc4f36cf0d5cc9926885852d94" value="form-71789bdc4f36cf0d5cc9926885852d94"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+                </div><!-- end left -->
+                    
+
+
+                <div id="primary" class="long">
+                     <div class="singlepage">
+                         <div class="path"><p><span>You are here</span>chimica</p></div>
+                    
+                    <h1>chimica</h1>
+                                        <div class="drdot">
+                        <hr />
+                    </div>
+
+
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/raccontare-la-chimica-modi-mezzi-e-creativit%C3%A0">Raccontare la chimica: modi, mezzi e creatività</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<div style="font-family: arial, sans-serif; font-size: 12.8000001907349px;"><font face="Arial" size="2">L&#39;associazione PALERMOSCIENZA, in collaborazione con YOCOCU, Università &quot;La Sapienza&quot; di Roma e UNIPA, organizzano&nbsp;<strong>ChimicArte</strong>, un corso di&nbsp;<strong>divulgazione della chimica&nbsp;</strong>attraverso i beni culturali.</font></div>
+<div style="font-family: arial, sans-serif; font-size: 12.8000001907349px;">&nbsp;</div>
+<div style="font-family: arial, sans-serif; font-size: 12.8000001907349px;"><font face="Arial" size="2">Il corso si svolgerà a&nbsp;<strong>Palermo</strong>, dal&nbsp;<strong>21 al 25 settembre 2015</strong>&nbsp;presso il dipartimento STEBICEF - ed.17 - Viale delle Scienze, ed ha un&nbsp;</font><font face="Arial" size="2">costo di&nbsp;<strong>80 euro</strong>&nbsp;per chi si iscrive entro il 20 maggio e di&nbsp;<strong>110 euro</strong>&nbsp;dopo tale data.</font></div>
+<div style="font-family: arial, sans-serif; font-size: 12.8000001907349px;">&nbsp;</div>
+<div style="font-family: arial, sans-serif; font-size: 12.8000001907349px;"><span style="font-family: Arial; font-size: small;">Le iscrizioni si chiuderanno il&nbsp;</span><strong style="font-family: Arial; font-size: small;">27 giugno 2015</strong><span style="font-family: Arial; font-size: small;">&nbsp;e sono ammessi&nbsp;</span><strong style="font-family: Arial; font-size: small;">massimo 25 corsisti</strong><span style="font-family: Arial; font-size: small;">.</span></div>
+<div style="font-family: arial, sans-serif; font-size: 12.8000001907349px;">&nbsp;</div>
+<div style="font-family: arial, sans-serif; font-size: 12.8000001907349px;"><span style="font-family: Arial; font-size: small;">Per gli iscritti a PALERMOSCIENZA, YOCOCU, Chimici per un&#39;ora, Università degli Studi di Palermo e insegnanti degli Istituti Scolastici è previsto uno&nbsp;</span><strong style="font-family: Arial; font-size: small;">sconto di 15 euro</strong><span style="font-family: Arial; font-size: small;">.</span></div>
+<div style="font-family: arial, sans-serif; font-size: 12.8000001907349px;">&nbsp;</div>
+<div style="font-family: arial, sans-serif; font-size: 12.8000001907349px;">Altri dettagli <a href="http://www.palermoscienza.it/system/files/corso%20divulgazione%20chimica%20palermo.pdf" target="_blank"><strong>qui</strong></a>.</div>
+<div style="font-family: arial, sans-serif; font-size: 12.8000001907349px;">&nbsp;</div>
+<div style="font-family: arial, sans-serif; font-size: 12.8000001907349px; text-align: center;"><img alt="" src="http://www.palermoscienza.it/system/files/chimicarte.png" style="width: 737px; height: 519px; border-width: 0px; border-style: solid; margin: 0px;" /></div>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/la-chimica-cucina-presso-il-centro-la-scienza-di-palermo">La Chimica in cucina presso il Centro per la scienza di Palermo</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p>L&#39;associazione PALERMOSCIENZA ha dato il via ai primi appuntamenti presso il <b>Centro per la scienza </b>di Palermo, inaugurato lo scorso 9 aprile, e con sede presso l&rsquo;<a href="http://www.iccruillas.it/" target="_blank">Istituto Comprensivo Statale <b>Cruillas</b></a>&nbsp;(via Salerno 19).</p>
+<p>Mercoledì <b>8 maggio</b>, dalle ore <b>18.00</b> alle ore <b>20.</b><b>0</b><b>0</b>, gli esperti Chiara Guarisco e Giorgio Nasillo intratterranno i partecipanti svelando i segreti della <i><b>C</b></i><i><b>himica in cucina</b></i><i>,</i> in<i> </i>un incontro aperto a un pubblico adulto e pensato per un numero totale di <b>50 </b>partecipanti.</p>
+<p>Sarà inoltre possibile visitare la mostra permanente di exhibit scientifici costruiti dall&rsquo;associazione PALERMOSCIENZA e dall&rsquo;<a href="http://www.istitutoartepalermo.eu/" target="_blank">Istituto d&#39;Arte V. Ragusa e O. Kjoara</a> di Palermo.</p>
+<p>Per informazioni e prenotazioni scrivere a&nbsp; <a href="mailto:segreteria@palermoscienza.it">segreteria@palermoscienza.it</a> o telefonare al 333 4612148.</p>
+<p>Per ragioni organizzative<strong>&nbsp;è necessario prenotarsi</strong>.</p>
+<p>Vi aspettiamo!</p>
+<p><img alt="" src="http://www.palermoscienza.it/system/files/Chimica in cucina.jpg" style="text-align: center; width: 740px; height: 272px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/centro-la-scienza-un-anticipazione-di-domani">Centro per la scienza: un&#039;anticipazione di domani</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p>Domani festeggeremo la nascita del primo <strong><a href="http://www.palermoscienza.it/news/nasce-il-primo-nucleo-di-un-centro-la-scienza-palermo" target="_blank">Centro per la Scienza di Palermo</a></strong>. Nel video qui sotto un&#39;anticipazione di ciò che vedrete.</p>
+<p>Si tratta di una bella e speciale <strong>Tavola Periodica</strong> creata dal <a href="http://www.istitutoartepalermo.eu/" target="_blank"><strong>Liceo Artistico di Palermo &quot;Vincenzo Ragusa e Otama Kiyohara&quot;</strong></a>, che ha vinto nel 2011 il II <a href="http://portale.unipa.it/home/Events/2012/02/premiazionestudenti.html" target="_blank">premio</a> al <em>contest </em>internazionale dell&#39;<a href="http://ectn-assoc.cpe.fr/network/ectn5_ec2e2n.htm" target="_blank">European Chemistry and Chemical Engineering Education Network </a>(EC2E2N).<img alt="" src="http://www.palermoscienza.it/system/files/titanio.jpg" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+<div align="center"><iframe allowfullscreen="" frameborder="0" height="480" src="http://www.youtube.com/embed/gBdlN5F28T8?rel=0" width="640"></iframe></div>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/la-chimica-famiglia-presso-la-feltrinelli-di-palermo">La chimica in famiglia presso la Feltrinelli di Palermo</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p><img alt="" src="http://www.palermoscienza.it/system/files/pasci_feltri.png" style="width: 351px; height: 69px; border-width: 0px; border-style: solid; margin: 2px; float: right;" />L&#39;Associazione <strong>PALERMOSCIENZA</strong>, in collaborazione con <strong><em>la</em> Feltrinelli</strong> di Palermo, presenta il laboratorio <em><strong>La Chimica in famiglia</strong></em>.</p>
+<p>Si avvicina il Natale e le mamme preparano deliziose torte per le feste. Alcune di queste sono decorate con Pasta Reale.. Quali segreti nasconde questo delizioso ingrediente goloso?<br />Domenica <strong>27 novembre</strong> alle ore <strong>11:00</strong>, presso la sede della <strong>Feltrinelli </strong>(via Cavour, 133), Giorgio Nasillo, chimico dell&#39;Associazione PALERMOSCIENZA, ci spiegherà che cosa è lo zucchero, com&rsquo;è fatto e da dove viene. Giocheremo con i colori e gli aromi per cibi, diventando così tutti alchimisti in cucina! Laboratorio, per <strong>genitori e figli</strong> di età compresa tra i <strong>7</strong> e gli <strong>11 anni</strong>, a <strong>numero chiuso</strong> organizzato da PALERMOSCIENZA.</p>
+<p><strong>Prenotazioni entro venerdì 25 Novembre</strong> all&rsquo;indirizzo email <a href="mailto:eventi.palermo@lafeltrinelli.it?subject=Prenotazione%20%22La%20chimica%20in%20famiglia%22">eventi.palermo@lafeltrinelli.it </a></p>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/palermoscienza-al-giardino-inglese-chemi-cucini">PALERMOSCIENZA al Giardino Inglese: Chemi... cucini?</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p><a href="http://www.chimica2011.it/default/scopri-gli-eventi/settimana-della-chimica.aspx" target="_blank"><img alt="settimana della chimica" src="	 http://www.palermoscienza.it/system/files/settimana-chimica-ottobre-2011.jpg" style="width: 150px; height: 167px; float: right; border-width: 0px; border-style: solid; margin: 2px;" /></a>In occasione della <strong>settimana della Chimica</strong>, l&rsquo;<strong>Associazione PALERMOSCIENZA</strong> organizza i &quot;<strong>Laboratori Chemi.. cucini?</strong>&quot; presso il <strong>Giardino Inglese</strong> di <strong>Palermo</strong>.</p>
+<p>Sabato <strong>22 ottobre</strong> dalle <strong>15.30</strong> alle&nbsp;<strong>18.30</strong>&nbsp;e&nbsp;domenica <strong>23 ottobre</strong> dalle <strong>10.00</strong> alle <strong>13.00</strong>.<br />Giovani, famiglie, studenti e tutti i cittadini sono invitati a trascorrere due giornate all&#39;insegna della Chimica, per scoprire l&#39;importanza di questa scienza&nbsp;nella nostra vita e saper riconoscerla in molte delle&nbsp;attività che svolgiamo giornalmente.<br />Un&#39;occasione unica per&nbsp;fare chimica insieme&nbsp;e superare quei luoghi comuni che portano a considerarla come una&nbsp;disciplina da studiare esclusivamente sui libri.</p>
+<p>Gli esperti di PALERMOSCIENZA guideranno i partecipanti nella realizzazione di divertenti e interessanti esperimenti di chimica in cucina:</p>
+<ul>
+<li><strong>Il caviale di frutta ed il riconoscimento degli amidi</strong>&nbsp;- come riconoscere gli amidi negli alimenti di cui ci nutriamo?</li>
+<li><strong>Il latte come fonte di plastica e di colla</strong> - un interessante laboratorio per scoprire come&nbsp;produrre una colla usando del semplice latte!</li>
+</ul>
+<p>Temi ricchi di spunti di riflessione e capaci di incuriosire anche un pubblico giovane e di&nbsp;&ldquo;non addetti ai lavori&rdquo;.</p>
+<p>Certi che accoglierete il nostro invito con grande entusiasmo <strong>vi aspettiamo numerosi</strong> al Giardino Inglese!</p>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+                </div>
+            </div>
+
+
+
+            <!-- right -->
+                
+
+
+            <div class="clear"></div>
+
+        </div>
+
+        </div>
+        <!-- Close Page -->
+
+        <div id="footer">
+        
+
+   <p><a href="//www.iubenda.com/privacy-policy/808816" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a></p>
+<script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>        </div>
+<script src="http://cdn.wibiya.com/Toolbars/dir_1133/Toolbar_1133932/Loader_1133932.js" type="text/javascript"></script><noscript><a href="http://www.wibiya.com/">Web Toolbar by Wibiya</a></noscript><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-90058-23"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+    </body>
+</html>

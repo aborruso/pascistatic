@@ -1,0 +1,76 @@
+/*- Giordani styles v0.2 - Drupal6x - 20/06/08
+author:singalkuppe: leoni.matteo[at]gmail.com - www.signalkuppe.com
+*/
+
+
+/*- Sidebar Subpages Menu */
+
+.lsidebar {
+    width: 180px;
+    float: left;
+    margin-top:0px;
+    margin-right:15px;
+    margin-bottom:0px;
+    margin-left:0px;
+}
+.rsidebar {
+    width: 180px;
+    float: left;
+    margin-top:0px;
+    margin-right:0px;
+    margin-bottom:0px;
+    margin-left:15px;
+}
+#casa_cn	{ 
+    margin: 0px;
+    height: 180px;
+    width: 970px;
+    position:relative;
+    border-width: 0px;
+    color: white;
+} 
+
+/*#casa {
+    position:absolute;
+    top:0px;
+    left:0px;
+    height:150px;
+    width: 700px;
+}
+span#logo {
+    display:block;
+    height:150px;
+    width: 700px;
+}*/
+
+#casa {
+    position:absolute;
+    top:15px;
+    right:15px;
+    height:150px;
+    width: 250px;
+}
+span#logo {
+    display:block;
+    height: 150px;
+    width: 250px;
+}
+
+.cdestra {
+background-color:#FFFFCC;
+border:1px solid #CCCCCC;
+color:#333333;
+}
+.csinistra {
+background-color:#ADE1FA;
+border:1px solid #CCCCCC;
+color:#333333;
+}
+.csinistra .inside ,.cdestra .inside {
+padding:5px;
+}
+
+.csinistra ul {
+	padding-left:25px;
+	margin:0px;
+	}

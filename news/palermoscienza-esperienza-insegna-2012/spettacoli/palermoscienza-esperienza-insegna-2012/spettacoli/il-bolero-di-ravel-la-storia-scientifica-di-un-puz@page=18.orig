@@ -1,0 +1,603 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it" dir="ltr">
+
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>News | PALERMOSCIENZA</title>
+
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ctools/css/ctools.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/fivestar/css/fivestar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/lightbox2/css/lightbox.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/mollom/mollom.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/oembed/oembed.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/tagadelic/tagadelic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/forum/forum.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/misc/farbtastic/farbtastic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/calendar/calendar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/panels/css/panels.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/image/contrib/image_attach/image_attach.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/layout.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/graphics.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/typography.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/links.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/giordani/giordani.css?i" />
+
+        <!--[if IE 6]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie6.css" />
+      <![endif]-->
+
+        <!--[if IE 7]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie7.css" />
+      <![endif]-->
+
+
+        <script type="text/javascript" src="/misc/jquery.js?i"></script>
+<script type="text/javascript" src="/misc/drupal.js?i"></script>
+<script type="text/javascript" src="//var/nadir/drupal/palermoscienza/languages/it_790dce158f5eb1dfc93047e4aacef555.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/equalheights/jquery.equalheights.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/fivestar/js/fivestar.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/auto_image_handling.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/mollom/mollom.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "fivestar": { "titleUser": "Il tuo voto: ", "titleAverage": "Media: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Il tuo voto è stato salvato.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": "0", "file_path": "/(\\w\\w/)system/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 1, "force_show_nav": 0, "show_caption": true, "loop_items": 1, "node_link_text": "", "node_link_target": 0, "image_count": "Immagine !current di !total", "video_count": "Video !current of !total", "page_count": "Pagina !current di !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "preview", "image_node_sizes": "(\\.thumbnail)", "trigger_lightbox_classes": "img.flickr-photo-img,img.flickr-photoset-img", "trigger_lightbox_group_classes": "img.thumbnail, img.image-thumbnail", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){$('.eqheight').equalHeights().css('overflow', 'visible');});
+//--><!]]>
+</script>
+    </head>
+
+
+    <body>
+
+        <div id="utilities">
+            <form action="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/il-bolero-di-ravel-la-storia-scientifica-di-un-puz?page=18"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Cerca nel sito: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Inserisci i termini da cercare." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Cerca"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-17f74a15e8878b8a206bcb8623327d3a" value="form-17f74a15e8878b8a206bcb8623327d3a"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+
+                            <div id="plinks">
+                <ul class="links primary-links"><li class="menu-285 first"><a href="/" title="Benvenuti">Home</a></li>
+<li class="menu-2067"><a href="/associazione-palermoscienza" title="Associazione PALERMOSCIENZA">L&#039;associazione</a></li>
+<li class="menu-6708"><a href="/esperienza-insegna-story" title="">Esperienza inSegna</a></li>
+<li class="menu-415 active-trail"><a href="/news" title="">News</a></li>
+<li class="menu-329"><a href="/contact" title="Contattaci">Contattaci</a></li>
+<li class="menu-1191"><a href="http://newsletter.palermoscienza.it/lists/?p=subscribe&amp;id=3" title="La Newsletter di PALERMOSCIENZA">Newsletter</a></li>
+<li class="menu-337"><a href="/link" title="Link">Link</a></li>
+<li class="menu-6671 last"><a href="/social" title="">Social</a></li>
+</ul>
+                </div>                    </div>
+
+
+        <div id="page">
+
+            <div id="header">
+                
+                
+                <div id="casa_cn">
+                    <div id="casa">
+                        <a href="/">
+                            <span id="logo">
+                            </span>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+
+            
+
+
+
+            <div class="wrapper"><!--wrapper:defines whole content margins-->
+
+                <!-- left -->
+                                <div class="lsidebar">
+
+
+                        
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2017</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="expanded first last"><a href="/esperienza-insegna-2017" title="">Esperienza inSegna 2017</a><ul class="menu"><li class="leaf first"><a href="/esperienza-insegna-2017/dove" title="">Dove</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/informazioni" title="">Informazioni</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/quando" title="">Quando</a></li>
+<li class="leaf last"><a href="/esperienza-insegna-2017/calendario" title="">Calendario</a></li>
+</ul></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2016</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2016" title="">Esperienza inSegna 2016</a></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2015</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2015" title="">Esperienza inSegna 2015</a></li>
+</ul></div>
+</div>
+ <div class="loginblock">
+    <h2 class="login">Login utente</h2><!--block title-->
+   <div class="blockcontent"><form action="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/il-bolero-di-ravel-la-storia-scientifica-di-un-puz?destination=news%2Fpalermoscienza-esperienza-insegna-2012%2Fspettacoli%2Fpalermoscienza-esperienza-insegna-2012%2Fspettacoli%2Fil-bolero-di-ravel-la-storia-scientifica-di-un-puz%3Fpage%3D18"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Nome utente: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Accedi"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="/user/password" title="Richiedi una nuova password per e-mail.">Richiedi una nuova password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-706245a1cc73322311b1361c2ff89437" value="form-706245a1cc73322311b1361c2ff89437"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+                </div><!-- end left -->
+                    
+
+
+                <div id="primary" class="long">
+                     <div class="singlepage">
+                         <div class="path"><p><span>You are here</span>News</p></div>
+                    
+                    <h1>News</h1>
+                                        <div class="drdot">
+                        <hr />
+                    </div>
+
+
+<div class="view view-ps-news view-id-ps_news view-display-id-page_1 view-dom-id-1">
+        <div class="view-header">
+      <p>Le ultime notizie di PalermoScienza</p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/palermoscienza-esperienza-insegna-partinico">PALERMOSCIENZA esperienza inSegna a Partinico</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">24 Novembre 2009</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p class="rteleft">Il 28 Novembre 2009, nella <a title="Real Cantina Borbonica di Partinico" target="_blank" href="http://www.realcantinaborbonica.it/portale/index.php/it.html"><strong>Real Cantina Borbonica di Partinico</strong></a>, sar&agrave; inaugurata la mostra di exhibit scientifici  <strong>PALERMOSCIENZA esperienza inSegna</strong>. La mostra sar&agrave; aperta il 28 ed il 29 di Novembre e sar&agrave; animata da studenti delle scuole di Partinico.</p>
+<p class="rteleft">Per ulteriori informazioni cliccate <a href="/system/files/locandina_partinico.pdf">qui</a>.</p>
+<p class="rteleft">&nbsp;</p>
+<div align="center"><a style="margin: 12px auto 6px; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; display: block; text-decoration: underline;" href="http://www.scribd.com/doc/23038559/PALERMOSCIENZA-a-Partinico" title="View PALERMOSCIENZA a Partinico on Scribd">PALERMOSCIENZA a Partinico</a> </p>
+<object width="700" height="500" align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" name="doc_287447543683552" id="doc_287447543683552" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0">
+<param value="http://d1.scribdassets.com/ScribdViewer.swf?document_id=23038559&amp;access_key=key-1pf82wrqoasmm9wp7kxw&amp;page=1&amp;version=1&amp;viewMode=list" name="movie" />
+<param value="high" name="quality" />
+<param value="true" name="play" />
+<param value="true" name="loop" />
+<param value="showall" name="scale" />
+<param value="opaque" name="wmode" />
+<param value="false" name="devicefont" />
+<param value="#ffffff" name="bgcolor" />
+<param value="true" name="menu" />
+<param value="true" name="allowFullScreen" />
+<param value="always" name="allowScriptAccess" />
+<param value="" name="salign" />
+<param value="list" name="mode" />	    		<embed width="700" height="500" align="middle" mode="list" type="application/x-shockwave-flash" salign="" allowscriptaccess="always" allowfullscreen="true" menu="true" name="doc_287447543683552_object" bgcolor="#ffffff" devicefont="false" wmode="opaque" scale="showall" loop="true" play="true" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="http://d1.scribdassets.com/ScribdViewer.swf?document_id=23038559&amp;access_key=key-1pf82wrqoasmm9wp7kxw&amp;page=1&amp;version=1&amp;viewMode=list"></embed>	</object></div>
+</div>
+    
+    
+                
+        
+    
+            
+    
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/pubblicate-le-presentazioni-del-convegno">Pubblicate le presentazioni del convegno</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">Anonymous</span> - Posted on <span class="date">04 marzo 2009</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>Abbiamo creato una pagina dove abbiamo raccolto le presentazioni presentate dagli oratori del convegno di studi &quot;RICERCA SCIENTIFICA, INNOVAZIONE TECNOLOGICA E PROSPETTIVE NELL&rsquo;INSEGNAMENTO DELLE SCIENZE&quot;. </p>
+<p>Questo il link:</p>
+<p><a href="http://www.palermoscienza.it/esperienza-insegna/convegno-di-studi" title="prensetazioni convegno &quot;RICERCA SCIENTIFICA, INNOVAZIONE TECNOLOGICA E PROSPETTIVE NELL&rsquo;INSEGNAMENTO DELLE SCIENZE&quot;">http://www.palermoscienza.it/esperienza-insegna/convegno-di-studi</a></p>
+<p>Buona visione!</p>
+</div>
+    
+    
+                
+        
+    
+            
+    
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/tutto-il-web-parla-di-noi">Tutto il web parla di noi  </a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">26 febbraio 2009</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>Ovviamente stiamo scherzando. Ma con l'occasione ringraziamo tutti quelli che in questo periodo hanno pubblicizzato la nostra iniziativa: con un'email, una telefonata, una segnalazione su un sito web, etc.</p>
+<p>Qui una piccola rassegna dei siti web che ci hanno citato.</p>
+<p>&nbsp;</p>
+<div align="center">
+<object width="600" height="450">
+<param name="flashvars" value="&amp;offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F35646946%40N03%2Ftags%2Frassegnastampa%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F35646946%40N03%2Ftags%2Frassegnastampa%2F&amp;user_id=35646946@N03&amp;tags=rassegnastampa&amp;jump_to=&amp;start_index=" />
+<param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=67348" />
+<param name="allowFullScreen" value="true" /><embed width="600" src="http://www.flickr.com/apps/slideshow/show.swf?v=67348" height="450" flashvars="&amp;offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F35646946%40N03%2Ftags%2Frassegnastampa%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F35646946%40N03%2Ftags%2Frassegnastampa%2F&amp;user_id=35646946@N03&amp;tags=rassegnastampa&amp;jump_to=&amp;start_index=" allowfullscreen="true" type="application/x-shockwave-flash"></embed></object></div>
+</div>
+    
+    
+                
+        
+    
+            
+    
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/la-scienza-cucina-ad-esperienza-insegna">La scienza in cucina ad &quot;esperienza inSegna&quot;</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">25 febbraio 2009</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<div class="all-attached-images"><div class="image-attach-body image-attach-node-298" style="width: 87px;"><a href="/immagini/innovidea-il-gelato-all%E2%80%99azoto-liquido"><img src="http://www.palermoscienza.it/system/files/images/innovidea.thumbnail.jpg" alt="InnovIdea - Il gelato all’azoto liquido" title="InnovIdea - Il gelato all’azoto liquido"  class="image image-thumbnail " width="87" height="100" /></a></div>
+</div><p>Una delle novit&agrave; di quest'anno &egrave; la presenza dell'Istituto Alberghiero P. Piazza e dell'associazione <a href="http://www.innovidea.org/">InnovIdea</a>.</p>
+<p>Insieme aggiungono un tocco diverso alla manifestazione, e vi prenderanno per la gola. Anche noi ci siamo entusiasmati davanti &quot;alla spiegazione della <a href="http://http//www.palermoscienza.it/schede-didattiche-2009/istituto-alberghiero-p-piazza" target="_blank" onclick="javascript:urchinTracker('/outbound/http_//www.palermoscienza.it/schede-didattiche-2009/istituto-alberghiero-p-piazza');">scienza dei pop corn </a>o della reazione chimica che permette di <a href="http://http//www.palermoscienza.it/schede-didattiche-2009/istituto-alberghiero-p-piazza" target="_blank" onclick="javascript:urchinTracker('/outbound/http_//www.palermoscienza.it/schede-didattiche-2009/istituto-alberghiero-p-piazza');">togliere il guscio ad un uovo crudo</a>&quot;.</p>
+<p>Per tutta la durata di &quot;<strong>esperienza inSegna</strong>&quot; pubblicheranno delle ricette sul loro sito; ieri ad esempio <a title="il gelato all'azoto liquido" target="_blank" href="http://www.innovidea.org/index.php/archives/2009/02/25/il-gelato-allazoto-liquido/">il gelato all'azoto liquido</a>.</p>
+<p>&nbsp;</p>
+</div>
+    
+    
+                
+        
+    
+            
+    
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/errori-nel-calendario-di-palermoscienza-esperienza-insegna">Errori nel calendario di PALERMOSCIENZA esperienza inSegna</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">17 febbraio 2009</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>Nella locandina di &quot;esperienza inSegna&quot; ci sono due errori nel calendario:</p>
+<ul>
+<li>l'attivit&agrave; &quot;Il caso Galilei: gli studenti interrogano&quot; avr&agrave; luogo venerd&igrave; 27 Febbraio alle ore 9:00</li>
+<li>il film Galileo, di Liliana Cavani, sar&agrave; proiettato il 25 Febbraio alle 10 e non alle 15:30.</li>
+</ul>
+</div>
+    
+    
+                
+        
+    
+            
+    
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/attivata-la-newsletter-di-palermoscienza">Attivata la Newsletter di PALERMOSCIENZA</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">Anonymous</span> - Posted on <span class="date">15 febbraio 2009</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>E' stata attivata la newsletter del sito, che useremo per tenervi informati delle nostre attivit&agrave;.</p>
+<p>Per iscrivervi aprite la seguente pagina, ed inserite la vostra email:</p>
+<ul>
+<li><a href="http://newsletter.palermoscienza.it/lists/?p=subscribe&amp;id=3" title="Newsletter del sito PALERMOSCIENZA">http://newsletter.palermoscienza.it/</a></li>
+</ul>
+</div>
+    
+    
+                
+        
+    
+            
+    
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/costruiremo-insieme-uno-spettroscopio">Costruiremo insieme uno spettroscopio</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">20 gennaio 2009</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>Il Dott. Luigi Scelsi dell'INAF - Osservatorio Astronomico di Palermo - quest'anno costruir&agrave; insieme a voi uno spettroscopio.<br />
+Ci ha mandato alcune immagini, e questo &egrave; quello che ci scrive:</p>
+<blockquote><p><em>La prima foto rappresenta uno spettroscopio che ho costruito recentemente, montato su un supporto in legno su cui fissare una macchina fotografica digitale; la seconda foto e' un dettaglio della fenditura (non visibile nella prima foto); la terza e' lo spettro continuo di una lampada a incandescenza, mentre le altre tre sono spettri con righe di emissione di una lampada a basso consumo, di una al neon e una ad elio (tutte fatte con questo spettroscopio e la mia macchina fotografica).</em></p></blockquote>
+<div align="center">
+<object height="382" width="507">
+<param value="true" name="allowfullscreen" />
+<param value="always" name="allowscriptaccess" />
+<param value="http://vimeo.com/moogaloop.swf?clip_id=2895721&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" name="movie" /><embed height="382" width="507" allowscriptaccess="always" allowfullscreen="true" type="application/x-shockwave-flash" src="http://vimeo.com/moogaloop.swf?clip_id=2895721&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1"></embed></object></div>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_55 first"><a href="/category/keywords/2009" rel="tag" title="">2009</a></li>
+<li class="taxonomy_term_54 last"><a href="/category/keywords/palermoscienza" rel="tag" title="">palermoscienza</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/dettagli-su-palermoscienza-2009">Dettagli su Palermoscienza 2009</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">palermoscienza</span> - Posted on <span class="date">18 gennaio 2009</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p>Palermoscienza 2009 inizier&agrave; il 21/02/2009 alle 10:00 e terminer&agrave; il 28/02/2009. La sede sar&agrave; anche quest'anno l'Universit&agrave; degli Studi di Palermo, viale delle Scienze, Complesso didattico - edificio 19.</p>
+<p>Oltre agli exhibit - collezioni di esperienze scientifiche interattive - preparati dalle scuole che hanno aderito all&rsquo;iniziativa, saranno organizzate diverse conferenze. A breve daremo maggiori dettagli.</p>
+<p><iframe width="425" scrolling="no" height="350" frameborder="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=it&amp;msa=0&amp;t=h&amp;msid=113189409375248669425.000460c58ae96eeb667ae&amp;s=AARTsJqAictCg96A9vxeNyXb_3m2bZc5ng&amp;ll=38.104601,13.349966&amp;spn=0.002955,0.00456&amp;z=17&amp;output=embed" marginwidth="0" marginheight="0"></iframe><br />
+<small><a style="color: rgb(0, 0, 255); text-align: left;" href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=it&amp;msa=0&amp;t=h&amp;msid=113189409375248669425.000460c58ae96eeb667ae&amp;ll=38.104601,13.349966&amp;spn=0.002955,0.00456&amp;z=17&amp;source=embed">Visualizzazione ingrandita della mappa</a></small></p>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_55 first"><a href="/category/keywords/2009" rel="tag" title="">2009</a></li>
+<li class="taxonomy_term_54 last"><a href="/category/keywords/palermoscienza" rel="tag" title="">palermoscienza</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/palermoscienza-continua">Palermoscienza continua</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">palermoscienza</span> - Posted on <span class="date">14 Dicembre 2008</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p><div><span>Nell&rsquo;ultima settimana di febbraio, nei locali del polididattica dell&rsquo;Universit&agrave; di Palermo, le scuole di Palermo si incontreranno di nuovo per divertirsi con la scienza.</span></div>
+<div>&nbsp;</div>
+<div>Chi &egrave; interessato a presentare exhibit di carattere scientifico pu&ograve; dialogare con gli organizzatori utilizzando il <a href="http://www.palermoscienza.it/contact">contatto</a> di questo sito.</div>
+</p>
+</div>
+    
+    
+                
+        
+    
+            
+    
+  </div>
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+    
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/teatro-scienza-2008">Teatro Scienza 2008</a>
+		</h2>    
+		      <div class="metanode"><p>By <span class="author">admin</span> - Posted on <span class="date">04 Dicembre 2008</span></p>
+	  
+
+	  
+	  </div> 
+            
+    <div class="content">
+	
+	
+	<p><img align="right" src="http://www.performingts.it/@api/deki/files/138/=luce.JPG?size=thumb" /><a href="http://www.performingts.it/Il_progetto" target="_blank">Teatro Scienza 2008</a> &egrave; &quot;un evento dedicato alle esperienze contemporanee che indagano il rapporto tra palcoscenico e cultura scientifica&quot;.</p>
+<p>In questo contesto saranno realizzate lezioni spettacolo, laboratori formativi, incontri ed un concorso online per le scuole (dalle elementari all'universit&agrave;).</p>
+</div>
+    
+    
+                
+        
+    
+        <div class="taxonomy"><span>Tag</span> <ul class="links inline"><li class="taxonomy_term_49 first"><a href="/category/keywords/scienza" rel="tag" title="">scienza</a></li>
+<li class="taxonomy_term_50 last"><a href="/category/keywords/teatro" rel="tag" title="">teatro</a></li>
+</ul></div>    
+    
+  </div>
+  </div>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-first first"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/il-bolero-di-ravel-la-storia-scientifica-di-un-puz" title="Vai alla prima pagina" class="active">« primo</a></li>
+<li class="pager-previous"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/il-bolero-di-ravel-la-storia-scientifica-di-un-puz?page=17" title="Vai alla pagina precedente" class="active">‹ precedente</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/il-bolero-di-ravel-la-storia-scientifica-di-un-puz?page=10" title="Vai alla pagina 11" class="active">11</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/il-bolero-di-ravel-la-storia-scientifica-di-un-puz?page=11" title="Vai alla pagina 12" class="active">12</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/il-bolero-di-ravel-la-storia-scientifica-di-un-puz?page=12" title="Vai alla pagina 13" class="active">13</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/il-bolero-di-ravel-la-storia-scientifica-di-un-puz?page=13" title="Vai alla pagina 14" class="active">14</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/il-bolero-di-ravel-la-storia-scientifica-di-un-puz?page=14" title="Vai alla pagina 15" class="active">15</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/il-bolero-di-ravel-la-storia-scientifica-di-un-puz?page=15" title="Vai alla pagina 16" class="active">16</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/il-bolero-di-ravel-la-storia-scientifica-di-un-puz?page=16" title="Vai alla pagina 17" class="active">17</a></li>
+<li class="pager-item"><a href="/news/palermoscienza-esperienza-insegna-2012/spettacoli/palermoscienza-esperienza-insegna-2012/spettacoli/il-bolero-di-ravel-la-storia-scientifica-di-un-puz?page=17" title="Vai alla pagina 18" class="active">18</a></li>
+<li class="pager-current last">19</li>
+</ul></div>  
+  
+  
+  
+  
+</div>                 </div>
+            </div>
+
+
+
+            <!-- right -->
+                
+
+
+            <div class="clear"></div>
+
+        </div>
+
+        </div>
+        <!-- Close Page -->
+
+        <div id="footer">
+        
+
+   <p><a href="//www.iubenda.com/privacy-policy/808816" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a></p>
+<script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>        </div>
+<script src="http://cdn.wibiya.com/Toolbars/dir_1133/Toolbar_1133932/Loader_1133932.js" type="text/javascript"></script><noscript><a href="http://www.wibiya.com/">Web Toolbar by Wibiya</a></noscript><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-90058-23"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+    </body>
+</html>

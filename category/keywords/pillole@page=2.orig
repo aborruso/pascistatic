@@ -1,0 +1,506 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it" dir="ltr">
+
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>pillole | PALERMOSCIENZA</title>
+
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link rel="alternate" type="application/rss+xml" title="RSS - pillole" href="/category/keywords/pillole/feed" />
+        <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ctools/css/ctools.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/fivestar/css/fivestar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/lightbox2/css/lightbox.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/mollom/mollom.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/oembed/oembed.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/tagadelic/tagadelic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/forum/forum.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/misc/farbtastic/farbtastic.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/calendar/calendar.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/panels/css/panels.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/taxonomy/taxonomy.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/layout.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/graphics.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/typography.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/links.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/marinelli/giordani/giordani.css?i" />
+
+        <!--[if IE 6]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie6.css" />
+      <![endif]-->
+
+        <!--[if IE 7]>
+          <link rel="stylesheet" type="text/css" href="/sites/all/themes/marinelli/giordani/iestyles/ie7.css" />
+      <![endif]-->
+
+
+        <script type="text/javascript" src="/misc/jquery.js?i"></script>
+<script type="text/javascript" src="/misc/drupal.js?i"></script>
+<script type="text/javascript" src="//var/nadir/drupal/palermoscienza/languages/it_790dce158f5eb1dfc93047e4aacef555.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/equalheights/jquery.equalheights.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/fivestar/js/fivestar.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/auto_image_handling.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/mollom/mollom.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "fivestar": { "titleUser": "Il tuo voto: ", "titleAverage": "Media: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Il tuo voto è stato salvato.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": "0", "file_path": "/(\\w\\w/)system/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 1, "force_show_nav": 0, "show_caption": true, "loop_items": 1, "node_link_text": "", "node_link_target": 0, "image_count": "Immagine !current di !total", "video_count": "Video !current of !total", "page_count": "Pagina !current di !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "preview", "image_node_sizes": "(\\.thumbnail)", "trigger_lightbox_classes": "img.flickr-photo-img,img.flickr-photoset-img", "trigger_lightbox_group_classes": "img.thumbnail, img.image-thumbnail", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){$('.eqheight').equalHeights().css('overflow', 'visible');});
+//--><!]]>
+</script>
+    </head>
+
+
+    <body>
+
+        <div id="utilities">
+            <form action="/category/keywords/pillole?page=2"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Cerca nel sito: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Inserisci i termini da cercare." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Cerca"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-7822e9a84a62d39b4e0082bca4b9cd01" value="form-7822e9a84a62d39b4e0082bca4b9cd01"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+
+                            <div id="plinks">
+                <ul class="links primary-links"><li class="menu-285 first"><a href="/" title="Benvenuti">Home</a></li>
+<li class="menu-2067"><a href="/associazione-palermoscienza" title="Associazione PALERMOSCIENZA">L&#039;associazione</a></li>
+<li class="menu-6708"><a href="/esperienza-insegna-story" title="">Esperienza inSegna</a></li>
+<li class="menu-415"><a href="/news" title="">News</a></li>
+<li class="menu-329"><a href="/contact" title="Contattaci">Contattaci</a></li>
+<li class="menu-1191"><a href="http://newsletter.palermoscienza.it/lists/?p=subscribe&amp;id=3" title="La Newsletter di PALERMOSCIENZA">Newsletter</a></li>
+<li class="menu-337"><a href="/link" title="Link">Link</a></li>
+<li class="menu-6671 last"><a href="/social" title="">Social</a></li>
+</ul>
+                </div>                    </div>
+
+
+        <div id="page">
+
+            <div id="header">
+                
+                
+                <div id="casa_cn">
+                    <div id="casa">
+                        <a href="/">
+                            <span id="logo">
+                            </span>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+
+            
+
+
+
+            <div class="wrapper"><!--wrapper:defines whole content margins-->
+
+                <!-- left -->
+                                <div class="lsidebar">
+
+
+                        
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2017</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="expanded first last"><a href="/esperienza-insegna-2017" title="">Esperienza inSegna 2017</a><ul class="menu"><li class="leaf first"><a href="/esperienza-insegna-2017/dove" title="">Dove</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/informazioni" title="">Informazioni</a></li>
+<li class="leaf"><a href="/esperienza-insegna-2017/quando" title="">Quando</a></li>
+<li class="leaf last"><a href="/esperienza-insegna-2017/calendario" title="">Calendario</a></li>
+</ul></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2016</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2016" title="">Esperienza inSegna 2016</a></li>
+</ul></div>
+</div>
+ <div class="defaultblock">
+    <h2>PALERMOSCIENZA 2015</h2><!--block title-->
+   <div class="blockcontent"><ul class="menu"><li class="collapsed first last"><a href="/esperienza-insegna-2015" title="">Esperienza inSegna 2015</a></li>
+</ul></div>
+</div>
+ <div class="loginblock">
+    <h2 class="login">Login utente</h2><!--block title-->
+   <div class="blockcontent"><form action="/category/keywords/pillole?destination=taxonomy%2Fterm%2F67%3Fpage%3D2"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Nome utente: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Accedi"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="/user/password" title="Richiedi una nuova password per e-mail.">Richiedi una nuova password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-1eefa057bea32e8a1bac66f0c6dc560c" value="form-1eefa057bea32e8a1bac66f0c6dc560c"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+                </div><!-- end left -->
+                    
+
+
+                <div id="primary" class="long">
+                     <div class="singlepage">
+                         <div class="path"><p><span>You are here</span>pillole</p></div>
+                    
+                    <h1>pillole</h1>
+                                        <div class="drdot">
+                        <hr />
+                    </div>
+
+
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/al-la-nona-edizione-di-esperienza-insegna">Al via la nona edizione di Esperienza inSegna</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p><img alt="" src="http://i.imgur.com/AVl2hAy.png" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" />Ha avuto inzio oggi, martedì 23 febbraio 2016, la nona edizione della manifestazione <em><strong>Esperienza inSegna</strong></em><em>,</em><em><strong> </strong></em>organizzata dall&#39;Associazione PALERMOSCIENZA e dedicata quest&#39;anno al tema <em><strong>A</strong></em> <em><strong>CQUA</strong></em>.</p>
+<p>La conferenza inaugurale <em><strong>Due parti di idrogeno e una di ossigeno</strong></em><em>,</em><em><strong> </strong></em>introdotta da Carmelo Arena, presidente dell&#39;Associazione PALERMOSCIENZA, ha aperto la manifestazione: sono intervenuti il rettore dell&#39;Università degli Studi di Palermo, Fabrizio Micari, e l&#39;assessore alla scuola e realtà dell&#39;infanzia del comune di Palermo, Barbara Evola.</p>
+<p>Appuntamenti del giorno di apertura, oltre all&#39;esposizione degli exhibit presentati al pubblico dalle scuole, le associazioni e gli enti espositori, sono stati la conferenza <em><strong>Palermo e l&#39;ac</strong></em><em><strong>q</strong></em><em><strong>ua perduta</strong></em><em> </em>a cura di Valerio Agnesi, presidente della Scuola delle Scienze di base e applicate dell&#39;Università di Palermo e il labortorio <em><strong>Alla ricerca dell&#39;acqua... in biblioteca</strong></em> a cura del Sistema bibliotecario e Archivio storico d&#39;Ateneo.</p>
+<p>A domani!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div align="center"><iframe allowfullscreen="" frameborder="0" height="360" id="vp1gQOZe" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&amp;e=1456259018&amp;f=gQOZe88hCUkB3e1lyyLPQg&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" title="Video Player" width="640"></iframe></div>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/siam-giunti-allultimo-giorno-di-esperienza-insegna">Siam giunti all&#039;ultimo giorno di Esperienza inSegna!</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p>E anche questa edizione volge al termine! L&#39;<strong>ultima mattina</strong> di <strong><em>Esperienza inSegna</em></strong> è trascorsa alla ricerca di <strong>exhibit </strong>non ancora scoperti, o assistendo alle <strong>repliche </strong>dei diversi <strong>spettacoli </strong>in calendario. Tra gli appuntamenti del giorno: la <strong>conferenza <em>I caratteri e la storia del paesaggio agrario del Mediterraneo</em></strong> a cura di Giuseppe Barbera, Dipartimento di Scienze agrarie e forestali, Università di Palermo; e la <strong>conferenza-spettacolo</strong> <em><strong>La bellezza: energia per il cervello. Come la conoscenza, le arti... plasmano la mente umana</strong></em> a cura di Mario Ferreri ed Eliana Danzì, con il Gruppo SudOrff della Scuola secondaria di 1&deg; grado Vittorio Emanuele III di Palermo.</p>
+<p>E sul finire, la <strong>premiazione </strong>dei <strong>video </strong>prodotti dalle scuole, creati dagli studenti e dai docenti, nei quali i protagonisti della manifestazione raccontano e descrivono gli exhibit presentati in mostra dal punto di vista didattico.</p>
+<p>A breve, una pillola &quot;aggiuntiva&quot;...<img alt="" src="http://www.palermoscienza.it/system/files/2015-02-28_17h20_17.jpg" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+<div align="center"><iframe allowfullscreen="" frameborder="0" height="360" id="vp1jnr5H" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&amp;e=1425227122&amp;f=jnr5H0poA63JwHSRKPj5Sw&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" title="Video Player" width="640"></iframe></div>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/penultimo-giorno-di-pillole">Penultimo giorno di pillole!</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p>Anche quest&#39;anno <em>Esperienza inSegna</em> ha riproposto il <strong>convegno </strong><em>Memoria scien</em><em>ti</em><em>æ </em>dal titolo<strong><em>Animali che si nutrono di animali - Teorie, a</em><em>tt</em><em>eggiamen</em><em>ti</em><em> e rappresentazioni dell&#39;alimentazione nel mondo an</em> <em>ti</em><em>co e medievale </em></strong>a cura di Pietro Li Causi e Andrea Libero Carbone e con gli interventi di Jean-Louis Labarrière, Athena Kirk, Marjon Peirens e Roberto Marchesini.</p>
+<p>Come nuovi appuntamenti del giorno, il <strong>workshop <em>I cambiamenti</em><em> clima</em><em>ti</em><em>ci, il &quot;budget Carbonio&quot; e la rivoluzione energe</em><em>ti</em><em>ca</em></strong> a cura di Giuseppe Onufrio, Greenpeace e il <strong>laboratorio <em>La </em> <em>ti</em><em>ntura naturale e sinte</em><em>ti</em><em>ca delle </em><em>fi</em><em>bre tessili </em></strong>a cura di Associazione YOCOCU.</p>
+<p>Tra gli <strong>spettacoli </strong>le repliche di <strong><em>Intervista fotogra</em><em>fi</em><em>ca a Newton</em> </strong>a cura dell&#39;Istituto comprensivo L. Pirandello di Mazara del Vallo e di <strong><em>Acqua e&hellip; gli Altri</em>,</strong> spettacolo teatrale a cura di Gloria Calì con gli alunni della Scuola Secondaria di 1&deg; grado Cosmo Guastella di Misilmeri.</p>
+<p>La giornata si è conclusa con l&#39;interessante <strong>conferenza <em>Sole e ombre come maestri di geometria: alcuni insegnamenti</em></strong> <em>di Emma Castelnuovo </em>durante la quale il maestro elementare Franco Lorenzoni, dopo la proiezione di un breve video sull&#39;&quot;Officina matematica di Emma Castelnuovo&quot; e una sua intervista audio, ha ripercorso alcuni momenti del suo straordinario itinerario di ricerca, che hanno reso il suo metodo riferimento obbligatorio per chiunque tenga a riconnettere la matematica alla realtà e l&#39;apprendimento al desiderio di conoscenza.<img alt="" src="http://www.palermoscienza.it/system/files/2015-02-27_21h56_49.jpg" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+<div align="center"><iframe allowfullscreen="" frameborder="0" height="360" id="vp15HWr0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&amp;e=1425070821&amp;f=5HWr0dym5qm3eJCHeVmyEw&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" title="Video Player" width="640"></iframe></div>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/sesta-pillola-da-ingerire">Sesta pillola da ingerire!</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p>La sesta giornata di Esperienza inSegna si svolge, per i numerosissimi visitatori, tra <strong>laboratori</strong>, <strong>workshop </strong>e <strong>visite guidate</strong>.</p>
+<p>Novità del giorno, lo <strong>spettacolo teatrale<em> Acqua e&hellip; gli Altri</em></strong> a cura di Gloria Calì, con la partecipazione dei giovani attori della Scuola Secondaria di 1&deg; grado Cosmo Guastella di Misilmeri.</p>
+<p>Bravissimi!<img alt="" src="http://www.palermoscienza.it/system/files/2015-02-26_20h56_08.jpg" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+<div><iframe id="vp11IhpO" title="Video Player" width="640" height="360" frameborder="0" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&amp;e=1424980853&amp;f=1IhpO2kdOtmryNGwYY0Xdg&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" allowfullscreen></iframe></div>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/siamo-giunti-al-quinto-giorno-di-esperienza-insegna">Siamo giunti al quinto giorno di Esperienza inSegna!</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p><strong>Conferenza </strong>della giornata&nbsp;<strong><em>L&#39;energia del Pianeta Terra: terremo</em> <em>ti</em> <em>, vulcani e geotermia&nbsp;</em></strong>di Giorgio Capasso e Paolo Madonia, Istituto nazionale di geofisica e vulcanologia (INGV).</p>
+<p>Oggi una visita a uno dei numerosi appuntamenti fissi della manifestazione: il <strong>laboratorio <em>Google non basta! Esperienze di ricerca sul tema dell&#39;energia eolica&nbsp;</em></strong>a cura del Sistema bibliotecario e Archivio storico di Ateneo.</p>
+<p>E poi, sempre in giro per gli affollatissimi spazi del <strong>Polididattico </strong>alla inevitabile ricerca di qualcosa di nuovo da sperimentare.</p>
+<p align="justify" lang="zxx">Bredo lascia il passo ad Aaron...&nbsp;<img alt="" src="http://www.palermoscienza.it/system/files/2015-02-25_21h20_45.jpg" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+<div align="center"><iframe allowfullscreen="" frameborder="0" height="360" id="vp16NI13" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&amp;e=1424895696&amp;f=6NI13yy1wpII0iJqmR0BPQ&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" title="Video Player" width="640"></iframe></div>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/quarta-mattina-ricca-di-esperienze-e-con-una-presenza-speciale">Quarta mattina ricca di esperienze e... con una presenza speciale!</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p>Tra i corridoi di un <strong>affollattissimo Polididattico</strong>, la quarta mattina trascorre densa di appuntamenti ed <strong>exhibit </strong>da sperimentare. Due le <strong>conferenze </strong>del giorno: &quot;<strong><em>Gli ecosistemi forestali: conservazione e </em> </strong><em><strong>valorizzazione della biodiversità</strong>&quot; </em>di Giuseppe Venturella del Dipartimento di Scienze agrarie e forestali, Università di Palermo e &quot;<strong><em>Pane amaro</em> <em>La col</em> <em>ti</em> <em>vazione del frumento nei la</em> <em>ti</em> </strong><em><strong>fondi della Sicilia interna</strong>&quot; </em>di Salvatore Nicosia, Istituto Gramsci siciliano.</p>
+<p>Poi una visita al <strong>laboratorio </strong><em>&quot;<strong>Il ruolo delle biotecnologie alimentari e dei microrganismi nella valorizzazione delle produzioni agroalimentari siciliane</strong></em>&quot; a cura del Dipartimento di Scienze agrarie e forestali, Università di Palermo e infine ad assistere all&#39;<strong>incontro </strong>a cura del Dipartimento di Matematica e Informatica dell&#39;Università degli studi di Palermo (SoCo Group) per scoprire le potenzialità di uno strumento innovativo come quello della <strong>stampa 3D</strong>, e i relativi campi di applicazione.</p>
+<p>E poi ancora in giro a sperimentare nuove cose finché, tra la nutrita folla di visitatori, compare qualcuno davvero capace di <strong>attirare l&#39;attenzione</strong>. Vedere per credere!<img alt="" src="http://www.palermoscienza.it/system/files/2015-02-24_20h45_33.jpg" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+<div align="center"><iframe allowfullscreen="" frameborder="0" height="360" id="vp11Asf1" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&amp;e=1424807206&amp;f=1Asf1B89mzUq1yUBRGvb5w&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" title="Video Player" width="640"></iframe></div>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/esperienza-insegna-terzo-giorno-terza-pillola">Esperienza inSegna: terzo giorno, terza pillola! </a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p>Terza mattina dedicata a diversi appuntamenti. Tra i <strong>laboratori </strong>della giornata: <strong><em>Educazione al consumo consapevole </em></strong>a cura di Coop Sicilia, <strong><em>Conosciamo la fru</em><em>tt</em><em>a che mangiamo?</em> </strong>a cura del Dipartimento di Scienze agrarie e forestali - Università di Palermo e infine il laboratorio e la visita guidata della Biblioteca di Ingegneria per <strong><em>Google non basta! </em> <em>Esperienze di ricerca sul tema dell&#39;energia eolica </em></strong>a cura del Sistema bibliotecario e Archivio storico di Ateneo.</p>
+<p>Tra gli appuntamenti riproposti: il <strong>workshop <em>L&#39;ecologia della luce</em>,</strong><em><strong> Senza luce si può</strong>&hellip; </em>e <strong><em>La luce è vita</em> a cura </strong>di EcoCampus - Istituto Salesiano Don Bosco - Ranchibile e lo <strong>spettacolo <em>Intervista fotografi</em><em>ca a Newton</em></strong>, a cura dell&#39;Istituto comprensivo Luigi Pirandello di Mazara del Vallo.</p>
+<p>Oggi il gradito ritorno della<em><strong> </strong></em><strong>conferenza </strong>interattiva nella formula <em>Gli studenti interrogano</em> dal titolo<strong><em>Vita nell&#39;Universo: avventure scien</em><em>tifi</em><em>che e sugges</em><em>ti</em><em>oni </em><em>fi</em><em>loso</em><em>fi</em> <em>che al cospe</em><em>tt</em><em>o delle stelle</em></strong>, durante la quale sono stati tracciati due filoni di indagine, scientifico e filosofico, attraverso gli interventi del professore Maggio, docente di astronomia, e il professore Palumbo, docente di filosofia teoretica, moderati dalla professoressa Patrizia Rizzuto.</p>
+<p>Piacevole novità di questa edizione, infine, l&#39;<strong>incontro</strong> con la giornalista Serena Manfrè che ha parlato del suo libro per ragazzi &quot;<strong>Regine della Scienza</strong>&quot; incentrato su cinque biografie di scienziate - Rita Levi Montalcini, Maria Montessori, Caroline Herschel, Suor Celeste e Ipazia d&#39;Alessandria.&nbsp;<img alt="" src="http://www.palermoscienza.it/system/files/2015-02-23_21h38_05.jpg" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+<div align="center"><iframe allowfullscreen="" frameborder="0" height="360" id="vp1TGXMv" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&amp;e=1424723966&amp;f=TGXMvT7TpMhe71bMmS6y8A&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" title="Video Player" width="640"></iframe></div>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/secondo-giorno-di-esperienza-insegna-secondo-giorno-di-pillola">Secondo giorno di Esperienza inSegna, secondo giorno di pillola</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p align="justify" lang="zxx">Secondo giorno in giro per gli spazi del Polididattico, alla scoperta degli exhibit raccontati dagli studenti e partecipando alle attività previste. Tra gli appuntamenti del giorno:</p>
+<ul>
+<li align="justify" lang="zxx">il <strong>laboratorio </strong><em>A caccia di spettri - Fare per Capire, </em>curato dell&#39;Associazione PALERMOSCIENZA e dedicato ai più piccoli, durante il quale è stata analizzata la scomposizione della luce usando un prisma e uno spettroscopio di cartone;</li>
+<li align="justify" lang="zxx">il <strong>workshop </strong><em>L&#39;ecologia della luce</em>,<em> Senza luce si può&hellip; </em>e <em>La luce è vita</em> a cura di EcoCampus - Istituto Salesiano Don Bosco - Ranchibile.</li>
+</ul>
+<p align="justify" lang="zxx">Appuntamento a domani con altre esperienze!<img alt="" src="http://www.palermoscienza.it/system/files/2015-02-22_21h47_52.jpg" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+<p align="justify" lang="zxx">&nbsp;</p>
+<div align="center"><iframe allowfullscreen="" frameborder="0" height="360" id="vp1SDFkf" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&amp;e=1424638351&amp;f=SDFkfmAONNDLB5661paqDA&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" title="Video Player" width="640"></iframe></div>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/al-lottava-edizione-di-esperienza-insegna-la-prima-pillola">Al via l&#039;ottava edizione di Esperienza inSegna: la prima pillola!</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p>È iniziata oggi l&#39;ottava edizione di <em>Esperienza inSegna</em> dedicata al tema multiplo <em>luce energia cibo</em>.</p>
+<p>Alla tavola rotonda inaugurale introdotta da Carmelo Arena, presidente dell&#39;Associazione PALERMOSCIENZA, e presieduta da Roberto Lagalla, rettore dell&#39;Università di Palermo, hanno partecipato Ettore Barone, direttore del Dipartimento di Scienze agrarie e forestali, Maurizio Carta, presidente vicario della Scuola politecnica, Giuseppina Micela, direttrice dell&#39;Osservatorio astronomico di Palermo, ed è intervenuto l&#39;on. Davide Faraone, sottosegretario di Stato del Ministero dell&#39;Istruzione.</p>
+<p>Tra gli appuntamenti della mattina la conferenza <em>Biodiversità, patrimonio culturale e agroalimentare a rischio di scomparsa </em>a cura di Francesco Sottile del Dipartimento di Scienze agrarie e forestali - Università di Palermo, la conferenza e il laboratorio <em>Attività della Croce Rossa Italiana e simulazione di primo soccorso</em> curato da Croce Rossa Italiana - Comitato Provinciale di Palermo, e il laboratorio <em>A caccia di spettri - Fare per Capire </em>a cura dell&#39;Associazione PALERMOSCIENZA.</p>
+<p>E ancora il workshop <em>L&#39;ecologia della luce</em>,<em> Senza luce si può&hellip; </em>e <em>La luce è vita</em> a cura di EcoCampus - Istituto Salesiano Don Bosco - Ranchibile e infine lo spettacolo <em>Intervista fotogra</em><em>fi</em><em>ca a Newton</em>, con i bravissimi alunni dell&#39;Istituto comprensivo Luigi Pirandello di Mazara del Vallo.</p>
+<p>A domani!</p>
+<p><img alt="" src="http://www.palermoscienza.it/system/files/2015-02-21_21h46_27.jpg" style="width: 1px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+<div align="center"><iframe allowfullscreen="" frameborder="0" height="360" id="vp1Dv1Y4" src="https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&amp;e=1424552068&amp;f=Dv1Y4BJXpMsUuxRZX0btDA&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" title="Video Player" width="640"></iframe>
+<div>&nbsp;</div>
+</div>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+
+ 
+ 
+ 
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/news/settimo-e-ultimo-giorno-di-esperienza-insegna-2014-certo-%C3%A8-probabile">Settimo e ultimo giorno di Esperienza inSegna 2014: &quot;Certo... è probabile&quot;</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p>Una domenica finale all&#39;insegna delle conferenze-spettacolo: tra gli ormai caratteristici appuntamenti proposti da Esperienza inSegna e dedicati alle famiglie <strong>Creatività e improbabilità&quot; - Ipotesi sulle basi neurofisiologiche della creatività</strong> a cura di Mario Ferreri e Eliana Danzì e con l&#39;orchestra della Scuola secondaria di 1&deg; grado Vittorio Emanuele III di Palermo; <strong>Alla ricerca della ricetta perfetta </strong>e<strong> La scienza in cucina</strong> con i grandi chef a cura di InnovIdea.</p>
+<p>Tra le novità <strong>Il video improbabile</strong>, un laboratorio a cura di Fixsix e dedicato ai bambini, per spiegare le diverse teorie della probabilità attraverso il linguaggio dell&rsquo;animazione 2d in stop motion, mostrandone una visione creativa.</p>
+<p>Nella pillola di oggi anche alcune immagini relative alle visite guidate <strong>Osservazioni notturne e altre attività astronomiche</strong> a cura di INAF - Osservatorio Astronomico di Palermo e del Planetario di Palermo che si sono svolte serata di venerdì 21 presso Villa Filippina.</p>
+<p>A chiudere la settima edizione della manifestazione la consegna dei premi dedicati ai migliori exhibit ideati e costruiti dagli studenti.</p>
+<p>Buona visione e <strong>grazie per essere stati con noi</strong>!<img alt="" src="http://www.palermoscienza.it/system/files/2014-02-23_21h59_31.jpg" style="width: 2px; height: 1px; border-width: 0px; border-style: solid; margin: 0px;" /></p>
+<div align="center"><iframe allowfullscreen="" frameborder="0" height="306" id="vp1kumpt" src="http://embed.animoto.com/play.html?w=swf/production/vp1&amp;e=1393189084&amp;f=kumptI3obq7HjQt9F8ymHQ&amp;d=0&amp;m=a&amp;r=360p&amp;volume=100&amp;start_res=360p&amp;i=m&amp;asset_domain=s3-p.animoto.com&amp;animoto_domain=animoto.com&amp;options=" title="Video Player" width="544"></iframe></div>
+</div>
+    
+    
+        
+                
+    
+    
+    
+  </div>
+<div class="item-list"><ul class="pager"><li class="pager-first first"><a href="/category/keywords/pillole" title="Vai alla prima pagina" class="active">« primo</a></li>
+<li class="pager-previous"><a href="/category/keywords/pillole?page=1" title="Vai alla pagina precedente" class="active">‹ precedente</a></li>
+<li class="pager-item"><a href="/category/keywords/pillole" title="Vai alla pagina 1" class="active">1</a></li>
+<li class="pager-item"><a href="/category/keywords/pillole?page=1" title="Vai alla pagina 2" class="active">2</a></li>
+<li class="pager-current">3</li>
+<li class="pager-item"><a href="/category/keywords/pillole?page=3" title="Vai alla pagina 4" class="active">4</a></li>
+<li class="pager-item"><a href="/category/keywords/pillole?page=4" title="Vai alla pagina 5" class="active">5</a></li>
+<li class="pager-item"><a href="/category/keywords/pillole?page=5" title="Vai alla pagina 6" class="active">6</a></li>
+<li class="pager-item"><a href="/category/keywords/pillole?page=6" title="Vai alla pagina 7" class="active">7</a></li>
+<li class="pager-next"><a href="/category/keywords/pillole?page=3" title="Vai alla pagina successiva" class="active">successiva ›</a></li>
+<li class="pager-last last"><a href="/category/keywords/pillole?page=6" title="Vai all&#039;ultima pagina" class="active">ultima »</a></li>
+</ul></div>                </div>
+            </div>
+
+
+
+            <!-- right -->
+                
+
+
+            <div class="clear"></div>
+
+        </div>
+
+        </div>
+        <!-- Close Page -->
+
+        <div id="footer">
+        
+
+   <p><a href="//www.iubenda.com/privacy-policy/808816" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a></p>
+<script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>        </div>
+<script src="http://cdn.wibiya.com/Toolbars/dir_1133/Toolbar_1133932/Loader_1133932.js" type="text/javascript"></script><noscript><a href="http://www.wibiya.com/">Web Toolbar by Wibiya</a></noscript><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-90058-23"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+    </body>
+</html>
